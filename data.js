@@ -9,7 +9,8 @@ window.ADS = [
         "landing":  "",
         "img":  "img/meta-1555358386624173.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1555358386624173",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  true
     },
     {
         "product":  "dlp",
@@ -21,7 +22,8 @@ window.ADS = [
         "landing":  "",
         "img":  "img/meta-1056271350580293.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1056271350580293",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  true
     },
     {
         "product":  "maxicash",
@@ -33,7 +35,8 @@ window.ADS = [
         "landing":  "",
         "img":  "img/meta-4263503633940507.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=4263503633940507",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -45,7 +48,8 @@ window.ADS = [
         "landing":  "https://www.santanderconsumer.com.pe/personas/tarjeta/solicitar-visa-santander-consumer?utm_source=Meta\u0026utm_medium=cpl\u0026utm_campaign=Tarjetas_Adquisicion-Cashback-Sorteo_Meta_cpl_11-26\u0026utm_term=benefic",
         "img":  "img/meta-1140979145094256.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1140979145094256",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "maxicash",
@@ -57,7 +61,8 @@ window.ADS = [
         "landing":  "http://play.google.com/store/apps/details?id=com.bbva.nxt_peru",
         "img":  "img/meta-1084083757743524.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1084083757743524",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "maxicash",
@@ -69,7 +74,8 @@ window.ADS = [
         "landing":  "http://play.google.com/store/apps/details?id=com.bbva.nxt_peru",
         "img":  "img/meta-1121928136861615.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1121928136861615",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "maxicash",
@@ -81,7 +87,8 @@ window.ADS = [
         "landing":  "http://play.google.com/store/apps/details?id=com.bbva.nxt_peru",
         "img":  "img/meta-1420572663380842.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1420572663380842",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "maxicash",
@@ -93,7 +100,8 @@ window.ADS = [
         "landing":  "http://play.google.com/store/apps/details?id=com.bbva.nxt_peru",
         "img":  "img/meta-1813939982972134.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1813939982972134",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "maxicash",
@@ -105,7 +113,8 @@ window.ADS = [
         "landing":  "http://play.google.com/store/apps/details?id=com.bbva.nxt_peru",
         "img":  "img/meta-1719185229148468.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1719185229148468",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "maxicash",
@@ -117,7 +126,8 @@ window.ADS = [
         "landing":  "http://play.google.com/store/apps/details?id=com.bbva.nxt_peru",
         "img":  "img/meta-1091137067146553.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1091137067146553",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "maxicash",
@@ -129,7 +139,8 @@ window.ADS = [
         "landing":  "http://play.google.com/store/apps/details?id=com.bbva.nxt_peru",
         "img":  "img/meta-1393781060478701.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1393781060478701",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "maxicash",
@@ -141,7 +152,8 @@ window.ADS = [
         "landing":  "http://play.google.com/store/apps/details?id=com.bbva.nxt_peru",
         "img":  "img/meta-1116064637743020.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1116064637743020",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "maxicash",
@@ -153,7 +165,8 @@ window.ADS = [
         "landing":  "http://play.google.com/store/apps/details?id=com.bbva.nxt_peru",
         "img":  "img/meta-1762134065078044.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1762134065078044",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "maxicash",
@@ -165,7 +178,8 @@ window.ADS = [
         "landing":  "http://play.google.com/store/apps/details?id=com.bbva.nxt_peru",
         "img":  "img/meta-1777609246846610.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1777609246846610",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "maxicash",
@@ -177,7 +191,8 @@ window.ADS = [
         "landing":  "http://play.google.com/store/apps/details?id=com.bbva.nxt_peru",
         "img":  "img/meta-1622427616098880.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1622427616098880",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -189,7 +204,8 @@ window.ADS = [
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpm\u0026utm_content=linkad\u0026utm_campaign=prestamos-sumate-branding-Sep26",
         "img":  "img/meta-2233465894247621.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=2233465894247621",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -201,7 +217,8 @@ window.ADS = [
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpc\u0026utm_content=linkad\u0026utm_campaign=prestamos-sumate-trafico-sep26",
         "img":  "img/meta-2237857130409085.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=2237857130409085",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -213,7 +230,8 @@ window.ADS = [
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpm\u0026utm_content=linkad\u0026utm_campaign=prestamos-sumate-branding-Sep26",
         "img":  "img/meta-1453658436901421.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1453658436901421",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -225,7 +243,8 @@ window.ADS = [
         "landing":  "https://www.scotiabank.com.pe/10csi?utm_source=meta\u0026utm_medium=paid\u0026utm_campaign=SB_Meta_UF_Activos_TC_Clientes_Branding_Reproducciones_AO_AON-Beneficios_Nov-26\u0026utm_term=NG_BBDD_Nov-26\u0026utm_content=PPL",
         "img":  "img/meta-2100441603944694.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=2100441603944694",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -237,7 +256,8 @@ window.ADS = [
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpa\u0026utm_content=linkads\u0026utm_campaign=ppff-aon-conversion-sept26",
         "img":  "img/meta-1278593871097861.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1278593871097861",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "maxicash",
@@ -249,7 +269,8 @@ window.ADS = [
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpc\u0026utm_content=linkad-efex\u0026utm_campaign=ppff-cyber-trafico-nov26",
         "img":  "img/meta-1450839900347333.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1450839900347333",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "maxicash",
@@ -261,7 +282,8 @@ window.ADS = [
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpm\u0026utm_content=linkad-efex\u0026utm_campaign=ppff-cyber-branding-nov26",
         "img":  "img/meta-4080020882129003.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=4080020882129003",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "maxicash",
@@ -273,7 +295,8 @@ window.ADS = [
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpm\u0026utm_content=carrusel-efex\u0026utm_campaign=ppff-cyber-branding-nov26",
         "img":  "img/meta-1128621369892031.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1128621369892031",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "maxicash",
@@ -285,7 +308,8 @@ window.ADS = [
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpm\u0026utm_content=carrusel\u0026utm_campaign=ppff-aon-branding-jul26",
         "img":  "img/meta-2544072916080468.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=2544072916080468",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "maxicash",
@@ -297,7 +321,8 @@ window.ADS = [
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpa\u0026utm_content=linkad\u0026utm_campaign=ppff-cyber-conversion-nov26",
         "img":  "img/meta-1655328463050936.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1655328463050936",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "maxicash",
@@ -309,7 +334,8 @@ window.ADS = [
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpm\u0026utm_content=linkads\u0026utm_campaign=ppff-aon-branding-jul26",
         "img":  "img/meta-1050133384786640.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1050133384786640",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "maxicash",
@@ -321,7 +347,8 @@ window.ADS = [
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpm\u0026utm_content=animado\u0026utm_campaign=ppff-aon-branding-jul26",
         "img":  "img/meta-4195692157397793.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=4195692157397793",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "maxicash",
@@ -333,7 +360,8 @@ window.ADS = [
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpc\u0026utm_content=linkads\u0026utm_campaign=ppff-aon-trafico-jul26",
         "img":  "img/meta-1798176281231535.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1798176281231535",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "maxicash",
@@ -345,7 +373,8 @@ window.ADS = [
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpa\u0026utm_content=carrusel\u0026utm_campaign=ppff-aon-conversion-may26",
         "img":  "img/meta-1827350761915049.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1827350761915049",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "maxicash",
@@ -357,7 +386,8 @@ window.ADS = [
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpc\u0026utm_content=animado\u0026utm_campaign=ppff-aon-trafico-jul26",
         "img":  "img/meta-1641378960767997.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1641378960767997",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "maxicash",
@@ -369,7 +399,8 @@ window.ADS = [
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpa\u0026utm_content=carrusel\u0026utm_campaign=ppff-aon-conversion-oct26",
         "img":  "img/meta-1712700027095913.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1712700027095913",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "maxicash",
@@ -381,7 +412,8 @@ window.ADS = [
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpa\u0026utm_content=linkads\u0026utm_campaign=ppff-aon-conversion-may26",
         "img":  "img/meta-1096163429864622.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1096163429864622",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "maxicash",
@@ -393,7 +425,8 @@ window.ADS = [
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpc\u0026utm_content=carrusel\u0026utm_campaign=ppff-aon-trafico-jul26",
         "img":  "img/meta-2366524120755607.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=2366524120755607",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "maxicash",
@@ -405,7 +438,8 @@ window.ADS = [
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpc\u0026utm_content=linkads\u0026utm_campaign=ppff-aon-trafico-may26",
         "img":  "img/meta-1412258924290823.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1412258924290823",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "maxicash",
@@ -417,7 +451,8 @@ window.ADS = [
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpa\u0026utm_content=linkads\u0026utm_campaign=ppff-aon-conversion-jul26",
         "img":  "img/meta-1435512925417076.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1435512925417076",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "maxicash",
@@ -429,7 +464,8 @@ window.ADS = [
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpc\u0026utm_content=carrusel-efex\u0026utm_campaign=ppff-cyber-nov26",
         "img":  "img/meta-1794568361795305.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1794568361795305",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "maxicash",
@@ -441,7 +477,8 @@ window.ADS = [
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpa\u0026utm_content=carrusel\u0026utm_campaign=ppff-aon-conversion-jul26",
         "img":  "img/meta-1140511242207341.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1140511242207341",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "maxicash",
@@ -453,7 +490,8 @@ window.ADS = [
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpa\u0026utm_content=animado\u0026utm_campaign=ppff-aon-conversion-jul26",
         "img":  "img/meta-1103758679034176.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1103758679034176",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "maxicash",
@@ -465,7 +503,8 @@ window.ADS = [
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpa\u0026utm_content=carrusel\u0026utm_campaign=ppff-cyber-conversion-nov26",
         "img":  "img/meta-1856204682471033.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1856204682471033",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "maxicash",
@@ -477,7 +516,8 @@ window.ADS = [
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpa\u0026utm_content=linkads\u0026utm_campaign=ppff-aon-conversion-oct26",
         "img":  "img/meta-4403509226449286.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=4403509226449286",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "credito_efectivo",
@@ -489,7 +529,8 @@ window.ADS = [
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpm\u0026utm_content=linkad-sef\u0026utm_campaign=ppff-cyber-branding-nov26",
         "img":  "img/meta-2377018919708265.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=2377018919708265",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "credito_efectivo",
@@ -501,7 +542,8 @@ window.ADS = [
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpm\u0026utm_content=carrusel-sef\u0026utm_campaign=ppff-cyber-branding-nov26",
         "img":  "img/meta-1125266996559606.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1125266996559606",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "credito_efectivo",
@@ -513,7 +555,8 @@ window.ADS = [
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpm\u0026utm_content=animado-efex\u0026utm_campaign=ppff-cyber-branding-nov26",
         "img":  "img/meta-1684055816390156.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1684055816390156",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "credito_efectivo",
@@ -525,7 +568,8 @@ window.ADS = [
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpc\u0026utm_content=linkad-sef\u0026utm_campaign=ppff-cyber-trafico-nov26",
         "img":  "img/meta-1432880092380824.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1432880092380824",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "credito_efectivo",
@@ -537,7 +581,8 @@ window.ADS = [
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpm\u0026utm_content=linkads\u0026utm_campaign=ppff-aon-branding-jul26",
         "img":  "img/meta-1641858401003954.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1641858401003954",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "credito_efectivo",
@@ -549,7 +594,8 @@ window.ADS = [
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpm\u0026utm_content=carrusel\u0026utm_campaign=ppff-aon-branding-jul26",
         "img":  "img/meta-1618704663645272.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1618704663645272",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "credito_efectivo",
@@ -561,7 +607,8 @@ window.ADS = [
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpm\u0026utm_content=animado\u0026utm_campaign=ppff-aon-branding-jul26",
         "img":  "img/meta-1797285801508306.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1797285801508306",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "credito_efectivo",
@@ -573,7 +620,8 @@ window.ADS = [
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpa\u0026utm_content=linkads\u0026utm_campaign=ppff-aon-conversion-may26",
         "img":  "img/meta-1638413628328031.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1638413628328031",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "credito_efectivo",
@@ -585,7 +633,8 @@ window.ADS = [
         "landing":  "https://cloud.correobanbif.com.pe/solicitud-prestamo",
         "img":  "img/meta-4517028708550104.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=4517028708550104",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "credito_efectivo",
@@ -597,7 +646,8 @@ window.ADS = [
         "landing":  "https://cloud.correobanbif.com.pe/solicitud-prestamo",
         "img":  "img/meta-1831156268071265.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1831156268071265",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "credito_efectivo",
@@ -609,7 +659,8 @@ window.ADS = [
         "landing":  "https://cloud.correobanbif.com.pe/solicitud-prestamo",
         "img":  "img/meta-2498460613999036.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=2498460613999036",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "credito_efectivo",
@@ -621,7 +672,8 @@ window.ADS = [
         "landing":  "https://cloud.correobanbif.com.pe/solicitud-prestamo",
         "img":  "img/meta-2116801442544256.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=2116801442544256",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "credito_efectivo",
@@ -633,7 +685,8 @@ window.ADS = [
         "landing":  "https://cloud.correobanbif.com.pe/solicitud-prestamo",
         "img":  "img/meta-2981808115500653.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=2981808115500653",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "credito_efectivo",
@@ -645,7 +698,8 @@ window.ADS = [
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpa\u0026utm_content=linkad\u0026utm_campaign=prestamos-aon-pef-performance-oct26",
         "img":  "img/meta-1400364022083532.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1400364022083532",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "credito_efectivo",
@@ -657,7 +711,8 @@ window.ADS = [
         "landing":  "https://cloud.correobanbif.com.pe/solicitud-prestamo",
         "img":  "img/meta-1472820894896071.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1472820894896071",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "credito_efectivo",
@@ -669,7 +724,8 @@ window.ADS = [
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpa\u0026utm_content=carrusel\u0026utm_campaign=prestamos-aon-pef-performance-oct26",
         "img":  "img/meta-1108775288581442.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1108775288581442",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "credito_efectivo",
@@ -681,7 +737,8 @@ window.ADS = [
         "landing":  "https://cloud.correobanbif.com.pe/solicitud-prestamo",
         "img":  "img/meta-2246811322530339.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=2246811322530339",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "credito_efectivo",
@@ -693,7 +750,8 @@ window.ADS = [
         "landing":  "https://cloud.correobanbif.com.pe/solicitud-prestamo",
         "img":  "img/meta-1524758363021419.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1524758363021419",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -705,7 +763,8 @@ window.ADS = [
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpa\u0026utm_content=carrusel\u0026utm_campaign=ppff-aon-conversion-sept26",
         "img":  "img/meta-2345426256218463.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=2345426256218463",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "credito_efectivo",
@@ -717,7 +776,8 @@ window.ADS = [
         "landing":  "https://cloud.correobanbif.com.pe/solicitud-prestamo",
         "img":  "img/meta-2050145429024785.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=2050145429024785",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -729,7 +789,8 @@ window.ADS = [
         "landing":  "https://www.qapaq.pe/prestamos/libre-disponibilidad-gnv/?utm_source=facebook-storydoers\u0026utm_medium=post\u0026utm_campaign=trafico-gnv\u0026utm_term=LAL-BBDD-gnv\u0026utm_content=VIDEO-5-taxi",
         "img":  "img/meta-2871136116571399.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=2871136116571399",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  true
     },
     {
         "product":  "dlp",
@@ -741,7 +802,8 @@ window.ADS = [
         "landing":  "https://www.qapaq.pe/prestamos/libre-disponibilidad-gnv/?utm_source=facebook-storydoers\u0026utm_medium=post\u0026utm_campaign=trafico-gnv\u0026utm_term=LAL-visitas-gnv\u0026utm_content=anuncio-A",
         "img":  "img/meta-2001566483793517.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=2001566483793517",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  true
     },
     {
         "product":  "dlp",
@@ -753,7 +815,8 @@ window.ADS = [
         "landing":  "https://www.qapaq.pe/prestamos/libre-disponibilidad-gnv/",
         "img":  "img/meta-2826557237721302.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=2826557237721302",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  true
     },
     {
         "product":  "dlp",
@@ -765,7 +828,8 @@ window.ADS = [
         "landing":  "https://www.qapaq.pe/prestamos/libre-disponibilidad-gnv/",
         "img":  "img/meta-1508687910739587.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1508687910739587",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -777,7 +841,8 @@ window.ADS = [
         "landing":  "https://www.qapaq.pe/prestamos/libre-disponibilidad-gnv/?utm_source=facebook-storydoers\u0026utm_medium=post\u0026utm_campaign=trafico-gnv\u0026utm_term=LAL-visitas-gnv\u0026utm_content=anuncio-A",
         "img":  "img/meta-2043184499926324.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=2043184499926324",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  true
     },
     {
         "product":  "dlp",
@@ -789,7 +854,8 @@ window.ADS = [
         "landing":  "https://www.qapaq.pe/prestamos/libre-disponibilidad-gnv/?utm_source=facebook-storydoers\u0026utm_medium=post\u0026utm_campaign=trafico-gnv\u0026utm_term=LAL-BBDD-gnv\u0026utm_content=VIDEO-4",
         "img":  "img/meta-4324945557835500.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=4324945557835500",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  true
     },
     {
         "product":  "dlp",
@@ -801,7 +867,8 @@ window.ADS = [
         "landing":  "https://tinyurl.com/58t9fcas",
         "img":  "img/meta-3157231461277268.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=3157231461277268",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  true
     },
     {
         "product":  "dlp",
@@ -813,7 +880,8 @@ window.ADS = [
         "landing":  "https://tinyurl.com/bdf4hua6",
         "img":  "img/meta-1850224126008974.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1850224126008974",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -825,7 +893,8 @@ window.ADS = [
         "landing":  "https://tinyurl.com/3hp6jr7e",
         "img":  "img/meta-1104089395558647.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1104089395558647",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  true
     },
     {
         "product":  "dlp",
@@ -837,7 +906,8 @@ window.ADS = [
         "landing":  "https://tinyurl.com/5fmhxtdn",
         "img":  "img/meta-1098452713075424.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1098452713075424",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  true
     },
     {
         "product":  "garantia",
@@ -849,7 +919,8 @@ window.ADS = [
         "landing":  "",
         "img":  "img/meta-2332537827557778.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=2332537827557778",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -861,7 +932,8 @@ window.ADS = [
         "landing":  "https://tarjetas.bancoripley.com.pe/consultar?utm_source=meta\u0026utm_medium=cpm\u0026utm_content=animado\u0026utm_campaign=rpgo-razones-alcance-oct26",
         "img":  "img/meta-1126536953108298.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1126536953108298",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -873,7 +945,8 @@ window.ADS = [
         "landing":  "http://play.google.com/store/apps/details?id=com.bbva.nxt_peru",
         "img":  "img/meta-1629810932048320.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1629810932048320",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -885,7 +958,8 @@ window.ADS = [
         "landing":  "https://tarjetas.bancoripley.com.pe/consultar?utm_source=meta\u0026utm_medium=cpm\u0026utm_content=carrusel\u0026utm_campaign=rpgo-milesderazones-branding-oct26",
         "img":  "img/meta-1807870966763537.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1807870966763537",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -897,7 +971,8 @@ window.ADS = [
         "landing":  "https://tarjetas.bancoripley.com.pe/consultar?utm_source=meta\u0026utm_medium=cpm\u0026utm_content=carrusel\u0026utm_campaign=rpgo-milesderazones-branding-oct26",
         "img":  "img/meta-1122778876911855.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1122778876911855",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -909,7 +984,8 @@ window.ADS = [
         "landing":  "https://tarjetas.bancoripley.com.pe/consultar?utm_source=meta\u0026utm_medium=cpm\u0026utm_content=carrusel\u0026utm_campaign=rpgo-milesderazones-branding-oct26",
         "img":  "img/meta-4678142139093116.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=4678142139093116",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -921,7 +997,8 @@ window.ADS = [
         "landing":  "https://pidetutarjeta.bbva.pe/?cid=soc%3A%3Afb%3A00027712-tc_vd_open_cnv_feb_-tar-%3Armkt_web-perf-conv%3A1050120113%3A%3A%3A%3A%3A%3Aimagen%3A%3A%3Apsi",
         "img":  "img/meta-2405915826899941.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=2405915826899941",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -933,7 +1010,8 @@ window.ADS = [
         "landing":  "https://www.santanderconsumer.com.pe/personas/tarjeta/solicitar-visa-santander-consumer?utm_source=Meta\u0026utm_medium=cpc\u0026utm_campaign=Tarjetas_Adquisicion_Meta_cpc_10-26\u0026utm_term=preaprobada_PPL_10-26\u0026u",
         "img":  "img/meta-1605252000688127.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1605252000688127",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -945,7 +1023,8 @@ window.ADS = [
         "landing":  "http://play.google.com/store/apps/details?id=com.bbva.nxt_peru",
         "img":  "img/meta-1019220397789777.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1019220397789777",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -957,7 +1036,8 @@ window.ADS = [
         "landing":  "http://play.google.com/store/apps/details?id=com.bbva.nxt_peru",
         "img":  "img/meta-909741415257277.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=909741415257277",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -969,7 +1049,8 @@ window.ADS = [
         "landing":  "https://pidetutarjeta.bbva.pe/?cid=soc%3A%3Afb%3A00027712-tc_vd_open_cnv_feb_-tar-%3Aopen-perf-conv%3A0850120101%3A%3A%3A%3A%3A%3Aimagen%3A%3A%3Agen",
         "img":  "img/meta-1404097341806037.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1404097341806037",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -981,7 +1062,8 @@ window.ADS = [
         "landing":  "https://pidetutarjeta.bbva.pe/?cid=soc%3A%3Afb%3A00027712-tc_vd_open_cnv_feb_-tar-%3Armkt_web-perf-conv%3A0160112867%3A%3A%3A%3A%3A%3Aimagen%3A%3A%3Armkt4",
         "img":  "img/meta-1669109401515904.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1669109401515904",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -993,7 +1075,8 @@ window.ADS = [
         "landing":  "https://pidetutarjeta.bbva.pe/?cid=soc%3A%3Afb%3A00027712-tc_vd_open_cnv_feb_-tar-%3Aopen-perf-conv%3A0760112895%3A%3A%3A%3A%3A%3Aimagen%3A%3A%3Ach_op2",
         "img":  "img/meta-4868499000044381.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=4868499000044381",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1005,7 +1088,8 @@ window.ADS = [
         "landing":  "https://pidetutarjeta.bbva.pe/?cid=soc%3A%3Afb%3A00027712-tc_vd_open_cnv_feb_-tar-%3Armkt_web-perf-conv%3A0550120106%3A%3A%3A%3A%3A%3Aimagen%3A%3A%3Aappsi36_5",
         "img":  "img/meta-1133860115898234.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1133860115898234",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1017,7 +1101,8 @@ window.ADS = [
         "landing":  "https://pidetutarjeta.bbva.pe/?cid=soc%3A%3Afb%3A00027712-tc_vd_open_cnv_feb_-tar-%3Armkt_web-perf-conv%3A0160112866%3A%3A%3A%3A%3A%3Aimagen%3A%3A%3Armkt3",
         "img":  "img/meta-4636824676645049.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=4636824676645049",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1029,7 +1114,8 @@ window.ADS = [
         "landing":  "https://www.falabella.com.pe/falabella-pe/",
         "img":  "img/meta-1104029895723790.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1104029895723790",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1041,7 +1127,8 @@ window.ADS = [
         "landing":  "https://www.falabella.com.pe/falabella-pe/",
         "img":  "img/meta-1522727426322472.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1522727426322472",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1053,7 +1140,8 @@ window.ADS = [
         "landing":  "https://www.bancofalabella.pe/promociones/detalle/consumo-cyb-nov26?utm_source=meta\u0026utm_medium=cpm\u0026utm_campaign=pe-ini-convenios-them000003-consumo-meta-cpm\u0026utm_content=cyber_fb%20ig-bbdd-0",
         "img":  "img/meta-29216544288030317.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=29216544288030317",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1065,7 +1153,8 @@ window.ADS = [
         "landing":  "https://www.cmrpuntos.pe/paga-menos-landing?utm_source=meta\u0026utm_medium=cpm\u0026utm_campaign=pe-ini-loyalty-%C2%B400053-aon_general_paga_menos-meta-cpm\u0026utm_content=aon_general_paga_menos-bbdd-0",
         "img":  "img/meta-1139379295257699.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1139379295257699",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1077,7 +1166,8 @@ window.ADS = [
         "landing":  "https://www.cmrpuntos.pe/institucional?utm_source=meta\u0026utm_medium=cpm\u0026utm_campaign=pe-ini-loyalty-%C2%B400053-aon_general_flexibilidad-meta-cpm\u0026utm_content=aon_general_flexibilidad-bbdd-0",
         "img":  "img/meta-1823606198947371.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1823606198947371",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1089,7 +1179,8 @@ window.ADS = [
         "landing":  "",
         "img":  "img/meta-1872270030440349.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1872270030440349",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1101,7 +1192,8 @@ window.ADS = [
         "landing":  "https://www.cmrpuntos.pe/paga-menos-landing?utm_source=meta\u0026utm_medium=cpm\u0026utm_campaign=pe-ini-loyalty-%C2%B400053-aon_general_paga_menos-meta-cpm\u0026utm_content=aon_general_paga_menos-bbdd-0",
         "img":  "img/meta-1825803938559866.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1825803938559866",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1113,7 +1205,8 @@ window.ADS = [
         "landing":  "https://www.cmrpuntos.pe/paga-menos-landing?utm_source=meta\u0026utm_medium=cpm\u0026utm_campaign=pe-ini-loyalty-%C2%B400053-aon_general_paga_menos-meta-cpm\u0026utm_content=aon_general_paga_menos-bbdd-0",
         "img":  "img/meta-1816219762807347.jpg",
         "url":  "https://www.facebook.com/ads/library/?id=1816219762807347",
-        "src":  "meta"
+        "src":  "meta",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1125,7 +1218,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR05204693089288978433.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR04008835380739571713/creative/CR05204693089288978433?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR04008835380739571713/creative/CR05204693089288978433?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1137,7 +1231,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR14496885757949509633.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR04008835380739571713/creative/CR14496885757949509633?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR04008835380739571713/creative/CR14496885757949509633?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1149,7 +1244,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR12541546989583597569.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR04008835380739571713/creative/CR12541546989583597569?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR04008835380739571713/creative/CR12541546989583597569?region=PE",
+        "pld":  false
     },
     {
         "product":  "credito_efectivo",
@@ -1161,7 +1257,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR06060775591454441473.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR12120234981591089153/creative/CR06060775591454441473?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR12120234981591089153/creative/CR06060775591454441473?region=PE",
+        "pld":  false
     },
     {
         "product":  "credito_efectivo",
@@ -1173,7 +1270,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR02492080805577228289.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR12120234981591089153/creative/CR02492080805577228289?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR12120234981591089153/creative/CR02492080805577228289?region=PE",
+        "pld":  false
     },
     {
         "product":  "credito_efectivo",
@@ -1185,7 +1283,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR07498922506934288385.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR12120234981591089153/creative/CR07498922506934288385?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR12120234981591089153/creative/CR07498922506934288385?region=PE",
+        "pld":  false
     },
     {
         "product":  "credito_efectivo",
@@ -1197,7 +1296,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR17719623058437701633.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR12120234981591089153/creative/CR17719623058437701633?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR12120234981591089153/creative/CR17719623058437701633?region=PE",
+        "pld":  false
     },
     {
         "product":  "maxicash",
@@ -1209,7 +1309,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR10467561020976005121.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR12120234981591089153/creative/CR10467561020976005121?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR12120234981591089153/creative/CR10467561020976005121?region=PE",
+        "pld":  false
     },
     {
         "product":  "credito_efectivo",
@@ -1221,7 +1322,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR00318048349812948993.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR10597337297525407745/creative/CR00318048349812948993?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR10597337297525407745/creative/CR00318048349812948993?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1233,7 +1335,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR13993897121393147905.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR10597337297525407745/creative/CR13993897121393147905?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR10597337297525407745/creative/CR13993897121393147905?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1245,7 +1348,8 @@ window.ADS = [
         "text":  "¡Tu tarjeta en minutos! | Cyber WOW: Saca tu Tarjeta Banco Ripley y compra pagando menos",
         "landing":  "",
         "img":  "img/google-CR18311636952471830529.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR12120234981591089153/creative/CR18311636952471830529?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR12120234981591089153/creative/CR18311636952471830529?region=PE",
+        "pld":  false
     },
     {
         "product":  "credito_efectivo",
@@ -1257,7 +1361,8 @@ window.ADS = [
         "text":  "Súper Efectivo online | Solicítalo desde la app | Dinero desde la app",
         "landing":  "",
         "img":  null,
-        "url":  "https://adstransparency.google.com/advertiser/AR12120234981591089153/creative/CR13297161891638935553?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR12120234981591089153/creative/CR13297161891638935553?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1269,7 +1374,8 @@ window.ADS = [
         "text":  "Vive el Cyber Wow con tu CMR | Cyber WOW 2026 con tu CMR | Obtén tu CMR Visa 100% online",
         "landing":  "",
         "img":  null,
-        "url":  "https://adstransparency.google.com/advertiser/AR10597337297525407745/creative/CR16963275057004544001?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR10597337297525407745/creative/CR16963275057004544001?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1281,7 +1387,8 @@ window.ADS = [
         "text":  "Pide tu tarjeta de crédito CMR Visa aquí | ¡Obtenla hoy! Pídela rápido, fácil y seguro. Comienza a usarla al instante",
         "landing":  "",
         "img":  "img/google-CR12368895076720443393.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR10597337297525407745/creative/CR12368895076720443393?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR10597337297525407745/creative/CR12368895076720443393?region=PE",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -1293,7 +1400,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR07217620428427100161.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR07217620428427100161?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR07217620428427100161?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1305,7 +1413,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR01402617614567473153.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR01402617614567473153?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR01402617614567473153?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1317,7 +1426,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR12387460055677534209.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR12387460055677534209?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR12387460055677534209?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1329,7 +1439,8 @@ window.ADS = [
         "text":  "Llévate la del 10 hoy | ¡No te quedes sin la del 10! Pide tu Mastercard Messi con 10 cuotas sin intereses. | ¡Es tu momento! Solicita la tarjeta de Messi y disfruta 10 cuotas sin intereses.",
         "landing":  "",
         "img":  null,
-        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR15022416581898534913?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR15022416581898534913?region=PE",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -1341,7 +1452,8 @@ window.ADS = [
         "text":  "Pide el dinero que necesitas | Pide hoy el Préstamo Personal que necesitas directamente desde tu celular | Pide hoy tu préstamo desde tu celular de manera 100% digital.",
         "landing":  "",
         "img":  null,
-        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR17043665574791479297?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR17043665574791479297?region=PE",
+        "pld":  true
     },
     {
         "product":  "tarjeta",
@@ -1353,7 +1465,8 @@ window.ADS = [
         "text":  "Pide tu Mastercard Messi | La magia del 10 llega a tu billetera con las nuevas Tarjetas Mastercard Messi. Pídela hoy | La magia de Messi llega a tu billetera. Descubre las nuevas Tarjetas Mastercard Messi.",
         "landing":  "",
         "img":  null,
-        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR04486457459409420289?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR04486457459409420289?region=PE",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -1365,7 +1478,8 @@ window.ADS = [
         "text":  "Tienes un préstamo preaprobado | Pide hoy tu Préstamo Personal 100% digital sin salir de casa | Solicita tu Préstamo Personal hoy sin salir de casa.",
         "landing":  "",
         "img":  null,
-        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR02147693147914764289?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR02147693147914764289?region=PE",
+        "pld":  true
     },
     {
         "product":  "tarjeta",
@@ -1377,7 +1491,8 @@ window.ADS = [
         "text":  "Solicítala antes de viajar | Haz tu jugada hoy: solicita la Mastercard Messi y accede a más de 1,000 Salas VIP. | ¡Haz espacio para la del 10! Pide tu tarjeta de edición limitada hoy mismo.",
         "landing":  "",
         "img":  null,
-        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR01104863268695965697?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR01104863268695965697?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1389,7 +1504,8 @@ window.ADS = [
         "text":  "Tu pase VIP comienza aquí | Haz tu jugada hoy: solicita la Mastercard Messi y accede a más de 1,000 Salas VIP. | ¡Haz espacio para la del 10! Pide tu tarjeta de edición limitada hoy mismo",
         "landing":  "",
         "img":  null,
-        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR06461332075499749377?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR06461332075499749377?region=PE",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -1401,7 +1517,8 @@ window.ADS = [
         "text":  "Pide el dinero que necesitas | Pide hoy el Préstamo Personal que necesitas directamente desde tu celular | Pide hoy tu préstamo desde tu celular de manera 100% digital.",
         "landing":  "",
         "img":  null,
-        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR09195360371819413505?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR09195360371819413505?region=PE",
+        "pld":  true
     },
     {
         "product":  "tarjeta",
@@ -1413,7 +1530,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR12732433478159695873.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR12732433478159695873?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR12732433478159695873?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1425,7 +1543,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR05603798217985622017.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR05603798217985622017?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR05603798217985622017?region=PE",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -1437,7 +1556,8 @@ window.ADS = [
         "text":  "Aprovecha tu tasa preferencial | Obtén hoy tu Préstamo con tasa preferencial por recibir tu sueldo en Scotiabank | Solicita hoy tu Préstamo y aprovecha tu tasa preferencial.",
         "landing":  "",
         "img":  null,
-        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR03208739460904648705?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR03208739460904648705?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1449,7 +1569,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR09019078696195063809.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR09019078696195063809?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR09019078696195063809?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1461,7 +1582,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR02217586628191322113.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR02217586628191322113?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR02217586628191322113?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1473,7 +1595,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR04446824463274606593.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR04446824463274606593?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR04446824463274606593?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1485,7 +1608,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR02363414305627439105.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR02363414305627439105?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR02363414305627439105?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1497,7 +1621,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR10717296670405558273.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR10717296670405558273?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR10717296670405558273?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1509,7 +1634,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR01783991194120880129.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR01783991194120880129?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR01783991194120880129?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1521,7 +1647,8 @@ window.ADS = [
         "text":  "Más beneficios en Cyber | Aprovecha promociones exclusivas y beneficios en cada compra | Pide tu Tarjeta de Crédito y aprovecha el Cyber con cuotas sin intereses",
         "landing":  "",
         "img":  null,
-        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR16638202794985127937?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR16638202794985127937?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1533,7 +1660,8 @@ window.ADS = [
         "text":  "¡Suma 10,000 Scotia Puntos! | Pide YA la Mastercard Messi de edición limitada y recibe 10,000 Scotia Puntos de regalo. | ¡Que no se te escape! Solicita la del 10 y recibe 10,000 Scotia Puntos de regalo.",
         "landing":  "",
         "img":  null,
-        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR06801095462133694465?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR06801095462133694465?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1545,7 +1673,8 @@ window.ADS = [
         "text":  "Pide tu Mastercard Messi | ¡No te quedes sin la del 10! Pide tu Mastercard Messi con 10 cuotas sin intereses. | ¡Es tu momento! Solicita la tarjeta de Messi y disfruta 10 cuotas sin intereses.",
         "landing":  "",
         "img":  null,
-        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR11243575437139378177?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR11243575437139378177?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1557,7 +1686,8 @@ window.ADS = [
         "text":  "La magia del 10 está aquí | La magia del 10 llega a tu billetera con las nuevas Tarjetas Mastercard Messi. Pídela hoy | La magia de Messi llega a tu billetera. Descubre las nuevas Tarjetas Mastercard Messi.",
         "landing":  "",
         "img":  null,
-        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR14110166077983948801?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR14110166077983948801?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1569,7 +1699,8 @@ window.ADS = [
         "text":  "¡Elige tu diseño y pídela! | Pide YA la Mastercard Messi de edición limitada y recibe 10,000 Scotia Puntos de regalo. | ¡Que no se te escape! Solicita la del 10 y recibe 10,000 Scotia Puntos de regalo.",
         "landing":  "",
         "img":  null,
-        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR05693451846358663169?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR05693451846358663169?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1581,7 +1712,8 @@ window.ADS = [
         "text":  "¡Pídela hoy! | Paga con tu nueva Tarjeta de Crédito Scotiabank en Wong y recibe S/100 de devolución",
         "landing":  "",
         "img":  "img/google-CR08074266155423891457.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR08074266155423891457?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR08074266155423891457?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1593,7 +1725,8 @@ window.ADS = [
         "text":  "Solicítala hoy | Disfruta hasta S/300 de dscto. con tu Tarjeta de Crédito Scotiabank | Solicita tu nueva Tarjeta de Crédito Scotiabank y obtén hasta S/300 en tu nuevo iPhone",
         "landing":  "",
         "img":  null,
-        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR03447606987649449985?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR03447606987649449985?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1605,7 +1738,8 @@ window.ADS = [
         "text":  "Más beneficios con Scotiabank | Recibe S/100 de devolución por compras desde S/500 con tu nueva Tarjeta de Crédito! | Con tu nueva Tarjeta de Crédito Scotiabank, compra desde S/500 en Wong y recibe S/100",
         "landing":  "",
         "img":  null,
-        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR07086304380332277761?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR07086304380332277761?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1617,7 +1751,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR16675899826021335041.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR16675899826021335041?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR16675899826021335041?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1629,7 +1764,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR09771927501872824321.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR09771927501872824321?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR09771927501872824321?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1641,7 +1777,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR12022858976250036225.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR12022858976250036225?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR12022858976250036225?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1653,7 +1790,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR16822108484236476417.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR16822108484236476417?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR16822108484236476417?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1665,7 +1803,8 @@ window.ADS = [
         "text":  "Solicítala hoy | Recibe S/100 de devolución por compras desde S/500 con tu nueva Tarjeta de Crédito! | Con tu nueva Tarjeta de Crédito Scotiabank, compra desde S/500 en Wong y recibe S/100",
         "landing":  "",
         "img":  null,
-        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR07914192655582494721?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR07914192655582494721?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1677,7 +1816,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR11473568255780585473.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR11473568255780585473?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR11473568255780585473?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1689,7 +1829,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR03205744391230586881.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR03205744391230586881?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR03205744391230586881?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1701,7 +1842,8 @@ window.ADS = [
         "text":  "Solicítala hoy | Disfruta hasta S/300 de dscto. con tu Tarjeta de Crédito Scotiabank | Compra con tu nueva Tarjeta de Crédito tu nuevo iPhone y aprovecha hasta S/300 de dscto.",
         "landing":  "",
         "img":  null,
-        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR16598540112036364289?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR16598540112036364289?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1713,7 +1855,8 @@ window.ADS = [
         "text":  "S/300 de dscto. | Pide tu Tarjeta de Crédito y recibe hasta S/300 de dscto. en tu nuevo iPhone 18 Pro | Con tu nueva Tarjeta de Crédito Scotiabank obtén hasta S/300 en tu nuevo iPhone",
         "landing":  "",
         "img":  null,
-        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR02564479248219766785?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR02564479248219766785?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1725,7 +1868,8 @@ window.ADS = [
         "text":  "Solicítala hoy | Con tu nueva Tarjeta de Crédito Scotiabank obtén hasta S/300 en tu nuevo iPhone",
         "landing":  "",
         "img":  "img/google-CR17195372615779221505.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR17195372615779221505?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR17195372615779221505?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1737,7 +1881,8 @@ window.ADS = [
         "text":  "Ve por tu Mastercard Messi | Súmate a la edición Messi y solicita hoy tu nueva Tarjeta Mastercard.",
         "landing":  "",
         "img":  "img/google-CR03100220961778040833.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR03100220961778040833?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR03100220961778040833?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1749,7 +1894,8 @@ window.ADS = [
         "text":  "Estrena la edición Messi | Lleva al 10 contigo y estrena una Tarjeta Mastercard Messi de edición limitada. | Lleva al 10 contigo con una Mastercard Messi de edición limitada.",
         "landing":  "",
         "img":  null,
-        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR16651457682535874561?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR16651457682535874561?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1761,7 +1907,8 @@ window.ADS = [
         "text":  "Tu próximo viaje con DSCTO. | ¡Viaja con Scotiabank! Disfruta US$500 de DSCTO. con tu Nueva Tarjeta de Crédito",
         "landing":  "",
         "img":  "img/google-CR01966632170122379265.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR01966632170122379265?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR01966632170122379265?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1773,7 +1920,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR08978692534595223553.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR08707000316563816449/creative/CR08978692534595223553?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR08707000316563816449/creative/CR08978692534595223553?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1785,7 +1933,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR09486864818720735233.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR09486864818720735233?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR09486864818720735233?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1797,7 +1946,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR12011596403768819713.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR12011596403768819713?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR12011596403768819713?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1809,7 +1959,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR01128223492739694593.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR01128223492739694593?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR01128223492739694593?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1821,7 +1972,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR11017426786026782721.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR11017426786026782721?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR11017426786026782721?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1833,7 +1985,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR08180449291853103105.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR08180449291853103105?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR08180449291853103105?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1845,7 +1998,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR00767372572596633601.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR00767372572596633601?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR00767372572596633601?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1857,7 +2011,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR07708545498281410561.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR07708545498281410561?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR07708545498281410561?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1869,7 +2024,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR07581670652529082369.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR07581670652529082369?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR07581670652529082369?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1881,7 +2037,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR14127934185888808961.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR14127934185888808961?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR14127934185888808961?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1893,7 +2050,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR15352913284533583873.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR15352913284533583873?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR15352913284533583873?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1905,7 +2063,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR07168043174252773377.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR03504889851239464961/creative/CR07168043174252773377?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR03504889851239464961/creative/CR07168043174252773377?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1917,7 +2076,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR06049461616804626433.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR03504889851239464961/creative/CR06049461616804626433?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR03504889851239464961/creative/CR06049461616804626433?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1929,7 +2089,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR04643432535483744257.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR03504889851239464961/creative/CR04643432535483744257?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR03504889851239464961/creative/CR04643432535483744257?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1941,7 +2102,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR14517317432772657153.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR14517317432772657153?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR14517317432772657153?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1953,7 +2115,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR11171483758240989185.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR11171483758240989185?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR11171483758240989185?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1965,7 +2128,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR03527797669198036993.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR03527797669198036993?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR03527797669198036993?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1977,7 +2141,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR16359749276227600385.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR16359749276227600385?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR16359749276227600385?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -1989,7 +2154,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR05177192654210859009.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR05177192654210859009?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR05177192654210859009?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2001,7 +2167,8 @@ window.ADS = [
         "text":  "Conoce la Tarjeta BCP Qore | Descubre los beneficios de la Tarjeta de Crédito BCP Qore.",
         "landing":  "",
         "img":  "img/google-CR16199761538293170177.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR16199761538293170177?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR16199761538293170177?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2013,7 +2180,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR04885272591914237953.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR04885272591914237953?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR04885272591914237953?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2025,7 +2193,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR06781288035037216769.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR06781288035037216769?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR06781288035037216769?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2037,7 +2206,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR17050431969348812801.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR17050431969348812801?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR17050431969348812801?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2049,7 +2219,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR15141445312675053569.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR15141445312675053569?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR15141445312675053569?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2061,7 +2232,8 @@ window.ADS = [
         "text":  "Tus beneficios Qore se renovaron | Disfruta tu entrada 2D a S/11.90 en Cinemark y revisa tu beneficio en el App del BCP.",
         "landing":  "",
         "img":  "img/google-CR16136869748062289921.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR16136869748062289921?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR16136869748062289921?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2073,7 +2245,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR14725719141579227137.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR14904673755740504065/creative/CR14725719141579227137?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR14904673755740504065/creative/CR14725719141579227137?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2085,7 +2258,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR00892086053366661121.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR14904673755740504065/creative/CR00892086053366661121?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR14904673755740504065/creative/CR00892086053366661121?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2097,7 +2271,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR16363503283802734593.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR14904673755740504065/creative/CR16363503283802734593?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR14904673755740504065/creative/CR16363503283802734593?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2109,7 +2284,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR18052588439555014657.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR14904673755740504065/creative/CR18052588439555014657?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR14904673755740504065/creative/CR18052588439555014657?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2121,7 +2297,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR15672403051140874241.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR14904673755740504065/creative/CR15672403051140874241?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR14904673755740504065/creative/CR15672403051140874241?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2133,7 +2310,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR01917785266546802689.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR14904673755740504065/creative/CR01917785266546802689?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR14904673755740504065/creative/CR01917785266546802689?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2145,7 +2323,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR08555381932290998273.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR14904673755740504065/creative/CR08555381932290998273?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR14904673755740504065/creative/CR08555381932290998273?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2157,7 +2336,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR13750822863160475649.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR14904673755740504065/creative/CR13750822863160475649?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR14904673755740504065/creative/CR13750822863160475649?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2169,7 +2349,8 @@ window.ADS = [
         "text":  "Cada S/100 suma una opción para viajar​ | Serán 4 ganadores. Regístrate y participa por hasta 1 millón de Millas. ​ | Cada S/100 con tu Tarjeta de Crédito BCP LATAM Pass te da una opción para participar. ​",
         "landing":  "",
         "img":  null,
-        "url":  "https://adstransparency.google.com/advertiser/AR14904673755740504065/creative/CR11858877812083523585?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR14904673755740504065/creative/CR11858877812083523585?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2181,7 +2362,8 @@ window.ADS = [
         "text":  "Serán 4 ganadores de 1 millón de Millas | Usa tu Tarjeta de Crédito BCP LATAM Pass y participa por hasta 1 millón de Millas.",
         "landing":  "",
         "img":  "img/google-CR09900550845991223297.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR14904673755740504065/creative/CR09900550845991223297?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR14904673755740504065/creative/CR09900550845991223297?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2193,7 +2375,8 @@ window.ADS = [
         "text":  "Haz que cada compra te acerque a viajar | Cada S/100 con tu Tarjeta de Crédito BCP LATAM Pass te da una opción para participar. ​ | Serán 4 ganadores. Regístrate y participa por hasta 1 millón de Millas. ​",
         "landing":  "",
         "img":  null,
-        "url":  "https://adstransparency.google.com/advertiser/AR14904673755740504065/creative/CR07523007034262814721?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR14904673755740504065/creative/CR07523007034262814721?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2205,7 +2388,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR09396186995266420737.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR09396186995266420737?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR09396186995266420737?region=PE",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -2217,7 +2401,8 @@ window.ADS = [
         "text":  "Aprovecha tu nueva tasa | Hoy tienes mejores condiciones para tu préstamo digital negocio. Solicítalo ahora.",
         "landing":  "",
         "img":  "img/google-CR13705831671985602561.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR13705831671985602561?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR13705831671985602561?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2229,7 +2414,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR15393189494970646529.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR15393189494970646529?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR15393189494970646529?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2241,7 +2427,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR14577392823968989185.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR14577392823968989185?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR14577392823968989185?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2253,7 +2440,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR13477747880408121345.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR13477747880408121345?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR13477747880408121345?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2265,7 +2453,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR00474181199980396545.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR00474181199980396545?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR00474181199980396545?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2277,7 +2466,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR11367598149729255425.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR11367598149729255425?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR11367598149729255425?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2289,7 +2479,8 @@ window.ADS = [
         "text":  "Tarjeta de Crédito Bfree BBVA​ | Pide tu Tarjeta de Crédito Bfree BBVA y recibe desde 2,000 Puntos de bienvenida​",
         "landing":  "",
         "img":  null,
-        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR13210532469998092289?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR13210532469998092289?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2301,7 +2492,8 @@ window.ADS = [
         "text":  "Tarjeta de Crédito BBVA​ | Pide tu Tarjeta de Crédito BBVA y participa por uno de los 75 premios de 75,000 Puntos​",
         "landing":  "",
         "img":  "img/google-CR09752156083782156289.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR09752156083782156289?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR09752156083782156289?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2313,7 +2505,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR01342903412940865537.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR01342903412940865537?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR01342903412940865537?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2325,7 +2518,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR01138962422808182785.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR01138962422808182785?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR01138962422808182785?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2337,7 +2531,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR14106667706862272513.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR14106667706862272513?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR14106667706862272513?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2349,7 +2544,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR09287864484087463937.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR09287864484087463937?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR09287864484087463937?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2361,7 +2557,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR03024620466397511681.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR03024620466397511681?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR03024620466397511681?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2373,7 +2570,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR10749338363384299521.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR10749338363384299521?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR10749338363384299521?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2385,7 +2583,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR06834102801199529985.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR06834102801199529985?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR06834102801199529985?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2397,7 +2596,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR06299418268071362561.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR06299418268071362561?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR06299418268071362561?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2409,7 +2609,8 @@ window.ADS = [
         "text":  "Solicita tu Tarjeta BBVA | Compras que disfrutas, con hasta 36 pagos sin intereses con tu Tarjeta de Crédito BBVA",
         "landing":  "",
         "img":  "img/google-CR02838582274344091649.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR02838582274344091649?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR02838582274344091649?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2421,7 +2622,8 @@ window.ADS = [
         "text":  "Solicita tu tarjeta BBVA | ¡Consigue tu tarjeta de crédito y aprovecha sus beneficios!",
         "landing":  "",
         "img":  "img/google-CR09530368370663227393.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR09530368370663227393?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR09530368370663227393?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2433,7 +2635,8 @@ window.ADS = [
         "text":  "Tarjeta de Crédito BBVA​ | Tu Tarjeta de Crédito BBVA puede venir con más. Participa por 75,000 Puntos​",
         "landing":  "",
         "img":  "img/google-CR11052453927952842753.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR11052453927952842753?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR11052453927952842753?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2445,7 +2648,8 @@ window.ADS = [
         "text":  "",
         "landing":  "",
         "img":  "img/google-CR14664269635726082049.png",
-        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR14664269635726082049?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR14664269635726082049?region=PE",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2457,7 +2661,8 @@ window.ADS = [
         "text":  "Tarjeta de Crédito BBVA​ | Con tu Tarjeta de Crédito BBVA puedes ser uno de los 75 ganadores de 75,000 Puntos​ | Pide tu Tarjeta de Crédito BBVA y participa por 75,000 Puntos para tus próximos planes​",
         "landing":  "",
         "img":  null,
-        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR13302826575545237505?region=PE"
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR13302826575545237505?region=PE",
+        "pld":  false
     },
     {
         "product":  "garantia",
@@ -2469,7 +2674,8 @@ window.ADS = [
         "text":  "¿Necesitas liquidez para tus próximos planes? 💸 Obtén un Préstamo con Garantía Líquida y usa tus inversiones como respaldo sin retirarlas. 🙌 Solicítalo hoy aquí. Liquidez sin mover tu capital Préstamo con la garantía de tu inversión Sign Up",
         "landing":  "",
         "img":  "img/meta-2534275137399794.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=2534275137399794"
+        "url":  "https://www.facebook.com/ads/library/?id=2534275137399794",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2481,7 +2687,8 @@ window.ADS = [
         "text":  "¿Dejarás pasar esta oportunidad? Obtén tu Tarjeta de Crédito y compra hasta en 24 cuotas sin intereses💳 🙌 🛍🤩 INTERBANK.PE Exonera Membresía Recíbela gratis en tu casa Get Offer",
         "landing":  "",
         "img":  "img/meta-2516748135467948.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=2516748135467948"
+        "url":  "https://www.facebook.com/ads/library/?id=2516748135467948",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -2493,7 +2700,8 @@ window.ADS = [
         "text":  "Haz realidad el futuro que sueñan 💚 Solicita tu Crédito por Convenio preaprobado 💸 y empieza a construirlo. Efectivo al instante Solicita tu Crédito por Convenio Get Offer",
         "landing":  "",
         "img":  "img/meta-1280646184204444.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1280646184204444"
+        "url":  "https://www.facebook.com/ads/library/?id=1280646184204444",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2505,7 +2713,8 @@ window.ADS = [
         "text":  "¿Dejarás pasar esta oportunidad? Obtén tu Tarjeta de Crédito y compra hasta en 24 cuotas sin intereses💳 🙌 🛍🤩 INTERBANK.PE Exonera Membresía Recíbela gratis en tu casa Get Offer",
         "landing":  "",
         "img":  "img/meta-1857345058956623.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1857345058956623"
+        "url":  "https://www.facebook.com/ads/library/?id=1857345058956623",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2517,7 +2726,8 @@ window.ADS = [
         "text":  "💳 Lo que te encanta, ahora sin intereses. 😎 Paga hasta en 36 cuotas con tu Tarjeta de Crédito Interbank y disfruta membresía gratis al pedirla online. ⭐ Aplican TyC. INTERBANK.PE Hazlo tuyo, sin intereses 😍 Usa tu tarjeta y olvídate de pagar de más Get Offer",
         "landing":  "",
         "img":  "img/meta-1427292106276163.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1427292106276163"
+        "url":  "https://www.facebook.com/ads/library/?id=1427292106276163",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2529,7 +2739,8 @@ window.ADS = [
         "text":  "¡Llegó el momento Wow para viajar! ✈️🌎 Del 02 al 05 de noviembre de 2026, aprovecha en Despegar y obtén US$150 de descuento en compras desde US$999 (valor referencial: S/600 de descuento en compras desde S/3,996). ¡Exclusivo con tus Tarjetas Interbank! 💳Y hasta 24 cuotas sin intereses en paquetes internacionales. ¡Viaja Wow con Despegar! ✈️ Sign Up",
         "landing":  "",
         "img":  "img/meta-1126203996725359.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1126203996725359"
+        "url":  "https://www.facebook.com/ads/library/?id=1126203996725359",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -2541,7 +2752,8 @@ window.ADS = [
         "text":  "Tus planes no esperan, ¡hazlos realidad hoy! Con tu Crédito por Convenio preaprobado, dar el siguiente paso es más fácil. 👉 Solicítalo hoy Obtenlo hoy mismo Solicita tu Crédito por Convenio Get Offer",
         "landing":  "",
         "img":  "img/meta-1200474958824091.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1200474958824091"
+        "url":  "https://www.facebook.com/ads/library/?id=1200474958824091",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2553,7 +2765,8 @@ window.ADS = [
         "text":  "Compras WoW usando su Tarjeta de Crédito Interbank para financiar en hasta 36 cuotas sin intereses ⚡, o usar su Tarjeta de Débito 💳 para recibir cashback en las marcas participantes del 02 al 05 de noviembre. Tus marcas favoritas en cuotas Exclusivo con Tarjetas Interbank Sign Up",
         "landing":  "",
         "img":  "img/meta-1092163276972579.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1092163276972579"
+        "url":  "https://www.facebook.com/ads/library/?id=1092163276972579",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2565,7 +2778,8 @@ window.ADS = [
         "text":  "💳 Lo que te encanta, ahora sin intereses. 😎 Paga hasta en 36 cuotas con tu Tarjeta de Crédito Interbank y disfruta membresía gratis al pedirla online. ⭐ Aplican TyC. INTERBANK.PE Hazlo tuyo, sin intereses 😍 Usa tu tarjeta y olvídate de pagar de más Get Offer",
         "landing":  "",
         "img":  "img/meta-1835298814168647.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1835298814168647"
+        "url":  "https://www.facebook.com/ads/library/?id=1835298814168647",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2577,7 +2791,8 @@ window.ADS = [
         "text":  "¡Llegó el momento WoW para renovar lo que querías! 🔥 Llévate S/100 de descuento por compras desde S/1,499 en Mercado Libre pagando con tus Tarjetas de Crédito Interbank. ¡Promoción válida del 2 al 5 de noviembre! 💳 Aplican TyC. Compra en cuotas Exclusivo con Tarjetas Interbank Sign Up",
         "landing":  "",
         "img":  "img/meta-1159731216587845.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1159731216587845"
+        "url":  "https://www.facebook.com/ads/library/?id=1159731216587845",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2589,7 +2804,8 @@ window.ADS = [
         "text":  "Ese gusto que querías, hoy sin intereses 📲✨ Llévate lo que más te gusta hasta en 36 cuotas sin intereses con tu Tarjeta de Crédito Interbank.💳 ¡No lo dejes pasar! Aplican TyC.💚 Las mejores ofertas con Interbank Watch More",
         "landing":  "",
         "img":  "img/meta-986037277883499.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=986037277883499"
+        "url":  "https://www.facebook.com/ads/library/?id=986037277883499",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2601,7 +2817,8 @@ window.ADS = [
         "text":  "¡Equipa tu hogar con un descuento WoW de hasta S/300 en Hiraoka! 📺✨ Elige tus productos seleccionados en Electro y Tecnología y paga con tus Tarjetas de Crédito Interbank. ¡Aprovecha del 02 al 05 de noviembre! 💳 Aplican TyC. Equipa tu hogar Exclusivo con Tarjetas Interbank Sign Up",
         "landing":  "",
         "img":  "img/meta-1657339275867302.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1657339275867302"
+        "url":  "https://www.facebook.com/ads/library/?id=1657339275867302",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2613,7 +2830,8 @@ window.ADS = [
         "text":  "Aprovecha estos Días WoW del 02 al 05 de noviembre y compra eso que tanto quieres. Además, paga en hasta 36 cuotas sin intereses con tus Tarjetas de Crédito Interbank 💳. ¡Tú eliges cómo disfrutar tus beneficios! 🙌✨ Aplican TyC.💚 Pide tus favoritos Watch More",
         "landing":  "",
         "img":  "img/meta-947376068175024.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=947376068175024"
+        "url":  "https://www.facebook.com/ads/library/?id=947376068175024",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2625,7 +2843,8 @@ window.ADS = [
         "text":  "💳 Lo que te encanta, ahora sin intereses. 😎 Paga hasta en 36 cuotas con tu Tarjeta de Crédito Interbank y disfruta membresía gratis al pedirla online. ⭐ Aplican TyC. INTERBANK.PE Hazlo tuyo, sin intereses 😍 Usa tu tarjeta y olvídate de pagar de más Get Offer",
         "landing":  "",
         "img":  "img/meta-1109709958121043.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1109709958121043"
+        "url":  "https://www.facebook.com/ads/library/?id=1109709958121043",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2637,7 +2856,8 @@ window.ADS = [
         "text":  "¡Es el momento de renovar tu celular! Llévate el nuevo iPhone 18 con hasta S/300 de descuento y págalo en hasta 24 cuotas sin intereses. Promo exclusiva pagando con tus Tarjetas de Crédito Interbank. ¡Aprovecha hoy! Llegó el nuevo iPhone 18 Exclusivo con Tarjetas Interbank. Watch More",
         "landing":  "",
         "img":  "img/meta-2338913899982432.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=2338913899982432"
+        "url":  "https://www.facebook.com/ads/library/?id=2338913899982432",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2649,7 +2869,8 @@ window.ADS = [
         "text":  "¿Dejarás pasar esta oportunidad? Obtén tu Tarjeta de Crédito y compra hasta en 24 cuotas sin intereses💳 🙌 🛍🤩 INTERBANK.PE Exonera Membresía Recíbela gratis en tu casa Get Offer",
         "landing":  "",
         "img":  "img/meta-4589476637984087.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=4589476637984087"
+        "url":  "https://www.facebook.com/ads/library/?id=4589476637984087",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -2661,7 +2882,8 @@ window.ADS = [
         "text":  "💳 Lo que te encanta, ahora sin intereses. 😎 Paga hasta en 36 cuotas con tu Tarjeta de Crédito Interbank y disfruta membresía gratis al pedirla online. ⭐ Aplican TyC. INTERBANK.PE Hazlo tuyo, sin intereses 😍 Usa tu tarjeta y olvídate de pagar de más Get Offer",
         "landing":  "",
         "img":  "img/meta-1671156681137009.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1671156681137009"
+        "url":  "https://www.facebook.com/ads/library/?id=1671156681137009",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -2673,7 +2895,8 @@ window.ADS = [
         "text":  "Tu Crédito por Convenio te da más.  ✨ Aprovecha hasta 50% de descuento en UTP 📚  y 10% de descuento en plazaVea y Vivanda 🛒. Aplican TyC.  Más ahorra para ti y tu hogar Exclusivo de Crédito por Convenio. Get Offer",
         "landing":  "",
         "img":  "img/meta-1653137106335213.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1653137106335213"
+        "url":  "https://www.facebook.com/ads/library/?id=1653137106335213",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -2685,7 +2908,8 @@ window.ADS = [
         "text":  "¿Tienes un proyecto que quieres hacer realidad? 💙 Conoce una opción para obtener el financiamiento que necesitas y dar el siguiente paso. 👉 Descubre más aquí. Learn More",
         "landing":  "",
         "img":  "img/meta-1138375908615408.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1138375908615408"
+        "url":  "https://www.facebook.com/ads/library/?id=1138375908615408",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -2697,7 +2921,8 @@ window.ADS = [
         "text":  "¡Haz tus sueños realidad!🤩 Solicita un crédito hecho a tu medida rápido y fácil aquí ⬇ PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-4707358939482934.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=4707358939482934"
+        "url":  "https://www.facebook.com/ads/library/?id=4707358939482934",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -2709,7 +2934,8 @@ window.ADS = [
         "text":  "No postergues tus sueños; hazlos realidad con un desembolso inmediato. 🚀💫 PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-2855759588142140.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=2855759588142140"
+        "url":  "https://www.facebook.com/ads/library/?id=2855759588142140",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -2721,7 +2947,8 @@ window.ADS = [
         "text":  "🌟 ¡Haz que todo pase! Solicita tu crédito rápido, fácil y 100% a tu medida aquí ⬇ PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-1585081355898707.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1585081355898707"
+        "url":  "https://www.facebook.com/ads/library/?id=1585081355898707",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -2733,7 +2960,8 @@ window.ADS = [
         "text":  "No dejes que los gastos imprevistos detengan tu ritmo. ¡Estamos contigo! 🤝✨ PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-1825145778618851.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1825145778618851"
+        "url":  "https://www.facebook.com/ads/library/?id=1825145778618851",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -2745,7 +2973,8 @@ window.ADS = [
         "text":  "🌟 ¡Haz que todo pase! Solicita tu crédito rápido, fácil y 100% a tu medida aquí ⬇ PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-1800367971285503.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1800367971285503"
+        "url":  "https://www.facebook.com/ads/library/?id=1800367971285503",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -2757,7 +2986,8 @@ window.ADS = [
         "text":  "Obtén efectivo rápido y fácil desde la comodidad de tu celular. 📱💳🚀 PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-2884490425245109.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=2884490425245109"
+        "url":  "https://www.facebook.com/ads/library/?id=2884490425245109",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -2769,7 +2999,8 @@ window.ADS = [
         "text":  "🎶 ¡Esta campaña, el ritmo lo pones tú! 🎄🫰 ¿Te sabes nuestra canción navideña? 👀🎤 Completa las palabras que faltan y demuestra cuánto conoces nuestro jingle. 🎵 ¡Te leemos en los comentarios! #CajaArequipa #AsídeRápido #Crédito #Navidad",
         "landing":  "",
         "img":  "img/meta-1485512623672323.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1485512623672323"
+        "url":  "https://www.facebook.com/ads/library/?id=1485512623672323",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -2781,7 +3012,8 @@ window.ADS = [
         "text":  "Ordena tus cuentas, respira con tranquilidad y sigue operando sin trabas. 🍃📉 PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-1813733416511748.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1813733416511748"
+        "url":  "https://www.facebook.com/ads/library/?id=1813733416511748",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -2793,7 +3025,8 @@ window.ADS = [
         "text":  "Ordena tus cuentas, respira con tranquilidad y sigue operando sin trabas. 🍃📉 PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-1633052824922514.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1633052824922514"
+        "url":  "https://www.facebook.com/ads/library/?id=1633052824922514",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -2805,7 +3038,8 @@ window.ADS = [
         "text":  "No postergues tus sueños; hazlos realidad con un desembolso inmediato. 🚀💫 PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-1756170898767438.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1756170898767438"
+        "url":  "https://www.facebook.com/ads/library/?id=1756170898767438",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -2817,7 +3051,8 @@ window.ADS = [
         "text":  "No dejes que los gastos imprevistos detengan tu ritmo. ¡Estamos contigo! 🤝✨ PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-1800831697852646.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1800831697852646"
+        "url":  "https://www.facebook.com/ads/library/?id=1800831697852646",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -2829,7 +3064,8 @@ window.ADS = [
         "text":  "No dejes que los gastos imprevistos detengan tu ritmo. ¡Estamos contigo! 🤝✨ PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-1109205032043222.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1109205032043222"
+        "url":  "https://www.facebook.com/ads/library/?id=1109205032043222",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -2841,7 +3077,8 @@ window.ADS = [
         "text":  "Ordena tus cuentas, respira con tranquilidad y sigue operando sin trabas. 🍃📉 PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-2211453993120977.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=2211453993120977"
+        "url":  "https://www.facebook.com/ads/library/?id=2211453993120977",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -2853,7 +3090,8 @@ window.ADS = [
         "text":  "Da el gran paso hacia tus metas hoy mismo. ¡Pide tu préstamo! 🔑🚀💼 PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-28730320799925282.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=28730320799925282"
+        "url":  "https://www.facebook.com/ads/library/?id=28730320799925282",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -2865,7 +3103,8 @@ window.ADS = [
         "text":  "Obtén efectivo rápido y fácil desde la comodidad de tu celular. 📱💳🚀 PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-1111843097932332.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1111843097932332"
+        "url":  "https://www.facebook.com/ads/library/?id=1111843097932332",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -2877,7 +3116,8 @@ window.ADS = [
         "text":  "No postergues tus sueños; hazlos realidad con un desembolso inmediato. 🚀💫 PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-1748952126160253.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1748952126160253"
+        "url":  "https://www.facebook.com/ads/library/?id=1748952126160253",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -2889,7 +3129,8 @@ window.ADS = [
         "text":  "¡Haz tus sueños realidad!🤩 Solicita un crédito hecho a tu medida rápido y fácil aquí ⬇ PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-29869584789298702.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=29869584789298702"
+        "url":  "https://www.facebook.com/ads/library/?id=29869584789298702",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -2901,7 +3142,8 @@ window.ADS = [
         "text":  "Disfruta grandes momentos🤩 Solicita un crédito hecho a tu medida rápido y fácil aquí ⬇ PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-1055641477293865.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1055641477293865"
+        "url":  "https://www.facebook.com/ads/library/?id=1055641477293865",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -2913,7 +3155,8 @@ window.ADS = [
         "text":  "Haz que tus metas dejen de esperar y empieza a cumplirlas hoy. 🔑💼 PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-2765927507199585.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=2765927507199585"
+        "url":  "https://www.facebook.com/ads/library/?id=2765927507199585",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -2925,7 +3168,8 @@ window.ADS = [
         "text":  "Cumple todos tus proyectos con un crédito pensado en ti. 🌟💵🎉 PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-1411231190377666.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1411231190377666"
+        "url":  "https://www.facebook.com/ads/library/?id=1411231190377666",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -2937,7 +3181,8 @@ window.ADS = [
         "text":  "Un proceso simple, directo y respaldado para que inviertas con total confianza. 📱🔒 PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-1496580518970110.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1496580518970110"
+        "url":  "https://www.facebook.com/ads/library/?id=1496580518970110",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -2949,7 +3194,8 @@ window.ADS = [
         "text":  "Disfruta grandes momentos🤩 Solicita un crédito hecho a tu medida rápido y fácil aquí ⬇ PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-1096760179417118.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1096760179417118"
+        "url":  "https://www.facebook.com/ads/library/?id=1096760179417118",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -2961,7 +3207,8 @@ window.ADS = [
         "text":  "Sin trámites pesados ni demoras: financiamiento rápido para tus planes. ⚡📈 PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-1392258893081350.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1392258893081350"
+        "url":  "https://www.facebook.com/ads/library/?id=1392258893081350",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -2973,7 +3220,8 @@ window.ADS = [
         "text":  "Un proceso simple, directo y respaldado para que inviertas con total confianza. 📱🔒 PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-1139476365310772.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1139476365310772"
+        "url":  "https://www.facebook.com/ads/library/?id=1139476365310772",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -2985,7 +3233,8 @@ window.ADS = [
         "text":  "Haz que tus metas dejen de esperar y empieza a cumplirlas hoy. 🔑💼 PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-1117563634064331.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1117563634064331"
+        "url":  "https://www.facebook.com/ads/library/?id=1117563634064331",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -2997,7 +3246,8 @@ window.ADS = [
         "text":  "Un proceso simple, directo y respaldado para que inviertas con total confianza. 📱🔒 PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-1066700623072190.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1066700623072190"
+        "url":  "https://www.facebook.com/ads/library/?id=1066700623072190",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -3009,7 +3259,8 @@ window.ADS = [
         "text":  "Sin trámites pesados ni demoras: financiamiento rápido para tus planes. ⚡📈 PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-29920194274247071.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=29920194274247071"
+        "url":  "https://www.facebook.com/ads/library/?id=29920194274247071",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -3021,7 +3272,8 @@ window.ADS = [
         "text":  "¡Cumplamos tus sueños!🤩 Solicita un crédito hecho a tu medida aquí ⬇ PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-1836833307508596.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1836833307508596"
+        "url":  "https://www.facebook.com/ads/library/?id=1836833307508596",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -3033,7 +3285,8 @@ window.ADS = [
         "text":  "El bienestar de tus seres queridos empieza hoy. ¡Solicítalo ya! 👨‍👩‍👦💰✨ PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-2293813944523696.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=2293813944523696"
+        "url":  "https://www.facebook.com/ads/library/?id=2293813944523696",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -3045,7 +3298,8 @@ window.ADS = [
         "text":  "Sin trámites pesados ni demoras: financiamiento rápido para tus planes. ⚡📈 PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-965351346048700.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=965351346048700"
+        "url":  "https://www.facebook.com/ads/library/?id=965351346048700",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -3057,7 +3311,8 @@ window.ADS = [
         "text":  "Obtén efectivo rápido y fácil desde la comodidad de tu celular. 📱💳🚀 PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-3730722787077729.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=3730722787077729"
+        "url":  "https://www.facebook.com/ads/library/?id=3730722787077729",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -3069,7 +3324,8 @@ window.ADS = [
         "text":  "El bienestar de tus seres queridos empieza hoy. ¡Solicítalo ya! 👨‍👩‍👦💰✨ PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-2536220860231613.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=2536220860231613"
+        "url":  "https://www.facebook.com/ads/library/?id=2536220860231613",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -3081,7 +3337,8 @@ window.ADS = [
         "text":  "Un proceso simple, directo y respaldado para que inviertas con total confianza. 📱🔒 PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-2575544172938715.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=2575544172938715"
+        "url":  "https://www.facebook.com/ads/library/?id=2575544172938715",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -3093,7 +3350,8 @@ window.ADS = [
         "text":  "Da el gran paso hacia tus metas hoy mismo. ¡Pide tu préstamo! 🔑🚀💼 PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-1571882714250252.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1571882714250252"
+        "url":  "https://www.facebook.com/ads/library/?id=1571882714250252",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -3105,7 +3363,8 @@ window.ADS = [
         "text":  "¡Haz tus sueños realidad!🤩 Solicita un crédito hecho a tu medida rápido y fácil aquí ⬇ PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-973099612492971.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=973099612492971"
+        "url":  "https://www.facebook.com/ads/library/?id=973099612492971",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -3117,7 +3376,8 @@ window.ADS = [
         "text":  "Haz realidad tus sueños con nuestro crédito personal. Solicítalo aquí 💵✨  PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-1882557746515360.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1882557746515360"
+        "url":  "https://www.facebook.com/ads/library/?id=1882557746515360",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -3129,7 +3389,8 @@ window.ADS = [
         "text":  "Haz realidad tus sueños con nuestro crédito personal. Solicítalo aquí 💵✨  PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-1330337805700930.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1330337805700930"
+        "url":  "https://www.facebook.com/ads/library/?id=1330337805700930",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -3141,7 +3402,8 @@ window.ADS = [
         "text":  "Cumple todos tus proyectos con un crédito pensado en ti. 🌟💵🎉 Número de impresiones bajo PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-2074540623206921.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=2074540623206921"
+        "url":  "https://www.facebook.com/ads/library/?id=2074540623206921",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -3153,7 +3415,8 @@ window.ADS = [
         "text":  "Haz que tus metas dejen de esperar y empieza a cumplirlas hoy. 🔑💼 PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-1097440059957506.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1097440059957506"
+        "url":  "https://www.facebook.com/ads/library/?id=1097440059957506",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -3165,7 +3428,8 @@ window.ADS = [
         "text":  "¡Haz tus sueños realidad!🤩 Solicita un crédito hecho a tu medida rápido y fácil aquí ⬇ Número de impresiones bajo PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-1146358061112913.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1146358061112913"
+        "url":  "https://www.facebook.com/ads/library/?id=1146358061112913",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -3177,7 +3441,8 @@ window.ADS = [
         "text":  "No postergues tus sueños; hazlos realidad con un desembolso inmediato. 🚀💫 Número de impresiones bajo PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-29080235891661339.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=29080235891661339"
+        "url":  "https://www.facebook.com/ads/library/?id=29080235891661339",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -3189,7 +3454,8 @@ window.ADS = [
         "text":  "🌟 ¡Haz que todo pase! Solicita tu crédito rápido, fácil y 100% a tu medida aquí ⬇ Número de impresiones bajo PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-970116329505486.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=970116329505486"
+        "url":  "https://www.facebook.com/ads/library/?id=970116329505486",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -3201,7 +3467,8 @@ window.ADS = [
         "text":  "No dejes que los gastos imprevistos detengan tu ritmo. ¡Estamos contigo! 🤝✨ Número de impresiones bajo PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-1404344134786491.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1404344134786491"
+        "url":  "https://www.facebook.com/ads/library/?id=1404344134786491",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -3213,7 +3480,8 @@ window.ADS = [
         "text":  "Haz realidad tus sueños con nuestro crédito personal. Solicítalo aquí 💵✨ Número de impresiones bajo  PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-2325629851505611.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=2325629851505611"
+        "url":  "https://www.facebook.com/ads/library/?id=2325629851505611",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -3225,7 +3493,8 @@ window.ADS = [
         "text":  "¡Haz tus sueños realidad!🤩 Solicita un crédito hecho a tu medida rápido y fácil aquí ⬇ Número de impresiones bajo PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-1771143777450431.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1771143777450431"
+        "url":  "https://www.facebook.com/ads/library/?id=1771143777450431",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -3237,7 +3506,8 @@ window.ADS = [
         "text":  "Sin trámites pesados ni demoras: financiamiento rápido para tus planes. ⚡📈 Número de impresiones bajo PRODUCTOS.CAJAAREQUIPA.PE Solicita tu crédito aquí Con Caja Arequipa Sign Up",
         "landing":  "",
         "img":  "img/meta-1137907478739217.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1137907478739217"
+        "url":  "https://www.facebook.com/ads/library/?id=1137907478739217",
+        "pld":  false
     },
     {
         "product":  "garantia",
@@ -3249,7 +3519,8 @@ window.ADS = [
         "text":  "¿Tienes planes por cumplir y no quieres sacar tu ahorro? Con Crédito Garantía Plazo Fijo avanza sin retirarlos. ",
         "landing":  "",
         "img":  "img/meta-1111878847879637.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1111878847879637"
+        "url":  "https://www.facebook.com/ads/library/?id=1111878847879637",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -3261,7 +3532,8 @@ window.ADS = [
         "text":  "¿Tu hogar está preparado? Prepárate con Credifácil, resurge con un crédito de hasta S/50 mil en 24 cuotas y participa por S/100 mil en premios en efectivo. Resurge con Credifácil Pídelo aquí Watch More",
         "landing":  "",
         "img":  "img/meta-1467362051882698.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1467362051882698"
+        "url":  "https://www.facebook.com/ads/library/?id=1467362051882698",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -3273,7 +3545,8 @@ window.ADS = [
         "text":  "Prepárate con Credifácil y obtén respaldo para lo que haces. Dale impulso a tus proyectos Deja tus datos y sigue haciendo más Sign Up",
         "landing":  "",
         "img":  "img/meta-1092546493671222.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1092546493671222"
+        "url":  "https://www.facebook.com/ads/library/?id=1092546493671222",
+        "pld":  false
     },
     {
         "product":  "garantia",
@@ -3285,7 +3558,8 @@ window.ADS = [
         "text":  "Tu depósito a plazo fijo te respalda. Conoce Crédito Garantía Plazo Fijo de Caja Piura y sigue haciendo. ",
         "landing":  "",
         "img":  "img/meta-1731850637908820.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1731850637908820"
+        "url":  "https://www.facebook.com/ads/library/?id=1731850637908820",
+        "pld":  false
     },
     {
         "product":  "garantia",
@@ -3297,7 +3571,8 @@ window.ADS = [
         "text":  "¿Un nuevo proyecto o un gasto importante? Usa tu plazo fijo como garantía para acceder a liquidez sin retirar tu ahorro. Haz tus planes sin tocar tus ahorros Hazlo con garantía plazo fijo Learn More",
         "landing":  "",
         "img":  "img/meta-1169891255699600.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1169891255699600"
+        "url":  "https://www.facebook.com/ads/library/?id=1169891255699600",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -3309,7 +3584,8 @@ window.ADS = [
         "text":  "El mejor trabajo empieza desde la prevención: Protege tu hogar con Credipersona desde S/500. CAJAPIURA.PE Resurge con Caja Piura Pide tu crédito aquí Registrarte",
         "landing":  "",
         "img":  "img/meta-1085424567647462.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1085424567647462"
+        "url":  "https://www.facebook.com/ads/library/?id=1085424567647462",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -3321,7 +3597,8 @@ window.ADS = [
         "text":  "Prepárate para hacer más con tu tarjeta de crédito. Úsala y participa por 30 premios de S/500. Haz más con tu tarjeta de crédito Pídela aquí Learn More",
         "landing":  "",
         "img":  "img/meta-1451978923022446.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1451978923022446"
+        "url":  "https://www.facebook.com/ads/library/?id=1451978923022446",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -3333,7 +3610,8 @@ window.ADS = [
         "text":  "El mejor trabajo empieza desde la prevención: Protege tu hogar con Credipersona desde S/500. CAJAPIURA.PE Resurge con Caja Piura Pide tu crédito aquí Registrarte",
         "landing":  "",
         "img":  "img/meta-4025941804209518.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=4025941804209518"
+        "url":  "https://www.facebook.com/ads/library/?id=4025941804209518",
+        "pld":  false
     },
     {
         "product":  "garantia",
@@ -3345,7 +3623,8 @@ window.ADS = [
         "text":  "¿Tienes un depósito a plazo fijo? Solicita un crédito de hasta el 90% de su valor. Presiona el botón conoce cómo hacerlo. Recibe hasta el 90% de tu plazo fijo Solicítalo en Caja Piura Learn More",
         "landing":  "",
         "img":  "img/meta-1654923872943588.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1654923872943588"
+        "url":  "https://www.facebook.com/ads/library/?id=1654923872943588",
+        "pld":  false
     },
     {
         "product":  "tarjeta",
@@ -3357,7 +3636,8 @@ window.ADS = [
         "text":  "Prepárate para hacer más con tu tarjeta de crédito. Úsala y participa por 30 premios de S/500. Haz más con tu tarjeta de crédito Pídela aquí Learn More",
         "landing":  "",
         "img":  "img/meta-2171194060428851.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=2171194060428851"
+        "url":  "https://www.facebook.com/ads/library/?id=2171194060428851",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -3369,7 +3649,8 @@ window.ADS = [
         "text":  "El mejor trabajo empieza desde la prevención: Protege tu hogar con Credipersona desde S/500. CAJAPIURA.PE Resurge con Caja Piura Pide tu crédito aquí Registrarte",
         "landing":  "",
         "img":  "img/meta-1451336200264266.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1451336200264266"
+        "url":  "https://www.facebook.com/ads/library/?id=1451336200264266",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -3381,7 +3662,8 @@ window.ADS = [
         "text":  "💙 Tus deudas no tienen que seguir acumulándose. ¿Cansado de pagar varias cuotas, recordar fechas y sentir que no avanzas? Es momento de poner todo en orden y respirar tranquilo. 💸✨ Consolida tus deudas en Caja Metropolitana con tu Préstamo Personal y recupera el control de tus finanzas. Solicita tu préstamo y organiza mejor tus finanzas desde hoy. 👉 Ordena tus deudas ahora. ✅ Mayor información ",
         "landing":  "",
         "img":  "img/meta-1592647125996303.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1592647125996303"
+        "url":  "https://www.facebook.com/ads/library/?id=1592647125996303",
+        "pld":  true
     },
     {
         "product":  "dlp",
@@ -3393,7 +3675,8 @@ window.ADS = [
         "text":  "💙 Si trabajas en una institución con convenio en Caja Metropolitana, como quienes día a día cuidan, apoyan y hacen crecer nuestra ciudad 🏙️🙌 Accede a un Préstamo Convenio pensado para ti, con atención rápida, proceso simple y descuento por planilla ✨ 📌 Descuento directo por planilla 📌 Atención personalizada 📌 Fácil y rápido #CajaMetropolitana #PréstamoConvenio #Convenios #Crédito #LaCajaDeTo",
         "landing":  "",
         "img":  "img/meta-1588392682951739.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1588392682951739"
+        "url":  "https://www.facebook.com/ads/library/?id=1588392682951739",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -3405,7 +3688,8 @@ window.ADS = [
         "text":  "💙 Si trabajas en una institución con convenio en Caja Metropolitana, como quienes día a día contribuyen al cuidado y bienestar de nuestra ciudad 🙌 Accede a un Préstamo Convenio pensado para ti, con atención rápida, descuento por planilla y un proceso simple ✨ 📌 Descuento directo por planilla 📌 Atención personalizada 📌 Fácil y rápido #CajaMetropolitana #PréstamoConvenio #Convenios #Crédito #La",
         "landing":  "",
         "img":  "img/meta-1667566238268460.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1667566238268460"
+        "url":  "https://www.facebook.com/ads/library/?id=1667566238268460",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -3417,7 +3701,8 @@ window.ADS = [
         "text":  "Accede a nuestro Crédito con Garantía de Joyas y obtén tu préstamo de forma rápida y segura. ☑️✨ 📍 Visítanos en nuestras agencias ¡y solicita tu préstamo hoy mismo! 💍💰 #CajaMetropolitana #GarantíaDeJoyas  #LaCajaDeTodos #SoluciónFinanciera FB.ME Dale click para registrarte 👉 Caja Metropolitana de Lima Registrarte",
         "landing":  "",
         "img":  "img/meta-1156304160061862.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1156304160061862"
+        "url":  "https://www.facebook.com/ads/library/?id=1156304160061862",
+        "pld":  false
     },
     {
         "product":  "dlp",
@@ -3429,7 +3714,8 @@ window.ADS = [
         "text":  "Ese proyecto que tienes en mente no tiene por qué seguir esperando. 💙✨ Ya sea para consolidar deudas, financiar tus estudios, hacer viajar a tu familia o concretar una meta personal, en Caja Metropolitana te impulsamos a lograrlo con un Préstamo Personal a tu medida. 📌 Tasas competitivas 📌 Cuotas flexibles 📌 Atención personalizada 💬 ¿Listo para dar el siguiente paso? 👉 Solicita tu evaluación",
         "landing":  "",
         "img":  "img/meta-2313483209425090.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=2313483209425090"
+        "url":  "https://www.facebook.com/ads/library/?id=2313483209425090",
+        "pld":  true
     },
     {
         "product":  "dlp",
@@ -3441,6 +3727,1337 @@ window.ADS = [
         "text":  "🎄🎁 ¡La magia de compartir se vive en esta Navidad! ✨ Con Navidad que Conecta+, solicita tu Crédito Consumo en Caja Metropolitana y sé uno de los ganadores de increíbles premios para disfrutar junto a quienes más quieres. 🎅💙 🎉 ¡Haz que la alegría llegue a tu hogar! #CajaMetropolitana #NavidadQueConecta #CréditoConsumo #Premios #Navidad2026 #LaCajaDeTodos",
         "landing":  "",
         "img":  "img/meta-1870462030626724.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1870462030626724"
+        "url":  "https://www.facebook.com/ads/library/?id=1870462030626724",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Educación y seguridad",
+        "src":  "meta",
+        "id":  "1079850061713088",
+        "adv":  "Banco Ripley Perú",
+        "start":  "2026-11-02",
+        "fmt":  "imagen",
+        "text":  "¡Tu próximo viaje empieza actualizando tus datos! 🌎✈️ Multiplica x10 tus opciones ¡Participa ahora! See Details",
+        "landing":  "",
+        "img":  "img/meta-1079850061713088.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1079850061713088",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Marca e institucional",
+        "src":  "meta",
+        "id":  "1480353154017336",
+        "adv":  "Banco Falabella Perú",
+        "start":  "2026-11-03",
+        "fmt":  "video",
+        "text":  "Nelly Rossinelli te ayuda a reconocer esos pequeños gastos y cómo llevar mejor el control de tus ingresos sin dejar de disfrutar 💚  ¿Sabes cuánto gastas en esos gustitos del día a día? 👀💸 Learn More",
+        "landing":  "",
+        "img":  "img/meta-1480353154017336.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1480353154017336",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Marca e institucional",
+        "src":  "meta",
+        "id":  "4360576530859087",
+        "adv":  "Banco Falabella Perú",
+        "start":  "2026-11-03",
+        "fmt":  "video",
+        "text":  "Nelly Rossinelli te ayuda a reconocer esos pequeños gastos y cómo llevar mejor el control de tus ingresos sin dejar de disfrutar 💚  WWW.BANCOFALABELLA.PE Banco Falabella Perú Más información",
+        "landing":  "",
+        "img":  "img/meta-4360576530859087.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=4360576530859087",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Marca e institucional",
+        "src":  "meta",
+        "id":  "1427973079490108",
+        "adv":  "Banco Falabella Perú",
+        "start":  "2026-11-02",
+        "fmt":  "video",
+        "text":  "¿Coincides con los gustos de Ale Grande? 👀 Con estas preguntas, descubrimos cuáles son sus favoritos sobre comida😋 ¿Tú habrías elegido lo mismo que ella? 💚 Cuéntanos los comentarios 👇 #BancoFalabella #AleGrande ",
+        "landing":  "",
+        "img":  "img/meta-1427973079490108.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1427973079490108",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Sorteos y concursos",
+        "src":  "meta",
+        "id":  "974375542265048",
+        "adv":  "BBVA",
+        "start":  "2026-07-13",
+        "fmt":  "imagen",
+        "text":  "¡Imagina ganar hasta S/1,000 para ti! 💸🧑‍🎓 Ahora haz que sea posible participando por uno de los 50 premios. 🤩🙌 Canales Digitales BBVA Watch More",
+        "landing":  "",
+        "img":  "img/meta-974375542265048.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=974375542265048",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Sorteos y concursos",
+        "src":  "meta",
+        "id":  "1569191910975388",
+        "adv":  "BBVA",
+        "start":  "2026-09-28",
+        "fmt":  "video",
+        "text":  "Arrancó la 5ta temporada de Atrapa Tus Sueños. Tú puedes ser el próximo ganador de hasta S/10 millones. Conoce más en bbva.pe  BBVA.PE Gana hasta S/ 10 millones Ábrela ya Registrarte",
+        "landing":  "",
+        "img":  "img/meta-1569191910975388.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1569191910975388",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Sorteos y concursos",
+        "src":  "meta",
+        "id":  "1640215337485022",
+        "adv":  "BBVA",
+        "start":  "2026-10-23",
+        "fmt":  "imagen",
+        "text":  "Arrancó la 5ta temporada de Atrapa Tus Sueños. Tú puedes ser el próximo ganador de hasta S/10 millones. Conoce más en bbva.pe Atrapa Tus Sueños Gana hasta S/ 10 millones Watch More",
+        "landing":  "",
+        "img":  "img/meta-1640215337485022.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1640215337485022",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Educación y seguridad",
+        "src":  "meta",
+        "id":  "1676803967497541",
+        "adv":  "BBVA",
+        "start":  "2026-10-12",
+        "fmt":  "imagen",
+        "text":  "La biometría de tu App BBVA te acompaña para ingresar de forma rápida y segura. 📲🤳🏻🔐 Así de fácil es ingresar 😄 Más práctico 🔐 Learn More",
+        "landing":  "",
+        "img":  "img/meta-1676803967497541.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1676803967497541",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Sorteos y concursos",
+        "src":  "meta",
+        "id":  "1603933774545854",
+        "adv":  "BBVA",
+        "start":  "2026-09-28",
+        "fmt":  "video",
+        "text":  "Arrancó la 5ta temporada de Atrapa Tus Sueños. Tú puedes ser el próximo ganador de hasta S/10 millones. Conoce más en bbva.pe  BBVA.PE Gana hasta S/ 10 millones Ábrela ya Registrarte",
+        "landing":  "",
+        "img":  "img/meta-1603933774545854.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1603933774545854",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Sorteos y concursos",
+        "src":  "meta",
+        "id":  "1638636974507275",
+        "adv":  "BBVA",
+        "start":  "2026-10-26",
+        "fmt":  "imagen",
+        "text":  "¡Que no te lo cuenten! ✨. Inscríbete, usa tus 💳 BBVA desde S/20 y gana entradas dobles para The Strokes. HTTPS://FORM.BBVA.PE/APP/FORMULARIO/SORTEO-THE-STROKES?CID=SOC::META:2610-CAMPAÑA SORTEO CONCIERTO OCTUBRE-CUE-BBDD THE STROKES:BRAND-TRAFICO:IMAGEN 1::::::IMAGEN 1:::CPC The Strokes en Lima Válido con tu 💳 BBVA Sign Up",
+        "landing":  "",
+        "img":  "img/meta-1638636974507275.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1638636974507275",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Sorteos y concursos",
+        "src":  "meta",
+        "id":  "1059038020307286",
+        "adv":  "BBVA",
+        "start":  "2026-09-28",
+        "fmt":  "video",
+        "text":  "Arrancó la 5ta temporada de Atrapa Tus Sueños. Tú puedes ser el próximo ganador de hasta S/10 millones. Conoce más en bbva.pe  BBVA.PE Gana hasta S/ 10 millones Ábrela ya Registrarte",
+        "landing":  "",
+        "img":  "img/meta-1059038020307286.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1059038020307286",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Marca e institucional",
+        "src":  "meta",
+        "id":  "2642276702874611",
+        "adv":  "BBVA",
+        "start":  "2026-10-23",
+        "fmt":  "video",
+        "text":  "No sé qué historias nos esperan en los próximos años, pero estoy emocionado de vivirlas junto al @bbva_peru ¡Felices 75 años BBVA! 🎉 #Publicidad #BBVA75Años #BBVA #Peru ",
+        "landing":  "",
+        "img":  "img/meta-2642276702874611.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=2642276702874611",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Educación y seguridad",
+        "src":  "meta",
+        "id":  "3563465750481246",
+        "adv":  "BBVA",
+        "start":  "2026-10-12",
+        "fmt":  "imagen",
+        "text":  "Con la biometría de tu App BBVA puedes ingresar de forma rápida y segura. 📲😉 ¿Una sonrisa y listo? 😄 Menos tiempo ingresando claves, más tiempo para ti 💙 Learn More",
+        "landing":  "",
+        "img":  "img/meta-3563465750481246.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=3563465750481246",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Marca e institucional",
+        "src":  "meta",
+        "id":  "1619535463518991",
+        "adv":  "BBVA",
+        "start":  "2026-10-29",
+        "fmt":  "video",
+        "text":  "¿Propina de S/1,000 soles o de S/10 Millones? No te pierdas el segundo capítulo de Atrapa tus Sueños 💙 ",
+        "landing":  "",
+        "img":  "img/meta-1619535463518991.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1619535463518991",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Educación y seguridad",
+        "src":  "meta",
+        "id":  "3165245303664648",
+        "adv":  "BBVA",
+        "start":  "2026-10-12",
+        "fmt":  "imagen",
+        "text":  "La biometría de tu App BBVA te acompaña para ingresar de forma rápida y segura. 📲🤳🏻🔐 Así de fácil es ingresar 😄 Más práctico 🔐 Learn More",
+        "landing":  "",
+        "img":  "img/meta-3165245303664648.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=3165245303664648",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Marca e institucional",
+        "src":  "meta",
+        "id":  "2369261317144679",
+        "adv":  "BBVA",
+        "start":  "2026-10-27",
+        "fmt":  "video",
+        "text":  "A ESTO SI LE LLAMO CELEBRAR CON TODO! ⭐️ Un aniversario completamente mágico y especial con el equipo de @bbva_peru 🤍 75 años marcando la diferencia y acompañándonos a todos en nuestros momentos más importantes! #BBVA75años #publicidad ",
+        "landing":  "",
+        "img":  "img/meta-2369261317144679.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=2369261317144679",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Educación y seguridad",
+        "src":  "meta",
+        "id":  "1589311695550241",
+        "adv":  "BBVA",
+        "start":  "2026-10-12",
+        "fmt":  "imagen",
+        "text":  "Con la biometría de tu App BBVA puedes ingresar de forma rápida y segura. 📲😉 ¿Una sonrisa y listo? 😄 Menos tiempo ingresando claves, más tiempo para ti 💙 Learn More",
+        "landing":  "",
+        "img":  "img/meta-1589311695550241.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1589311695550241",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Marca e institucional",
+        "src":  "meta",
+        "id":  "1688401362763469",
+        "adv":  "BBVA",
+        "start":  "2026-10-27",
+        "fmt":  "video",
+        "text":  "Acompañé a @bbva_peru en la celebración de sus 75 años en el Perú, una noche que terminó iluminando Lima con el estreno de la nueva fachada de su sede central. ¡Por todo lo recorrido y por todo lo que viene! 💙 #bbva75años ",
+        "landing":  "",
+        "img":  "img/meta-1688401362763469.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1688401362763469",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Marca e institucional",
+        "src":  "meta",
+        "id":  "1673335847834518",
+        "adv":  "BBVA",
+        "start":  "2026-10-27",
+        "fmt":  "imagen",
+        "text":  "El bienestar también es parte de la #VidaEnBBVA 💙 Encuentra tu oportunidad siguiéndonos en LinkedIn como \"BBVA en Perú\". Salud BBVA Learn More",
+        "landing":  "",
+        "img":  "img/meta-1673335847834518.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1673335847834518",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Becas, empleo y comunidad",
+        "src":  "meta",
+        "id":  "1689023659556464",
+        "adv":  "BBVA",
+        "start":  "2026-10-27",
+        "fmt":  "imagen",
+        "text":  "Lleva tu talento más lejos en el #EquipoBBVA 🚀 Encuentra tu oportunidad siguiéndonos en LinkedIn como \"BBVA en Perú\". Únete a BBVA (75 años) Learn More",
+        "landing":  "",
+        "img":  "img/meta-1689023659556464.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1689023659556464",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Educación y seguridad",
+        "src":  "meta",
+        "id":  "1893896778443711",
+        "adv":  "BBVA",
+        "start":  "2026-10-26",
+        "fmt":  "video",
+        "text":  "👀🔐 ¡Tus ojos y tus huellas son la clave! Activando la opción Biometría podrás acceder a tu App BBVA fácilmente. 📱💙 Te mostramos cómo hacerlo. ",
+        "landing":  "",
+        "img":  "img/meta-1893896778443711.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1893896778443711",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Sorteos y concursos",
+        "src":  "meta",
+        "id":  "2607568566426646",
+        "adv":  "BBVA",
+        "start":  "2026-10-23",
+        "fmt":  "imagen",
+        "text":  "Arrancó la 5ta temporada de Atrapa Tus Sueños. Tú puedes ser el próximo ganador de hasta S/10 millones. Conoce más en bbva.pe Atrapa Tus Sueños Gana hasta S/ 10 millones Watch More",
+        "landing":  "",
+        "img":  "img/meta-2607568566426646.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=2607568566426646",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Educación y seguridad",
+        "src":  "meta",
+        "id":  "28687833554192611",
+        "adv":  "BBVA",
+        "start":  "2026-10-26",
+        "fmt":  "video",
+        "text":  "👀🔐 ¡Tus ojos y tus huellas son la clave! Activando la opción Biometría podrás acceder a tu App BBVA fácilmente. 📱💙 Te mostramos cómo hacerlo. ",
+        "landing":  "",
+        "img":  "img/meta-28687833554192611.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=28687833554192611",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Educación y seguridad",
+        "src":  "meta",
+        "id":  "28885436271109440",
+        "adv":  "BBVA",
+        "start":  "2026-10-26",
+        "fmt":  "video",
+        "text":  "👀🔐 ¡Tus ojos y tus huellas son la clave! Activando la opción Biometría podrás acceder a tu App BBVA fácilmente. 📱💙 Te mostramos cómo hacerlo. ",
+        "landing":  "",
+        "img":  "img/meta-28885436271109440.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=28885436271109440",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Educación y seguridad",
+        "src":  "meta",
+        "id":  "1429858736001316",
+        "adv":  "BBVA",
+        "start":  "2026-10-26",
+        "fmt":  "video",
+        "text":  "👀🔐 ¡Tus ojos y tus huellas son la clave! Activando la opción Biometría podrás acceder a tu App BBVA fácilmente. 📱💙 Te mostramos cómo hacerlo. ",
+        "landing":  "",
+        "img":  "img/meta-1429858736001316.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1429858736001316",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Marca e institucional",
+        "src":  "meta",
+        "id":  "972537682582242",
+        "adv":  "BBVA",
+        "start":  "2026-10-30",
+        "fmt":  "video",
+        "text":  "¿Propina de S/1,000 soles o de S/10 Millones? No te pierdas el segundo capítulo de Atrapa tus Sueños 💙 ",
+        "landing":  "",
+        "img":  "img/meta-972537682582242.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=972537682582242",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Educación y seguridad",
+        "src":  "meta",
+        "id":  "1668343474904302",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-10-30",
+        "fmt":  "video",
+        "text":  "¡Cuidado con los mensajes sospechosos! Verifica siempre que provengan del canal oficial del BCP y evita fraudes. ",
+        "landing":  "",
+        "img":  "img/meta-1668343474904302.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1668343474904302",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Educación y seguridad",
+        "src":  "meta",
+        "id":  "1105228428895068",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-10-23",
+        "fmt":  "imagen",
+        "text":  "🚨 ¿Te llegó un SMS que parece ser del BCP? Ten cuidado con los enlaces que te solicitan ingresar tus datos personales. 🔎 Verifica siempre la dirección web y asegúrate de que corresponda a un canal oficial del BCP. Si algo te parece sospechoso, no continúes ni compartas tu información. 📲 Comparte esta alerta y ayúdanos a prevenir el fraude. VIABCP.COM Learn More VIABCP.COM Learn More",
+        "landing":  "",
+        "img":  "img/meta-1105228428895068.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1105228428895068",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Sorteos y concursos",
+        "src":  "meta",
+        "id":  "1578256603662801",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-06-04",
+        "fmt":  "imagen",
+        "text":  "👩‍💻 ¡Demuestra tu lado todoterreno! Regístrate gratis en el BCP y participa por una laptop Lenovo o un celular. 🚀 ¡Gana una laptop y celular! 💻 Regístrate gratis hoy aquí. 📲 Learn More",
+        "landing":  "",
+        "img":  "img/meta-1578256603662801.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1578256603662801",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Educación y seguridad",
+        "src":  "meta",
+        "id":  "1605494077767061",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-07-27",
+        "fmt":  "imagen",
+        "text":  "Gana y aprende con Emprendedor Todo Terreno de BCP. Haz microcursos de 3 min. y gana dos laptops, dos iPhone 16 y más. Gana y aprende Con microcursos de 3 minutos Learn More",
+        "landing":  "",
+        "img":  "img/meta-1605494077767061.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1605494077767061",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Becas, empleo y comunidad",
+        "src":  "meta",
+        "id":  "1714289596781629",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-09-28",
+        "fmt":  "imagen",
+        "text":  "Tu talento y dedicación merecen el espacio para crecer. Estudia la carrera que te apasiona e inspira a los tuyos postulando a Becas BCP. Cambia tu propia historia Postula hoy mismo Sign Up",
+        "landing":  "",
+        "img":  "img/meta-1714289596781629.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1714289596781629",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Becas, empleo y comunidad",
+        "src":  "meta",
+        "id":  "2836375853408863",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-09-28",
+        "fmt":  "imagen",
+        "text":  "Tu talento y dedicación merecen el espacio para crecer. Estudia la carrera que te apasiona e inspira a los tuyos postulando a Becas BCP. Cambia tu propia historia Postula hoy mismo Sign Up",
+        "landing":  "",
+        "img":  "img/meta-2836375853408863.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=2836375853408863",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Becas, empleo y comunidad",
+        "src":  "meta",
+        "id":  "2506763349812155",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-09-28",
+        "fmt":  "video",
+        "text":  "Estudiar la carrera de tus sueños también llena de orgullo e inspira a tu comunidad. Postula a Becas BCP y haz lo que te apasiona.  Postula YA Conoce más aquí Sign Up",
+        "landing":  "",
+        "img":  "img/meta-2506763349812155.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=2506763349812155",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Educación y seguridad",
+        "src":  "meta",
+        "id":  "4671057799880698",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-11-02",
+        "fmt":  "imagen",
+        "text":  "Una nueva forma de validar tu identidad en la App BCP. Descubre cómo este cambio hará más simple tu experiencia en tus canales digitales.",
+        "landing":  "",
+        "img":  "img/meta-4671057799880698.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=4671057799880698",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Educación y seguridad",
+        "src":  "meta",
+        "id":  "4540411616215323",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-11-02",
+        "fmt":  "imagen",
+        "text":  "Una nueva forma de validar tu identidad en la App BCP. Descubre cómo este cambio hará más simple tu experiencia en tus canales digitales.",
+        "landing":  "",
+        "img":  "img/meta-4540411616215323.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=4540411616215323",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Educación y seguridad",
+        "src":  "meta",
+        "id":  "2171448420467859",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-11-02",
+        "fmt":  "imagen",
+        "text":  "Una nueva forma de validar tu identidad en la App BCP. 📱 Descubre cómo este cambio hará más simple tu experiencia en tus canales digitales. 🛡️ Conoce la nueva validación de identidad Desliza y conoce más. Watch More",
+        "landing":  "",
+        "img":  "img/meta-2171448420467859.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=2171448420467859",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Becas, empleo y comunidad",
+        "src":  "meta",
+        "id":  "1877855400047839",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-11-02",
+        "fmt":  "imagen",
+        "text":  "🎓 ¡Estás a un paso de alcanzar tus metas! Ya comenzaste tu postulación a Becas BCP 2027, ¡ahora es momento de completarla! 💙🧡 📩 Ingresa a www.concurso.postulabecasbcp.com, adjunta los documentos pendientes y termina tu postulación. 🚀 ¡No dejes pasar esta oportunidad de impulsar tu futuro!",
+        "landing":  "",
+        "img":  "img/meta-1877855400047839.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1877855400047839",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Becas, empleo y comunidad",
+        "src":  "meta",
+        "id":  "1620825676085225",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-09-22",
+        "fmt":  "video",
+        "text":  "Estudiar la carrera de tus sueños también llena de orgullo e inspira a tu comunidad. Postula a Becas BCP y haz lo que te apasiona.  Postula YA Conoce más aquí Sign Up",
+        "landing":  "",
+        "img":  "img/meta-1620825676085225.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1620825676085225",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Sorteos y concursos",
+        "src":  "meta",
+        "id":  "1391818323160147",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-11-02",
+        "fmt":  "video",
+        "text":  "¡Noviembre ya empezó y los premios también! ¿Vas a dejar pasar esta oportunidad?  ⏰ ¡Los últimos días ya empezaron! Sign Up",
+        "landing":  "",
+        "img":  "img/meta-1391818323160147.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1391818323160147",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Becas, empleo y comunidad",
+        "src":  "meta",
+        "id":  "1411114587390940",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-10-26",
+        "fmt":  "video",
+        "text":  "¡Así vivimos Becas BCP en Mallplaza Angamos! 🎓💙 Durante el fin de semana, más jóvenes y familias conocieron todo lo que una Beca BCP puede impulsar, resolvieron sus dudas y descubrieron cómo postular. ¿Tú también tienes grandes planes? Da el primer paso y empieza a generar un impacto más grande de lo que imaginas. ✨ 👉 Conoce los requisitos y postula en https://www.viabcp.com/becasbcp #BecasBCP ",
+        "landing":  "",
+        "img":  "img/meta-1411114587390940.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1411114587390940",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Educación y seguridad",
+        "src":  "meta",
+        "id":  "2177172196201249",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-11-02",
+        "fmt":  "imagen",
+        "text":  "Una nueva forma de validar tu identidad en la App BCP. Descubre cómo este cambio hará más simple tu experiencia en tus canales digitales.",
+        "landing":  "",
+        "img":  "img/meta-2177172196201249.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=2177172196201249",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Educación y seguridad",
+        "src":  "meta",
+        "id":  "1184630054130573",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-11-02",
+        "fmt":  "video",
+        "text":  "Una nueva forma de validar tu identidad en la App BCP. Descubre cómo este cambio hará más simple tu experiencia en tus canales digitales. ",
+        "landing":  "",
+        "img":  "img/meta-1184630054130573.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1184630054130573",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Becas, empleo y comunidad",
+        "src":  "meta",
+        "id":  "1122850393665549",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-10-26",
+        "fmt":  "video",
+        "text":  "¡Así vivimos Becas BCP en Mallplaza Angamos! 🎓💙 Durante el fin de semana, más jóvenes y familias conocieron todo lo que una Beca BCP puede impulsar, resolvieron sus dudas y descubrieron cómo postular. ¿Tú también tienes grandes planes? Da el primer paso y empieza a generar un impacto más grande de lo que imaginas. ✨ 👉 Conoce los requisitos y postula en https://www.viabcp.com/becasbcp #BecasBCP ",
+        "landing":  "",
+        "img":  "img/meta-1122850393665549.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1122850393665549",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Becas, empleo y comunidad",
+        "src":  "meta",
+        "id":  "2191402485112394",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-11-02",
+        "fmt":  "imagen",
+        "text":  "🎓 ¡Estás a un paso de alcanzar tus metas! Ya comenzaste tu postulación a Becas BCP 2027, ¡ahora es momento de completarla! 💙🧡 📩 Ingresa a www.concurso.postulabecasbcp.com, adjunta los documentos pendientes y termina tu postulación. 🚀 ¡No dejes pasar esta oportunidad de impulsar tu futuro!",
+        "landing":  "",
+        "img":  "img/meta-2191402485112394.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=2191402485112394",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Educación y seguridad",
+        "src":  "meta",
+        "id":  "1653459839559336",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-11-05",
+        "fmt":  "imagen",
+        "text":  "¿Te insisten para instalar una app? 🚨 No lo hagas.",
+        "landing":  "",
+        "img":  "img/meta-1653459839559336.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1653459839559336",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Becas, empleo y comunidad",
+        "src":  "meta",
+        "id":  "28077551411919508",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-10-26",
+        "fmt":  "video",
+        "text":  "¡Así vivimos Becas BCP en Mallplaza Angamos! 🎓💙 Durante el fin de semana, más jóvenes y familias conocieron todo lo que una Beca BCP puede impulsar, resolvieron sus dudas y descubrieron cómo postular. ¿Tú también tienes grandes planes? Da el primer paso y empieza a generar un impacto más grande de lo que imaginas. ✨ 👉 Conoce los requisitos y postula en https://www.viabcp.com/becasbcp #BecasBCP ",
+        "landing":  "",
+        "img":  "img/meta-28077551411919508.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=28077551411919508",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Educación y seguridad",
+        "src":  "meta",
+        "id":  "1852261442794153",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-11-03",
+        "fmt":  "imagen",
+        "text":  "¿Te apareció el aviso? Confirma que eres tú en la App BCP y sigue usando tus canales. 📲",
+        "landing":  "",
+        "img":  "img/meta-1852261442794153.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1852261442794153",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Becas, empleo y comunidad",
+        "src":  "meta",
+        "id":  "4579624645646483",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-10-16",
+        "fmt":  "video",
+        "text":  "Conoce la historia de Jennifer, una de nuestrass becariass, y descubre cómo Becas BCP viene impulsando a jóvenes talentosos de todo el Perú a acceder a educación superior de calidad. 👉 Conoce más y postula en viabcp.com/becasbcp #BecasBCP ",
+        "landing":  "",
+        "img":  "img/meta-4579624645646483.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=4579624645646483",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Educación y seguridad",
+        "src":  "meta",
+        "id":  "996004906477702",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-06-04",
+        "fmt":  "video",
+        "text":  "⏰ ¡Últimos días! No te quedes sin participar por grandes premios. Completa tus microcursos gratuitos del BCP ya.  ¡Últimos días para ganar! ⏳ Inscríbete antes que termine. Learn More",
+        "landing":  "",
+        "img":  "img/meta-996004906477702.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=996004906477702",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Educación y seguridad",
+        "src":  "meta",
+        "id":  "1805697297118436",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-10-09",
+        "fmt":  "imagen",
+        "text":  "Gana y aprende con Emprendedor Todo Terreno de BCP. Haz microcursos de 3 min. y gana dos laptops, dos iPhone 16 y más. Gana y aprende Con microcursos de 3 minutos Learn More",
+        "landing":  "",
+        "img":  "img/meta-1805697297118436.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1805697297118436",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Becas, empleo y comunidad",
+        "src":  "meta",
+        "id":  "1086210037488407",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-09-22",
+        "fmt":  "imagen",
+        "text":  "Tu talento y dedicación merecen el espacio para crecer. Estudia la carrera que te apasiona e inspira a los tuyos postulando a Becas BCP. Cambia tu propia historia Postula hoy mismo Sign Up",
+        "landing":  "",
+        "img":  "img/meta-1086210037488407.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1086210037488407",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Becas, empleo y comunidad",
+        "src":  "meta",
+        "id":  "3242567895952242",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-10-16",
+        "fmt":  "video",
+        "text":  "Conoce la historia de Jennifer, una de nuestrass becariass, y descubre cómo Becas BCP viene impulsando a jóvenes talentosos de todo el Perú a acceder a educación superior de calidad. 👉 Conoce más y postula en viabcp.com/becasbcp #BecasBCP ",
+        "landing":  "",
+        "img":  "img/meta-3242567895952242.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=3242567895952242",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Becas, empleo y comunidad",
+        "src":  "meta",
+        "id":  "1048894291489364",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-10-16",
+        "fmt":  "video",
+        "text":  "Conoce la historia de Jennifer, una de nuestrass becariass, y descubre cómo Becas BCP viene impulsando a jóvenes talentosos de todo el Perú a acceder a educación superior de calidad. 👉 Conoce más y postula en viabcp.com/becasbcp #BecasBCP ",
+        "landing":  "",
+        "img":  "img/meta-1048894291489364.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1048894291489364",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Becas, empleo y comunidad",
+        "src":  "meta",
+        "id":  "1741884030228425",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-11-02",
+        "fmt":  "imagen",
+        "text":  "🎓 ¡Estás a un paso de alcanzar tus metas! Ya comenzaste tu postulación a Becas BCP 2027, ¡ahora es momento de completarla! 💙🧡 📩 Ingresa a www.concurso.postulabecasbcp.com, adjunta los documentos pendientes y termina tu postulación. 🚀 ¡No dejes pasar esta oportunidad de impulsar tu futuro!",
+        "landing":  "",
+        "img":  "img/meta-1741884030228425.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1741884030228425",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Educación y seguridad",
+        "src":  "meta",
+        "id":  "1656570535991989",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-11-03",
+        "fmt":  "imagen",
+        "text":  "¿Ya viste el aviso? Sigue los pasos en la App BCP, crea tu nueva clave y listo.",
+        "landing":  "",
+        "img":  "img/meta-1656570535991989.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1656570535991989",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Becas, empleo y comunidad",
+        "src":  "meta",
+        "id":  "2502587796907703",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-09-28",
+        "fmt":  "video",
+        "text":  "Estudiar la carrera de tus sueños también llena de orgullo e inspira a tu comunidad. Postula a Becas BCP y haz lo que te apasiona.  Postula YA Conoce más aquí Sign Up",
+        "landing":  "",
+        "img":  "img/meta-2502587796907703.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=2502587796907703",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Becas, empleo y comunidad",
+        "src":  "meta",
+        "id":  "1123968030530554",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-10-21",
+        "fmt":  "imagen",
+        "text":  "Tu talento y tus finanzas 💼. Sincronízate con Evalúate BCP y descubre tus ofertas al instante 🚀. Tu talento y esfuerzo 💪 Merecen crecer. Learn More",
+        "landing":  "",
+        "img":  "img/meta-1123968030530554.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1123968030530554",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Educación y seguridad",
+        "src":  "meta",
+        "id":  "1668326124653549",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-11-05",
+        "fmt":  "video",
+        "text":  "¡Cuidado con los mensajes sospechosos! Verifica siempre que provengan del canal oficial del BCP y evita fraudes. ",
+        "landing":  "",
+        "img":  "img/meta-1668326124653549.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1668326124653549",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Educación y seguridad",
+        "src":  "meta",
+        "id":  "1190988666934132",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-11-05",
+        "fmt":  "imagen",
+        "text":  "¿Te insisten para instalar una app? 🚨 No lo hagas.",
+        "landing":  "",
+        "img":  "img/meta-1190988666934132.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1190988666934132",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Educación y seguridad",
+        "src":  "meta",
+        "id":  "954872254117321",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-11-05",
+        "fmt":  "imagen",
+        "text":  "Que la emoción de una oferta no te juegue en contra. 👀 Cuida tu dinero de las estafas en esta temporada de ofertas.",
+        "landing":  "",
+        "img":  "img/meta-954872254117321.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=954872254117321",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Becas, empleo y comunidad",
+        "src":  "meta",
+        "id":  "1673101591039752",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-11-04",
+        "fmt":  "video",
+        "text":  "¿Cómo están cambiando las agencias del BCP para estar cada vez más cerca de nuestros clientes? 👀 Transformar va mucho más allá de incorporar tecnología. También significa escuchar, innovar y encontrar nuevas formas de mejorar la experiencia de millones de peruanos. 💙 En este nuevo episodio de Pensar en Grande, conversamos con Mariana Gustin sobre cómo evolucionan nuestras agencias y el rol de la",
+        "landing":  "",
+        "img":  "img/meta-1673101591039752.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1673101591039752",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Sorteos y concursos",
+        "src":  "meta",
+        "id":  "1626250332579903",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-11-02",
+        "fmt":  "video",
+        "text":  "🥹💙 ¡Sus sonrisas lo dicen todo! 🎉 Así celebramos a los ganadores de Buenos días, todos los días, quienes se llevaron premios de S/5,000, S/10,000 y hasta S/20,000. 🤑 ",
+        "landing":  "",
+        "img":  "img/meta-1626250332579903.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1626250332579903",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Educación y seguridad",
+        "src":  "meta",
+        "id":  "1464831132487598",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-11-05",
+        "fmt":  "imagen",
+        "text":  "No todas las ofertas son lo que parecen. 👀 Las ganas de estrenar no deberían poner en riesgo tu plata.",
+        "landing":  "",
+        "img":  "img/meta-1464831132487598.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1464831132487598",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Sorteos y concursos",
+        "src":  "meta",
+        "id":  "2000962967261874",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-10-09",
+        "fmt":  "imagen",
+        "text":  "👩‍💻 ¡Demuestra tu lado todoterreno! Regístrate gratis en el BCP y participa por una laptop Lenovo o un celular. 🚀 ¡Gana una laptop y celular! 💻 Regístrate gratis hoy aquí. 📲 Learn More",
+        "landing":  "",
+        "img":  "img/meta-2000962967261874.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=2000962967261874",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Educación y seguridad",
+        "src":  "meta",
+        "id":  "39532816886365637",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-11-05",
+        "fmt":  "imagen",
+        "text":  "No dejes que una oferta te apure. Si te llaman con vuelos baratos a cambio de instalar una app, no la instales y cuelga.",
+        "landing":  "",
+        "img":  "img/meta-39532816886365637.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=39532816886365637",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Marca e institucional",
+        "src":  "meta",
+        "id":  "1085936230961848",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-09-30",
+        "fmt":  "video",
+        "text":  "Tu asistente virtual  24/7  Aclara tus dudas con Clara Conoce a Clara y escríbele por WhatsAPP Send WhatsApp Message",
+        "landing":  "",
+        "img":  "img/meta-1085936230961848.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1085936230961848",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Becas, empleo y comunidad",
+        "src":  "meta",
+        "id":  "2080697815921136",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-11-04",
+        "fmt":  "video",
+        "text":  "¿Cómo están cambiando las agencias del BCP para estar cada vez más cerca de nuestros clientes? 👀 Transformar va mucho más allá de incorporar tecnología. También significa escuchar, innovar y encontrar nuevas formas de mejorar la experiencia de millones de peruanos. 💙 En este nuevo episodio de Pensar en Grande, conversamos con Mariana Gustin sobre cómo evolucionan nuestras agencias y el rol de la",
+        "landing":  "",
+        "img":  "img/meta-2080697815921136.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=2080697815921136",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Educación y seguridad",
+        "src":  "meta",
+        "id":  "1880763686613261",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-11-05",
+        "fmt":  "imagen",
+        "text":  "No todas las ofertas son lo que parecen. 👀 Las ganas de estrenar no deberían poner en riesgo tu plata.",
+        "landing":  "",
+        "img":  "img/meta-1880763686613261.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1880763686613261",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Becas, empleo y comunidad",
+        "src":  "meta",
+        "id":  "1779679746650392",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-10-29",
+        "fmt":  "video",
+        "text":  "¡Becas BCP llegó a Mall Plaza Santa Anita! 🎓💙 Compartimos un fin de semana con jóvenes y familias que pudieron conocer más sobre el programa, resolver sus dudas y animarse a dar el primer paso hacia la postulación. Si tú también tienes grandes planes, este puede ser el momento de empezar a hacerlos realidad. ✨ 👉 Conoce los requisitos y postula en www.viabcp.com/becasbcp  CONCURSO.POSTULABECASBC",
+        "landing":  "",
+        "img":  "img/meta-1779679746650392.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1779679746650392",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Becas, empleo y comunidad",
+        "src":  "meta",
+        "id":  "1153209693927309",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-10-29",
+        "fmt":  "video",
+        "text":  "¡Becas BCP llegó a Mall Plaza Santa Anita! 🎓💙 Compartimos un fin de semana con jóvenes y familias que pudieron conocer más sobre el programa, resolver sus dudas y animarse a dar el primer paso hacia la postulación. Si tú también tienes grandes planes, este puede ser el momento de empezar a hacerlos realidad. ✨ 👉 Conoce los requisitos y postula en www.viabcp.com/becasbcp  CONCURSO.POSTULABECASBC",
+        "landing":  "",
+        "img":  "img/meta-1153209693927309.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1153209693927309",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Educación y seguridad",
+        "src":  "meta",
+        "id":  "1704832677669257",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-11-05",
+        "fmt":  "imagen",
+        "text":  "¿Te insisten para instalar una app? 🚨 No lo hagas.",
+        "landing":  "",
+        "img":  "img/meta-1704832677669257.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1704832677669257",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Becas, empleo y comunidad",
+        "src":  "meta",
+        "id":  "1762571458308217",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-10-29",
+        "fmt":  "video",
+        "text":  "¡Becas BCP llegó a Mall Plaza Santa Anita! 🎓💙 Compartimos un fin de semana con jóvenes y familias que pudieron conocer más sobre el programa, resolver sus dudas y animarse a dar el primer paso hacia la postulación. Si tú también tienes grandes planes, este puede ser el momento de empezar a hacerlos realidad. ✨ 👉 Conoce los requisitos y postula en www.viabcp.com/becasbcp  CONCURSO.POSTULABECASBC",
+        "landing":  "",
+        "img":  "img/meta-1762571458308217.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1762571458308217",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Becas, empleo y comunidad",
+        "src":  "meta",
+        "id":  "2005074320191748",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-11-04",
+        "fmt":  "video",
+        "text":  "¿Cómo están cambiando las agencias del BCP para estar cada vez más cerca de nuestros clientes? 👀 Transformar va mucho más allá de incorporar tecnología. También significa escuchar, innovar y encontrar nuevas formas de mejorar la experiencia de millones de peruanos. 💙 En este nuevo episodio de Pensar en Grande, conversamos con Mariana Gustin sobre cómo evolucionan nuestras agencias y el rol de la",
+        "landing":  "",
+        "img":  "img/meta-2005074320191748.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=2005074320191748",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Sorteos y concursos",
+        "src":  "meta",
+        "id":  "1438407196014775",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-10-21",
+        "fmt":  "imagen",
+        "text":  "👩‍💻 ¡Demuestra tu lado todoterreno! Regístrate gratis en el BCP y participa por una laptop Lenovo o un celular. 🚀 ¡Gana una laptop y celular! 💻 Regístrate gratis hoy aquí. 📲 Watch More",
+        "landing":  "",
+        "img":  "img/meta-1438407196014775.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1438407196014775",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Sorteos y concursos",
+        "src":  "meta",
+        "id":  "1144536917965528",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-11-02",
+        "fmt":  "imagen",
+        "text":  "🌎 Participa por uno de los tres viajes. Transfiere con tu App BCP y gana fácil, rápido y con tarifas bajas. 💸 💰 Envía y despega Retoma tu envío en App 📲 Watch More",
+        "landing":  "",
+        "img":  "img/meta-1144536917965528.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1144536917965528",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Becas, empleo y comunidad",
+        "src":  "meta",
+        "id":  "1766842097702226",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-11-04",
+        "fmt":  "video",
+        "text":  "¿Cómo están cambiando las agencias del BCP para estar cada vez más cerca de nuestros clientes? 👀 Transformar va mucho más allá de incorporar tecnología. También significa escuchar, innovar y encontrar nuevas formas de mejorar la experiencia de millones de peruanos. 💙 En este nuevo episodio de Pensar en Grande, conversamos con Mariana Gustin sobre cómo evolucionan nuestras agencias y el rol de la",
+        "landing":  "",
+        "img":  "img/meta-1766842097702226.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1766842097702226",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Educación y seguridad",
+        "src":  "meta",
+        "id":  "4687302761554393",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-11-05",
+        "fmt":  "video",
+        "text":  "Saber qué hacer puede marcar la diferencia. 🔒 Conoce nuestras opciones de Bloqueo de Emergencia. Comparte este video con quienes más quieres para que también estén preparados. #BCP #SeguridadBCP ",
+        "landing":  "",
+        "img":  "img/meta-4687302761554393.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=4687302761554393",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Educación y seguridad",
+        "src":  "meta",
+        "id":  "1741089770323162",
+        "adv":  "Banco de Crédito BCP",
+        "start":  "2026-11-05",
+        "fmt":  "imagen",
+        "text":  "Tómate un momento para verificar. Si te ofrecen ampliar tu línea instalando una app, no la instales y consulta con el BCP.",
+        "landing":  "",
+        "img":  "img/meta-1741089770323162.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1741089770323162",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Educación y seguridad",
+        "src":  "meta",
+        "id":  "1154840937190328",
+        "adv":  "Scotiabank Perú",
+        "start":  "2026-11-05",
+        "fmt":  "imagen",
+        "text":  "Estar preparados también es una forma de cuidar a los que más queremos. ❤️ Tener una mochila de emergencia puede hacer la diferencia. Ármala hoy y tenla siempre visible. #ScotiabankPerú #MásUnidosDeLoQueCrees INSTAGRAM.COM Scotiabank Perú (@scotiabankpe) • Instagram photos and videos Learn More INSTAGRAM.COM Scotiabank Perú (@scotiabankpe) • Instagram photos and videos Learn More INSTAGRAM.COM S",
+        "landing":  "",
+        "img":  "img/meta-1154840937190328.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1154840937190328",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Sorteos y concursos",
+        "src":  "meta",
+        "id":  "2218165372328370",
+        "adv":  "Interbank",
+        "start":  "2026-06-10",
+        "fmt":  "imagen",
+        "text":  "🎁 Con Interbank APP, todo es más simple. Descarga la app y participa por 1 de las 40 Gift Cards de S/200 para disfrutar en lo que más quieras. 🙌✨ Aplican TyC. 🎁 Descarga y gana más Install Now",
+        "landing":  "",
+        "img":  "img/meta-2218165372328370.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=2218165372328370",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Marca e institucional",
+        "src":  "meta",
+        "id":  "1121823023834779",
+        "adv":  "Interbank",
+        "start":  "2026-10-19",
+        "fmt":  "video",
+        "text":  "Tu antojo merece más 🤩 Hazte cliente Interbank y disfruta 9 meses gratis de PedidosYa Plus, con envíos gratis o a menor costo y promos especiales. TyC Válido para nuevos clientes  Hazte cliente y disfruta más Hazte cliente y obtén mucho más Learn More",
+        "landing":  "",
+        "img":  "img/meta-1121823023834779.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1121823023834779",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Educación y seguridad",
+        "src":  "meta",
+        "id":  "2077554876164413",
+        "adv":  "Interbank",
+        "start":  "2026-07-17",
+        "fmt":  "video",
+        "text":  "Más privacidad para tu Interbank APP. 🔒📲💚 Personaliza el ícono de tu app para que pase desapercibida y protege mejor tu información.  Más seguridad en tu APP Use App",
+        "landing":  "",
+        "img":  "img/meta-2077554876164413.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=2077554876164413",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Sorteos y concursos",
+        "src":  "meta",
+        "id":  "1138842798586471",
+        "adv":  "Caja Arequipa",
+        "start":  "2026-10-26",
+        "fmt":  "imagen",
+        "text":  "¡Esta Navidad, participa por S/500! Regístrate, mira nuestro video navideño y responde correctamente la pregunta para participar en el sorteo de 3 premios de S/500 cada uno. 🎁 ¡No te quedes sin participar! 🎁 ¡Participa y gana S/500! 3 ganadores, S/500 para cada uno. ¡Inscríbete! See Details",
+        "landing":  "",
+        "img":  "img/meta-1138842798586471.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1138842798586471",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Educación y seguridad",
+        "src":  "meta",
+        "id":  "1751238016110072",
+        "adv":  "Caja Arequipa",
+        "start":  "2026-10-22",
+        "fmt":  "imagen",
+        "text":  "🎒 ¡Estar preparados puede marcar la diferencia! Ante una emergencia, contar con una mochila equipada es una medida importante para proteger a tu familia. Incluye agua, alimentos no perecibles, medicamentos, documentos importantes y artículos de primera necesidad. Recuerda: la prevención empieza en casa. ¡Estar listos, suma! #CajaArequipa #EstarListosSuma #Prevención",
+        "landing":  "",
+        "img":  "img/meta-1751238016110072.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1751238016110072",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Educación y seguridad",
+        "src":  "meta",
+        "id":  "2234855637246378",
+        "adv":  "Caja Arequipa",
+        "start":  "2026-10-19",
+        "fmt":  "imagen",
+        "text":  "¿Quieres emprender desde casa? 🏠 👉 Descubre cómo empezar en el artículo completo. 👉 Conócelas aquí. Learn More",
+        "landing":  "",
+        "img":  "img/meta-2234855637246378.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=2234855637246378",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Sorteos y concursos",
+        "src":  "meta",
+        "id":  "2192067088107039",
+        "adv":  "Caja Arequipa",
+        "start":  "2026-10-26",
+        "fmt":  "imagen",
+        "text":  "🧠 3 opciones. 1 respuesta correcta. ¡S/500 en juego! ¿Qué tan buena es tu memoria? Mira nuestro video navideño, presta atención a los detalles y demuestra cuánto recuerdas. 🎁 ¡Participa en el sorteo de 3 premios de S/500! 🎁 ¡Acepta el reto y gana S/500! 🎁 Participa por uno de los 3 premios de S/500. See Details",
+        "landing":  "",
+        "img":  "img/meta-2192067088107039.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=2192067088107039",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Sorteos y concursos",
+        "src":  "meta",
+        "id":  "1384233653783680",
+        "adv":  "Caja Arequipa",
+        "start":  "2026-10-28",
+        "fmt":  "imagen",
+        "text":  "¡A ver qué tan rápido eres! 🫰 Resuelve este acertijo y cuéntanos tu respuesta en los comentarios. #CajaArequipa #AsíDeRápido #Navidad",
+        "landing":  "",
+        "img":  "img/meta-1384233653783680.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1384233653783680",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Sorteos y concursos",
+        "src":  "meta",
+        "id":  "1332858748846326",
+        "adv":  "Caja Arequipa",
+        "start":  "2026-10-21",
+        "fmt":  "imagen",
+        "text":  "¡Ojo al detalle! 👀 Observa detenidamente y déjanos tu respuesta en los comentarios 👇 #CajaArequipa #RápidoMuyRápido",
+        "landing":  "",
+        "img":  "img/meta-1332858748846326.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1332858748846326",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Sorteos y concursos",
+        "src":  "meta",
+        "id":  "2142681836621649",
+        "adv":  "Caja Arequipa",
+        "start":  "2026-10-26",
+        "fmt":  "imagen",
+        "text":  "🎁 ¡Tu oportunidad de participar por S/500 está aquí! Esta Navidad tenemos un reto para ti: Regístrate. Mira nuestro video navideño. Responde correctamente la pregunta. ¡Y participa en el sorteo de uno de los 3 premios de S/500! 🎁 ¡Acepta el reto y gana S/500! 🎁 Participa por uno de los 3 premios de S/500. See Details",
+        "landing":  "",
+        "img":  "img/meta-2142681836621649.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=2142681836621649",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Educación y seguridad",
+        "src":  "meta",
+        "id":  "1460543116034120",
+        "adv":  "Caja Arequipa",
+        "start":  "2026-11-02",
+        "fmt":  "imagen",
+        "text":  "Ante el incremento de lluvias, es importante tomar medidas preventivas en tu hogar. Sigue estas recomendaciones y mantén a tu familia protegida. #CajaArequipa #EstarListosSuma #Prevención",
+        "landing":  "",
+        "img":  "img/meta-1460543116034120.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1460543116034120",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Becas, empleo y comunidad",
+        "src":  "meta",
+        "id":  "1167923405894130",
+        "adv":  "Caja Arequipa",
+        "start":  "2026-11-02",
+        "fmt":  "imagen",
+        "text":  "¡Superamos los S/11,000 millones en colocaciones! Una cifra que refleja miles de historias de esfuerzo, sueños que toman impulso y emprendedores que siguen creciendo de la mano de Caja Arequipa. Para celebrar este importante hito, nuestros colaboradores de todo el Perú se unieron con orgullo en un gran cajonazo, reafirmando su compromiso con quienes confían en nosotros. Porque detrás de cada logro",
+        "landing":  "",
+        "img":  "img/meta-1167923405894130.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1167923405894130",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Educación y seguridad",
+        "src":  "meta",
+        "id":  "1683880433352784",
+        "adv":  "Caja Arequipa",
+        "start":  "2026-11-02",
+        "fmt":  "imagen",
+        "text":  "🎒 ¡Estar preparados puede marcar la diferencia! Ante una emergencia, contar con una mochila equipada es una medida importante para proteger a tu familia. Incluye agua, alimentos no perecibles, medicamentos, documentos importantes y artículos de primera necesidad. Recuerda: la prevención empieza en casa. ¡Estar listos, suma! #CajaArequipa #EstarListosSuma #Prevención",
+        "landing":  "",
+        "img":  "img/meta-1683880433352784.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1683880433352784",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Educación y seguridad",
+        "src":  "meta",
+        "id":  "1480240610662229",
+        "adv":  "Caja Arequipa",
+        "start":  "2026-11-02",
+        "fmt":  "imagen",
+        "text":  "¡Estar listos suma! Como parte de nuestro compromiso con la prevención, realizamos 4 talleres dirigidos a emprendedores de mercados de Tumbes, Chiclayo, Piura y Trujillo, brindando recomendaciones y entregando implementos para fortalecer su preparación ante los efectos del Fenómeno El Niño. Seguimos impulsando acciones que contribuyen a la seguridad y bienestar de nuestros emprendedores. #CajaAreq",
+        "landing":  "",
+        "img":  "img/meta-1480240610662229.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1480240610662229",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Sorteos y concursos",
+        "src":  "meta",
+        "id":  "1102691435930320",
+        "adv":  "Caja Piura",
+        "start":  "2026-10-30",
+        "fmt":  "video",
+        "text":  "Mantén tu celular y correo actualizados, sigue conectado a Caja Piura, recibe info y gana uno de los 100 premios de S/100. ",
+        "landing":  "",
+        "img":  "img/meta-1102691435930320.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1102691435930320",
+        "pld":  false
+    },
+    {
+        "product":  "branding",
+        "sub":  "Becas, empleo y comunidad",
+        "src":  "meta",
+        "id":  "1982597829385220",
+        "adv":  "Caja Ica",
+        "start":  "2026-11-04",
+        "fmt":  "imagen",
+        "text":  "🤩 ¡Tu experiencia tiene nombre! ✨ Hay atenciones que dejan huella y colaboradores que merecen ser reconocidos. 🤝 🌟 ¿Quién te brindó la mejor atención en Caja Ica? 👇 ¡Comenta su nombre y cuéntanos qué hizo que su atención fuera especial! 📅 Vigencia: del 4 al 18 de noviembre de 2026. #TuExperienciaTieneNombre #ExperienciaDelCliente #CajaIca Estado del sistema API de la biblioteca de anunciosInf",
+        "landing":  "",
+        "img":  "img/meta-1982597829385220.jpg",
+        "url":  "https://www.facebook.com/ads/library/?id=1982597829385220",
+        "pld":  false
     }
 ];
