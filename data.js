@@ -165,7 +165,7 @@ window.ADS = [
         "url":  "https://www.facebook.com/ads/library/?id=1622427616098880"
     },
     {
-        "product":  "credito_efectivo",
+        "product":  "dlp",
         "id":  "2233465894247621",
         "adv":  "Banco Ripley Perú",
         "start":  "2026-10-31",
@@ -176,7 +176,7 @@ window.ADS = [
         "url":  "https://www.facebook.com/ads/library/?id=2233465894247621"
     },
     {
-        "product":  "credito_efectivo",
+        "product":  "dlp",
         "id":  "2237857130409085",
         "adv":  "Banco Ripley Perú",
         "start":  "2026-10-31",
@@ -187,7 +187,7 @@ window.ADS = [
         "url":  "https://www.facebook.com/ads/library/?id=2237857130409085"
     },
     {
-        "product":  "credito_efectivo",
+        "product":  "dlp",
         "id":  "1453658436901421",
         "adv":  "Banco Ripley Perú",
         "start":  "2026-10-31",
@@ -209,7 +209,7 @@ window.ADS = [
         "url":  "https://www.facebook.com/ads/library/?id=2100441603944694"
     },
     {
-        "product":  "credito_efectivo",
+        "product":  "dlp",
         "id":  "1278593871097861",
         "adv":  "Banco Ripley Perú",
         "start":  "2026-10-31",
@@ -220,7 +220,7 @@ window.ADS = [
         "url":  "https://www.facebook.com/ads/library/?id=1278593871097861"
     },
     {
-        "product":  "credito_efectivo",
+        "product":  "maxicash",
         "id":  "1450839900347333",
         "adv":  "Banco Ripley Perú",
         "start":  "2026-11-01",
@@ -231,7 +231,7 @@ window.ADS = [
         "url":  "https://www.facebook.com/ads/library/?id=1450839900347333"
     },
     {
-        "product":  "credito_efectivo",
+        "product":  "maxicash",
         "id":  "4080020882129003",
         "adv":  "Banco Ripley Perú",
         "start":  "2026-11-01",
@@ -242,7 +242,7 @@ window.ADS = [
         "url":  "https://www.facebook.com/ads/library/?id=4080020882129003"
     },
     {
-        "product":  "credito_efectivo",
+        "product":  "maxicash",
         "id":  "1128621369892031",
         "adv":  "Banco Ripley Perú",
         "start":  "2026-11-01",
@@ -264,7 +264,7 @@ window.ADS = [
         "url":  "https://www.facebook.com/ads/library/?id=2544072916080468"
     },
     {
-        "product":  "credito_efectivo",
+        "product":  "maxicash",
         "id":  "1655328463050936",
         "adv":  "Banco Ripley Perú",
         "start":  "2026-11-02",
@@ -385,7 +385,7 @@ window.ADS = [
         "url":  "https://www.facebook.com/ads/library/?id=1435512925417076"
     },
     {
-        "product":  "credito_efectivo",
+        "product":  "maxicash",
         "id":  "1794568361795305",
         "adv":  "Banco Ripley Perú",
         "start":  "2026-11-01",
@@ -418,7 +418,7 @@ window.ADS = [
         "url":  "https://www.facebook.com/ads/library/?id=1103758679034176"
     },
     {
-        "product":  "credito_efectivo",
+        "product":  "maxicash",
         "id":  "1856204682471033",
         "adv":  "Banco Ripley Perú",
         "start":  "2026-11-02",
@@ -638,7 +638,7 @@ window.ADS = [
         "url":  "https://www.facebook.com/ads/library/?id=1524758363021419"
     },
     {
-        "product":  "credito_efectivo",
+        "product":  "dlp",
         "id":  "2345426256218463",
         "adv":  "Banco Ripley Perú",
         "start":  "2026-11-01",
