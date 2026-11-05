@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Competencia Sip · anuncios</title>
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--ink:#14181f;--muted:#5d6675;--line:#e3e6eb;--accent:#00a3e0;--accent-ink:#fff;--chip:#eef2f6}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0f1216;--card:#181c22;--ink:#e8ebf0;--muted:#9aa3b2;--line:#2a3039;--accent:#33b8ea;--accent-ink:#0f1216;--chip:#222831}}
+:root[data-theme="dark"]{--bg:#0f1216;--card:#181c22;--ink:#e8ebf0;--muted:#9aa3b2;--line:#2a3039;--accent:#33b8ea;--accent-ink:#0f1216;--chip:#222831}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.45 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+.wrap{max-width:1200px;margin:0 auto;padding:24px 16px 48px}
+header p{color:var(--muted);margin:4px 0 0}
+h1{font-size:24px;margin:0}
+.tabs{display:flex;gap:8px;flex-wrap:wrap;margin:20px 0 16px;border-bottom:1px solid var(--line);padding-bottom:12px}
+.tab{border:1px solid var(--line);background:var(--card);color:var(--ink);padding:8px 14px;border-radius:999px;cursor:pointer;font:inherit}
+.tab b{font-weight:600}
+.tab span{color:var(--muted);margin-left:6px}
+.tab[aria-selected="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.tab[aria-selected="true"] span{color:inherit;opacity:.8}
+.intro{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px;margin-bottom:16px}
+.intro h2{font-size:18px;margin:0 0 6px}
+.intro p{margin:4px 0;color:var(--muted)}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
+.chip{background:var(--chip);border-radius:999px;padding:3px 10px;font-size:13px}
+.filters{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:14px}
+.filters button{border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:8px;padding:5px 10px;cursor:pointer;font:inherit;font-size:13px}
+.filters button.on{border-color:var(--accent);color:var(--accent);font-weight:600}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:14px}
+.ad{background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden;display:flex;flex-direction:column}
+.ad img{width:100%;aspect-ratio:1/1;object-fit:cover;background:var(--chip);cursor:zoom-in;display:block}
+.ad .b{padding:12px;display:flex;flex-direction:column;gap:6px;flex:1}
+.ad .h{display:flex;justify-content:space-between;gap:8px;font-size:13px}
+.ad .h b{font-size:14px}
+.ad .m{color:var(--muted);font-size:12px}
+.ad .t{font-size:13.5px;display:-webkit-box;-webkit-line-clamp:6;-webkit-box-orient:vertical;overflow:hidden}
+.ad a{color:var(--accent);font-size:13px;margin-top:auto;text-decoration:none}
+.empty{background:var(--card);border:1px dashed var(--line);border-radius:12px;padding:24px;color:var(--muted)}
+.lb{position:fixed;inset:0;background:rgba(0,0,0,.8);display:none;align-items:center;justify-content:center;padding:16px;z-index:9}
+.lb.on{display:flex}.lb img{max-width:100%;max-height:100%;border-radius:8px}
+footer{margin-top:28px;color:var(--muted);font-size:12.5px}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+<h1>Anuncios de la competencia · productos Sip</h1>
+<p>Meta Ad Library · Perú · anuncios activos de bancos y financieras, capturados el 5 nov 2026. Una pestaña por producto de Sip con los anuncios equivalentes de la competencia.</p>
+</header>
+<nav class="tabs" id="tabs" role="tablist"></nav>
+<section id="intro" class="intro"></section>
+<div class="filters" id="filters"></div>
+<div class="grid" id="grid"></div>
+<footer>Fuente: Meta Ad Library (facebook.com/ads/library), búsquedas por palabra clave del producto filtradas a anunciantes financieros. No incluye Interbank (Grupo Intercorp). Haz clic en la imagen para ampliarla, o en "Ver en Meta" para abrir el anuncio original.</footer>
+</div>
+<div class="lb" id="lb"><img alt=""></div>
+<script src="data.js"></script>
+<script>
+const P = [
+ {id:'credito_efectivo', name:'Crédito Efectivo', sip:'Sip · Crédito Efectivo: préstamo en cuotas de hasta S/50,000 para clientes con tarjeta, abonado en cuenta.', comp:'Equivalentes: Súper Efectivo y "préstamo directo a tu cuenta" de Banco Ripley, Préstamo Efectivo de BanBif.'},
+ {id:'maxicash', name:'Maxicash', sip:'Sip · Maxicash (disposición de efectivo): retira efectivo de la línea de tu Tarjeta de Crédito Sip, hasta 48 cuotas.', comp:'Equivalentes: Efectivo Express de Banco Ripley, Efectivo Cuotas de BBVA, "saldo de tarjeta a efectivo" de Financiera Ineed.'},
+ {id:'tarjeta', name:'Tarjeta de Crédito', sip:'Sip · Tarjeta de Crédito: solicitud 100% web, S/50 de cashback en la primera compra y membresía gratis el primer año.', comp:'Equivalentes: BBVA (sin membresía 1 año, puntos de bienvenida), Banco Ripley, Banco Falabella / CMR, Santander Consumer, Scotiabank.'},
+ {id:'garantia', name:'Sip con Garantía', sip:'Sip · Tarjeta de Crédito con Garantía: para quien no tiene historial; la línea se respalda con un depósito.', comp:'No hay tarjetas con garantía (depósito) anunciadas en Meta por la competencia. Lo más cercano es la Tarjeta Start de BBVA, sin historial crediticio.'},
+ {id:'dlp', name:'DLP · Préstamo libre disposición', sip:'Sip · Préstamo Personal (DLP): hasta S/25,000 en 36 cuotas, sin necesidad de tener Tarjeta Sip.', comp:'Equivalentes: Préstamo Personal de Santander Consumer y BCP (preaprobado vía WhatsApp), crédito de libre disponibilidad de Financiera QAPAQ.'}
+];
+const ADS = window.ADS || [];
+let cur = P[0].id, adv = 'Todos';
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const fmtDate = d => { const m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(d||''); return m ? `${+m[3]} ${['ene','feb','mar','abr','may','jun','jul','ago','sep','oct','nov','dic'][+m[2]-1]}` : (d||''); };
+function render(){
+  const tabs = document.getElementById('tabs');
+  tabs.innerHTML = P.map(p => `<button class="tab" role="tab" aria-selected="${p.id===cur}" data-id="${p.id}"><b>${esc(p.name)}</b><span>${ADS.filter(a=>a.product===p.id).length}</span></button>`).join('');
+  tabs.querySelectorAll('.tab').forEach(b => b.onclick = () => { cur = b.dataset.id; adv = 'Todos'; render(); });
+  const p = P.find(x => x.id === cur);
+  const list = ADS.filter(a => a.product === cur).sort((a,b) => (b.start||'').localeCompare(a.start||''));
+  const counts = {}; list.forEach(a => counts[a.adv] = (counts[a.adv]||0) + 1);
+  const ranked = Object.entries(counts).sort((a,b) => b[1]-a[1]);
+  document.getElementById('intro').innerHTML = `<h2>${esc(p.name)}</h2><p><b>${esc(p.sip)}</b></p><p>${esc(p.comp)}</p>
+    <div class="chips">${ranked.map(([k,v]) => `<span class="chip">${esc(k)} · ${v}</span>`).join('')}</div>`;
+  const f = document.getElementById('filters');
+  f.innerHTML = ranked.length > 1 ? ['Todos', ...ranked.map(r=>r[0])].map(k => `<button class="${k===adv?'on':''}" data-k="${esc(k)}">${esc(k)}</button>`).join('') : '';
+  f.querySelectorAll('button').forEach(b => b.onclick = () => { adv = b.dataset.k; render(); });
+  const shown = adv === 'Todos' ? list : list.filter(a => a.adv === adv);
+  document.getElementById('grid').innerHTML = shown.length ? shown.map(a => `<article class="ad">
+    ${a.img ? `<img loading="lazy" src="${esc(a.img)}" alt="Anuncio de ${esc(a.adv)}">` : ''}
+    <div class="b"><div class="h"><b>${esc(a.adv)}</b><span class="m">${esc(fmtDate(a.start))} · ${esc(a.fmt)}</span></div>
+    <div class="t">${esc(a.text)}</div>
+    <a href="${esc(a.url)}" target="_blank" rel="noopener">Ver en Meta ↗</a></div></article>`).join('')
+    : `<div class="empty">Sin anuncios de la competencia para este producto.</div>`;
+  document.querySelectorAll('.ad img').forEach(i => i.onclick = () => { const lb = document.getElementById('lb'); lb.querySelector('img').src = i.src; lb.classList.add('on'); });
+}
+document.getElementById('lb').onclick = e => e.currentTarget.classList.remove('on');
+render();
+</script>
+</body>
+</html>
