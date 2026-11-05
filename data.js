@@ -8,7 +8,8 @@ window.ADS = [
         "text":  "Conoce si tienes una oferta de Préstamo Personal BCP preaprobada 💰 Pregúntale a Clara por WhatsApp 📲 Revisa tu préstamo con Clara Consúltalo con Clara del BCP Send WhatsApp Message",
         "landing":  "",
         "img":  "img/meta-1555358386624173.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1555358386624173"
+        "url":  "https://www.facebook.com/ads/library/?id=1555358386624173",
+        "src":  "meta"
     },
     {
         "product":  "dlp",
@@ -19,7 +20,8 @@ window.ADS = [
         "text":  "Revisa si cuentas con un Préstamo Personal BCP preaprobado 💰 Escríbele a Clara por WhatsApp para saberlo 📲  Revisa tu préstamo con Clara Consúltalo con Clara del BCP Send WhatsApp Message",
         "landing":  "",
         "img":  "img/meta-1056271350580293.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1056271350580293"
+        "url":  "https://www.facebook.com/ads/library/?id=1056271350580293",
+        "src":  "meta"
     },
     {
         "product":  "maxicash",
@@ -30,7 +32,8 @@ window.ADS = [
         "text":  "💳 ¡CONVIERTE EL SALDO DE TU TARJETA DE CRÉDITO EN EFECTIVO AL INSTANTE! 💸🔥 ¿Necesitas liquidez inmediata pero los bancos te cobran intereses altísimos por disposición de efectivo? ¡En Ineed Finanzas tenemos la solución más inteligente! Nosotros procesamos tu saldo AL 100% COMO COMPRA regular. Así evitas las comisiones abusivas y mantienes tu historial impecable. ¡Rápido, seguro y totalmente dis",
         "landing":  "",
         "img":  "img/meta-4263503633940507.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=4263503633940507"
+        "url":  "https://www.facebook.com/ads/library/?id=4263503633940507",
+        "src":  "meta"
     },
     {
         "product":  "tarjeta",
@@ -41,7 +44,8 @@ window.ADS = [
         "text":  "💳¡Tu Tarjeta de Crédito te da cientos de beneficios! ✨Aprovecha la membresía S/0 y disfruta los beneficios que te da tu tarjeta por realizar compras todos los meses ✨ Solicita tu Tarjeta de Crédito Apply Now",
         "landing":  "https://www.santanderconsumer.com.pe/personas/tarjeta/solicitar-visa-santander-consumer?utm_source=Meta\u0026utm_medium=cpl\u0026utm_campaign=Tarjetas_Adquisicion-Cashback-Sorteo_Meta_cpl_11-26\u0026utm_term=benefic",
         "img":  "img/meta-1140979145094256.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1140979145094256"
+        "url":  "https://www.facebook.com/ads/library/?id=1140979145094256",
+        "src":  "meta"
     },
     {
         "product":  "maxicash",
@@ -52,7 +56,8 @@ window.ADS = [
         "text":  "Realizar el retiro de tu efectivo cuotas BBVA de tu Tarjeta de Crédito BBVA es súper fácil y rápido. Hazlo para que aproveches al máximo tu próximo viaje. Efectivo a Cuotas BBVA See Details",
         "landing":  "http://play.google.com/store/apps/details?id=com.bbva.nxt_peru",
         "img":  "img/meta-1084083757743524.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1084083757743524"
+        "url":  "https://www.facebook.com/ads/library/?id=1084083757743524",
+        "src":  "meta"
     },
     {
         "product":  "maxicash",
@@ -63,7 +68,8 @@ window.ADS = [
         "text":  "Un gasto fuerte a 5 días de la quincena no tiene que quitarte la calma. Con tu Efectivo Cuotas BBVA, puedes pasar saldo de tu Tarjeta de Crédito a tu cuenta en minutos. Salva el mes hoy y págalo de a pocos.  PLAY.GOOGLE.COM Efectivo a Cuotas BBVA Explorar más",
         "landing":  "http://play.google.com/store/apps/details?id=com.bbva.nxt_peru",
         "img":  "img/meta-1121928136861615.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1121928136861615"
+        "url":  "https://www.facebook.com/ads/library/?id=1121928136861615",
+        "src":  "meta"
     },
     {
         "product":  "maxicash",
@@ -74,7 +80,8 @@ window.ADS = [
         "text":  "Realizar el retiro de tu efectivo cuotas BBVA de tu Tarjeta de Crédito BBVA es súper fácil y rápido. Hazlo para que aproveches al máximo tu próximo viaje. Efectivo a Cuotas BBVA See Details",
         "landing":  "http://play.google.com/store/apps/details?id=com.bbva.nxt_peru",
         "img":  "img/meta-1420572663380842.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1420572663380842"
+        "url":  "https://www.facebook.com/ads/library/?id=1420572663380842",
+        "src":  "meta"
     },
     {
         "product":  "maxicash",
@@ -85,7 +92,8 @@ window.ADS = [
         "text":  "Lo que tu casa necesita hoy, no puede esperar. Saca efectivo de tu Tarjeta de Crédito BBVA para arreglar la refri, recíbelo al instante en tu cuenta y págalo a tu ritmo en hasta 36 cuotas.  PLAY.GOOGLE.COM Efectivo a Cuotas BBVA Explorar más",
         "landing":  "http://play.google.com/store/apps/details?id=com.bbva.nxt_peru",
         "img":  "img/meta-1813939982972134.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1813939982972134"
+        "url":  "https://www.facebook.com/ads/library/?id=1813939982972134",
+        "src":  "meta"
     },
     {
         "product":  "maxicash",
@@ -96,7 +104,8 @@ window.ADS = [
         "text":  "Porque algunas cosas no pueden esperar, y otras pueden pagarse con calma. Con tu Efectivo Cuotas BBVA, avanzar es más simple. Efectivo Cuotas BBVA Watch More",
         "landing":  "http://play.google.com/store/apps/details?id=com.bbva.nxt_peru",
         "img":  "img/meta-1719185229148468.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1719185229148468"
+        "url":  "https://www.facebook.com/ads/library/?id=1719185229148468",
+        "src":  "meta"
     },
     {
         "product":  "maxicash",
@@ -107,7 +116,8 @@ window.ADS = [
         "text":  "No pierdas el sueño a las 3 AM calculando cómo pagar la matrícula y el dentista este mes. Obtén dinero al toque desde tu Tarjeta de Crédito BBVA a tu cuenta y págalo con tranquilidad hasta en 36 cuotas.  PLAY.GOOGLE.COM Efectivo a Cuotas BBVA Explorar más",
         "landing":  "http://play.google.com/store/apps/details?id=com.bbva.nxt_peru",
         "img":  "img/meta-1091137067146553.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1091137067146553"
+        "url":  "https://www.facebook.com/ads/library/?id=1091137067146553",
+        "src":  "meta"
     },
     {
         "product":  "maxicash",
@@ -118,7 +128,8 @@ window.ADS = [
         "text":  "Ver lo que cuesta arreglar el carro asusta, pero pagarlo puede ser mucho más simple. Pasa la línea de tu Tarjeta de Crédito a efectivo al toque y divídelo hasta en 36 cuotas con tu Efectivo Cuotas BBVA.  PLAY.GOOGLE.COM Efectivo a Cuotas BBVA Explorar más",
         "landing":  "http://play.google.com/store/apps/details?id=com.bbva.nxt_peru",
         "img":  "img/meta-1393781060478701.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1393781060478701"
+        "url":  "https://www.facebook.com/ads/library/?id=1393781060478701",
+        "src":  "meta"
     },
     {
         "product":  "maxicash",
@@ -129,7 +140,8 @@ window.ADS = [
         "text":  "Realizar el retiro de tu efectivo cuotas BBVA de tu Tarjeta de Crédito BBVA es súper fácil y rápido. Hazlo para que aproveches al máximo tu próximo viaje. Efectivo a Cuotas BBVA See Details",
         "landing":  "http://play.google.com/store/apps/details?id=com.bbva.nxt_peru",
         "img":  "img/meta-1116064637743020.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1116064637743020"
+        "url":  "https://www.facebook.com/ads/library/?id=1116064637743020",
+        "src":  "meta"
     },
     {
         "product":  "maxicash",
@@ -140,7 +152,8 @@ window.ADS = [
         "text":  "Lo que hoy necesitas, también puede pagarse en partes. Así te acompaña tu Efectivo Cuotas BBVA desde tu Tarjeta de Crédito BBVA. Efectivo Cuotas BBVA Watch More",
         "landing":  "http://play.google.com/store/apps/details?id=com.bbva.nxt_peru",
         "img":  "img/meta-1762134065078044.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1762134065078044"
+        "url":  "https://www.facebook.com/ads/library/?id=1762134065078044",
+        "src":  "meta"
     },
     {
         "product":  "maxicash",
@@ -151,7 +164,8 @@ window.ADS = [
         "text":  "Realizar el retiro de tu efectivo cuotas BBVA de tu Tarjeta de Crédito BBVA es súper fácil y rápido. Hazlo para que aproveches al máximo tu próximo viaje. Efectivo a Cuotas BBVA See Details",
         "landing":  "http://play.google.com/store/apps/details?id=com.bbva.nxt_peru",
         "img":  "img/meta-1777609246846610.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1777609246846610"
+        "url":  "https://www.facebook.com/ads/library/?id=1777609246846610",
+        "src":  "meta"
     },
     {
         "product":  "maxicash",
@@ -162,7 +176,8 @@ window.ADS = [
         "text":  "Lo que hoy necesitas, también puede pagarse en partes. Así te acompaña tu Efectivo Cuotas BBVA desde tu Tarjeta de Crédito BBVA. Efectivo Cuotas BBVA Watch More",
         "landing":  "http://play.google.com/store/apps/details?id=com.bbva.nxt_peru",
         "img":  "img/meta-1622427616098880.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1622427616098880"
+        "url":  "https://www.facebook.com/ads/library/?id=1622427616098880",
+        "src":  "meta"
     },
     {
         "product":  "dlp",
@@ -173,7 +188,8 @@ window.ADS = [
         "text":  "Compra eso que necesitas hoy y págalo en cuotas con un préstamo directo a tu cuenta 💜 Exclusivo en Banco Ripley ¡Es tu oportunidad! Watch More",
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpm\u0026utm_content=linkad\u0026utm_campaign=prestamos-sumate-branding-Sep26",
         "img":  "img/meta-2233465894247621.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=2233465894247621"
+        "url":  "https://www.facebook.com/ads/library/?id=2233465894247621",
+        "src":  "meta"
     },
     {
         "product":  "dlp",
@@ -184,7 +200,8 @@ window.ADS = [
         "text":  "Compra eso que necesitas hoy y págalo en cuotas con un préstamo directo a tu cuenta 💜 Exclusivo en Banco Ripley ¡Es tu oportunidad! Apply Now",
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpc\u0026utm_content=linkad\u0026utm_campaign=prestamos-sumate-trafico-sep26",
         "img":  "img/meta-2237857130409085.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=2237857130409085"
+        "url":  "https://www.facebook.com/ads/library/?id=2237857130409085",
+        "src":  "meta"
     },
     {
         "product":  "dlp",
@@ -195,7 +212,8 @@ window.ADS = [
         "text":  "Compra eso que necesitas hoy y págalo en cuotas con un préstamo directo a tu cuenta 💜 ¡Aprovecha! ¡Es tu oportunidad! Watch More",
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpm\u0026utm_content=linkad\u0026utm_campaign=prestamos-sumate-branding-Sep26",
         "img":  "img/meta-1453658436901421.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1453658436901421"
+        "url":  "https://www.facebook.com/ads/library/?id=1453658436901421",
+        "src":  "meta"
     },
     {
         "product":  "tarjeta",
@@ -206,7 +224,8 @@ window.ADS = [
         "text":  "Disfruta todo noviembre pagando tus compras en 10 cuotas sin intereses con tu Tarjeta de Crédito Scotiabank 💳  10 cuotas sin intereses Una tarjeta de crédito es un medio de pago que puedes usar en la mayoría de establecimientos a nivel mundial, realizar pagos online y disponer de efectivo según la línea de crédito con la que cuentas. Su mayor beneficio es poder hacer pagos sin contar con efectivo",
         "landing":  "https://www.scotiabank.com.pe/10csi?utm_source=meta\u0026utm_medium=paid\u0026utm_campaign=SB_Meta_UF_Activos_TC_Clientes_Branding_Reproducciones_AO_AON-Beneficios_Nov-26\u0026utm_term=NG_BBDD_Nov-26\u0026utm_content=PPL",
         "img":  "img/meta-2100441603944694.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=2100441603944694"
+        "url":  "https://www.facebook.com/ads/library/?id=2100441603944694",
+        "src":  "meta"
     },
     {
         "product":  "dlp",
@@ -217,7 +236,8 @@ window.ADS = [
         "text":  "Compra eso que necesitas hoy y págalo en cuotas con un préstamo directo a tu cuenta 💜 ¡Aprovecha! ¡Es tu oportunidad! See Details",
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpa\u0026utm_content=linkads\u0026utm_campaign=ppff-aon-conversion-sept26",
         "img":  "img/meta-1278593871097861.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1278593871097861"
+        "url":  "https://www.facebook.com/ads/library/?id=1278593871097861",
+        "src":  "meta"
     },
     {
         "product":  "maxicash",
@@ -228,7 +248,8 @@ window.ADS = [
         "text":  "🎉 ¡Llegó CyberWow! 💥 Pide tu préstamo online y aprovecha beneficios únicos Exclusivo en Banco Ripley ¡Es tu oportunidad! Watch More",
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpc\u0026utm_content=linkad-efex\u0026utm_campaign=ppff-cyber-trafico-nov26",
         "img":  "img/meta-1450839900347333.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1450839900347333"
+        "url":  "https://www.facebook.com/ads/library/?id=1450839900347333",
+        "src":  "meta"
     },
     {
         "product":  "maxicash",
@@ -239,7 +260,8 @@ window.ADS = [
         "text":  "🎉 ¡Llegó CyberWow! 💥 Pide tu préstamo online y aprovecha beneficios únicos ¡Tu mejor oportunidad está aquí! ¡Es tu oportunidad! Watch More",
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpm\u0026utm_content=linkad-efex\u0026utm_campaign=ppff-cyber-branding-nov26",
         "img":  "img/meta-4080020882129003.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=4080020882129003"
+        "url":  "https://www.facebook.com/ads/library/?id=4080020882129003",
+        "src":  "meta"
     },
     {
         "product":  "maxicash",
@@ -250,7 +272,8 @@ window.ADS = [
         "text":  "¡CyberWow llegó con todo! 🔥 Pide tu préstamo online y aprovecha ¡Tu mejor oportunidad está aquí! ¡Es tu oportunidad! Watch More",
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpm\u0026utm_content=carrusel-efex\u0026utm_campaign=ppff-cyber-branding-nov26",
         "img":  "img/meta-1128621369892031.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1128621369892031"
+        "url":  "https://www.facebook.com/ads/library/?id=1128621369892031",
+        "src":  "meta"
     },
     {
         "product":  "maxicash",
@@ -261,7 +284,8 @@ window.ADS = [
         "text":  "¿Necesitas dinero hoy? Pide tu Efectivo Express y sálvate de imprevistos 📲⚡ Préstamo en minutos Pídelo 100% online See Details",
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpm\u0026utm_content=carrusel\u0026utm_campaign=ppff-aon-branding-jul26",
         "img":  "img/meta-2544072916080468.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=2544072916080468"
+        "url":  "https://www.facebook.com/ads/library/?id=2544072916080468",
+        "src":  "meta"
     },
     {
         "product":  "maxicash",
@@ -272,7 +296,8 @@ window.ADS = [
         "text":  "🎉 ¡Llegó CyberWow! 💥 Pide tu préstamo online y aprovecha beneficios únicos Exclusivo en Banco Ripley ¡Es tu oportunidad! See Details",
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpa\u0026utm_content=linkad\u0026utm_campaign=ppff-cyber-conversion-nov26",
         "img":  "img/meta-1655328463050936.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1655328463050936"
+        "url":  "https://www.facebook.com/ads/library/?id=1655328463050936",
+        "src":  "meta"
     },
     {
         "product":  "maxicash",
@@ -283,7 +308,8 @@ window.ADS = [
         "text":  "¿Necesitas dinero hoy? Pide tu Efectivo Express y sálvate de imprevistos 📲⚡ Solicítalo hoy Préstamos online See Details",
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpm\u0026utm_content=linkads\u0026utm_campaign=ppff-aon-branding-jul26",
         "img":  "img/meta-1050133384786640.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1050133384786640"
+        "url":  "https://www.facebook.com/ads/library/?id=1050133384786640",
+        "src":  "meta"
     },
     {
         "product":  "maxicash",
@@ -294,7 +320,8 @@ window.ADS = [
         "text":  "¿Necesitas dinero hoy? Pide tu Efectivo Express y sálvate de imprevistos 📲⚡  Solicítalo hoy Préstamos online See Details",
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpm\u0026utm_content=animado\u0026utm_campaign=ppff-aon-branding-jul26",
         "img":  "img/meta-4195692157397793.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=4195692157397793"
+        "url":  "https://www.facebook.com/ads/library/?id=4195692157397793",
+        "src":  "meta"
     },
     {
         "product":  "maxicash",
@@ -305,7 +332,8 @@ window.ADS = [
         "text":  "¿Necesitas dinero hoy? Pide tu Efectivo Express y sálvate de imprevistos 📲⚡ Solicítalo hoy Solicita tu préstamo ahora See Details",
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpc\u0026utm_content=linkads\u0026utm_campaign=ppff-aon-trafico-jul26",
         "img":  "img/meta-1798176281231535.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1798176281231535"
+        "url":  "https://www.facebook.com/ads/library/?id=1798176281231535",
+        "src":  "meta"
     },
     {
         "product":  "maxicash",
@@ -316,7 +344,8 @@ window.ADS = [
         "text":  "¿Necesitas dinero hoy? Pide tu Efectivo Express y sálvate de imprevistos 📲⚡ Préstamo en minutos Pídelo 100% online See Details",
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpa\u0026utm_content=carrusel\u0026utm_campaign=ppff-aon-conversion-may26",
         "img":  "img/meta-1827350761915049.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1827350761915049"
+        "url":  "https://www.facebook.com/ads/library/?id=1827350761915049",
+        "src":  "meta"
     },
     {
         "product":  "maxicash",
@@ -327,7 +356,8 @@ window.ADS = [
         "text":  "¿Necesitas dinero hoy? Pide tu Efectivo Express y sálvate de imprevistos 📲⚡  Solicítalo hoy Solicita tu préstamo ahora See Details",
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpc\u0026utm_content=animado\u0026utm_campaign=ppff-aon-trafico-jul26",
         "img":  "img/meta-1641378960767997.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1641378960767997"
+        "url":  "https://www.facebook.com/ads/library/?id=1641378960767997",
+        "src":  "meta"
     },
     {
         "product":  "maxicash",
@@ -338,7 +368,8 @@ window.ADS = [
         "text":  "¿Necesitas dinero hoy? Pide tu Efectivo Express y sálvate de imprevistos 📲⚡ Préstamo en minutos Préstamos online See Details",
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpa\u0026utm_content=carrusel\u0026utm_campaign=ppff-aon-conversion-oct26",
         "img":  "img/meta-1712700027095913.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1712700027095913"
+        "url":  "https://www.facebook.com/ads/library/?id=1712700027095913",
+        "src":  "meta"
     },
     {
         "product":  "maxicash",
@@ -349,7 +380,8 @@ window.ADS = [
         "text":  "¿Necesitas dinero hoy? Pide tu Efectivo Express y sálvate de imprevistos 📲⚡ Solicítalo hoy Préstamos online See Details",
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpa\u0026utm_content=linkads\u0026utm_campaign=ppff-aon-conversion-may26",
         "img":  "img/meta-1096163429864622.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1096163429864622"
+        "url":  "https://www.facebook.com/ads/library/?id=1096163429864622",
+        "src":  "meta"
     },
     {
         "product":  "maxicash",
@@ -360,7 +392,8 @@ window.ADS = [
         "text":  "¿Necesitas dinero hoy? Pide tu Efectivo Express y sálvate de imprevistos 📲⚡ Préstamo en minutos Pídelo 100% online See Details",
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpc\u0026utm_content=carrusel\u0026utm_campaign=ppff-aon-trafico-jul26",
         "img":  "img/meta-2366524120755607.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=2366524120755607"
+        "url":  "https://www.facebook.com/ads/library/?id=2366524120755607",
+        "src":  "meta"
     },
     {
         "product":  "maxicash",
@@ -371,7 +404,8 @@ window.ADS = [
         "text":  "¿Necesitas dinero hoy? Pide tu Efectivo Express y sálvate de imprevistos 📲⚡ Directo a tu cuenta En pocos minutos Learn More",
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpc\u0026utm_content=linkads\u0026utm_campaign=ppff-aon-trafico-may26",
         "img":  "img/meta-1412258924290823.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1412258924290823"
+        "url":  "https://www.facebook.com/ads/library/?id=1412258924290823",
+        "src":  "meta"
     },
     {
         "product":  "maxicash",
@@ -382,7 +416,8 @@ window.ADS = [
         "text":  "¿Necesitas dinero hoy? Pide tu Efectivo Express y sálvate de imprevistos 📲⚡ Solicítalo hoy Préstamos online See Details",
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpa\u0026utm_content=linkads\u0026utm_campaign=ppff-aon-conversion-jul26",
         "img":  "img/meta-1435512925417076.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1435512925417076"
+        "url":  "https://www.facebook.com/ads/library/?id=1435512925417076",
+        "src":  "meta"
     },
     {
         "product":  "maxicash",
@@ -393,7 +428,8 @@ window.ADS = [
         "text":  "🎉 ¡Llegó CyberWow! 💥 Pide tu préstamo online y aprovecha beneficios únicos ¡Tu mejor oportunidad está aquí! ¡Es tu oportunidad! Watch More",
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpc\u0026utm_content=carrusel-efex\u0026utm_campaign=ppff-cyber-nov26",
         "img":  "img/meta-1794568361795305.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1794568361795305"
+        "url":  "https://www.facebook.com/ads/library/?id=1794568361795305",
+        "src":  "meta"
     },
     {
         "product":  "maxicash",
@@ -404,7 +440,8 @@ window.ADS = [
         "text":  "¿Necesitas dinero hoy? Pide tu Efectivo Express y sálvate de imprevistos 📲⚡ Préstamo en minutos Pídelo 100% online See Details",
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpa\u0026utm_content=carrusel\u0026utm_campaign=ppff-aon-conversion-jul26",
         "img":  "img/meta-1140511242207341.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1140511242207341"
+        "url":  "https://www.facebook.com/ads/library/?id=1140511242207341",
+        "src":  "meta"
     },
     {
         "product":  "maxicash",
@@ -415,7 +452,8 @@ window.ADS = [
         "text":  "¿Necesitas dinero hoy? Pide tu Efectivo Express y sálvate de imprevistos 📲⚡  Solicítalo hoy Préstamos online See Details",
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpa\u0026utm_content=animado\u0026utm_campaign=ppff-aon-conversion-jul26",
         "img":  "img/meta-1103758679034176.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1103758679034176"
+        "url":  "https://www.facebook.com/ads/library/?id=1103758679034176",
+        "src":  "meta"
     },
     {
         "product":  "maxicash",
@@ -426,7 +464,8 @@ window.ADS = [
         "text":  "🎉 ¡Llegó CyberWow! 💥 Pide tu préstamo online y aprovecha beneficios únicos ¡Tu mejor oportunidad está aquí! See Details",
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpa\u0026utm_content=carrusel\u0026utm_campaign=ppff-cyber-conversion-nov26",
         "img":  "img/meta-1856204682471033.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1856204682471033"
+        "url":  "https://www.facebook.com/ads/library/?id=1856204682471033",
+        "src":  "meta"
     },
     {
         "product":  "maxicash",
@@ -437,7 +476,8 @@ window.ADS = [
         "text":  "¿Necesitas dinero hoy? Pide tu Efectivo Express y sálvate de imprevistos 📲⚡ Número de impresiones bajo Solicítalo hoy Préstamos online See Details",
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpa\u0026utm_content=linkads\u0026utm_campaign=ppff-aon-conversion-oct26",
         "img":  "img/meta-4403509226449286.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=4403509226449286"
+        "url":  "https://www.facebook.com/ads/library/?id=4403509226449286",
+        "src":  "meta"
     },
     {
         "product":  "credito_efectivo",
@@ -448,7 +488,8 @@ window.ADS = [
         "text":  "🎉 ¡Llegó CyberWow! 💥 Pide tu préstamo online y aprovecha beneficios únicos ¡Tu mejor oportunidad está aquí! ¡Es tu oportunidad! Watch More",
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpm\u0026utm_content=linkad-sef\u0026utm_campaign=ppff-cyber-branding-nov26",
         "img":  "img/meta-2377018919708265.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=2377018919708265"
+        "url":  "https://www.facebook.com/ads/library/?id=2377018919708265",
+        "src":  "meta"
     },
     {
         "product":  "credito_efectivo",
@@ -459,7 +500,8 @@ window.ADS = [
         "text":  "🎉 ¡Llegó CyberWow! 💥 Pide tu préstamo online y aprovecha beneficios únicos ¡Tu mejor oportunidad está aquí! ¡Es tu oportunidad! Watch More",
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpm\u0026utm_content=carrusel-sef\u0026utm_campaign=ppff-cyber-branding-nov26",
         "img":  "img/meta-1125266996559606.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1125266996559606"
+        "url":  "https://www.facebook.com/ads/library/?id=1125266996559606",
+        "src":  "meta"
     },
     {
         "product":  "credito_efectivo",
@@ -470,7 +512,8 @@ window.ADS = [
         "text":  "Convierte tus planes en realidad con tu Préstamo Súper Efectivo con una tasa más baja.  ¡Tu mejor oportunidad está aquí! ¡Es tu oportunidad! Watch More",
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpm\u0026utm_content=animado-efex\u0026utm_campaign=ppff-cyber-branding-nov26",
         "img":  "img/meta-1684055816390156.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1684055816390156"
+        "url":  "https://www.facebook.com/ads/library/?id=1684055816390156",
+        "src":  "meta"
     },
     {
         "product":  "credito_efectivo",
@@ -481,7 +524,8 @@ window.ADS = [
         "text":  "🎉 ¡Llegó CyberWow! 💥 Pide tu préstamo online y aprovecha beneficios únicos Exclusivo en Banco Ripley ¡Es tu oportunidad! Watch More",
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpc\u0026utm_content=linkad-sef\u0026utm_campaign=ppff-cyber-trafico-nov26",
         "img":  "img/meta-1432880092380824.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1432880092380824"
+        "url":  "https://www.facebook.com/ads/library/?id=1432880092380824",
+        "src":  "meta"
     },
     {
         "product":  "credito_efectivo",
@@ -492,7 +536,8 @@ window.ADS = [
         "text":  "Solicita tu Súper Efectivo desde la app y recíbelo directo en tu cuenta 📲 Solicítalo hoy Préstamos online See Details",
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpm\u0026utm_content=linkads\u0026utm_campaign=ppff-aon-branding-jul26",
         "img":  "img/meta-1641858401003954.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1641858401003954"
+        "url":  "https://www.facebook.com/ads/library/?id=1641858401003954",
+        "src":  "meta"
     },
     {
         "product":  "credito_efectivo",
@@ -503,7 +548,8 @@ window.ADS = [
         "text":  "Solicita tu Súper Efectivo desde la app y recíbelo directo en tu cuenta 📲 Préstamo en minutos Pídelo 100% online See Details",
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpm\u0026utm_content=carrusel\u0026utm_campaign=ppff-aon-branding-jul26",
         "img":  "img/meta-1618704663645272.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1618704663645272"
+        "url":  "https://www.facebook.com/ads/library/?id=1618704663645272",
+        "src":  "meta"
     },
     {
         "product":  "credito_efectivo",
@@ -514,7 +560,8 @@ window.ADS = [
         "text":  "Solicita tu Súper Efectivo desde la app y recíbelo directo en tu cuenta 📲  Solicítalo hoy Préstamos online See Details",
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpm\u0026utm_content=animado\u0026utm_campaign=ppff-aon-branding-jul26",
         "img":  "img/meta-1797285801508306.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1797285801508306"
+        "url":  "https://www.facebook.com/ads/library/?id=1797285801508306",
+        "src":  "meta"
     },
     {
         "product":  "credito_efectivo",
@@ -525,7 +572,8 @@ window.ADS = [
         "text":  "Solicita tu Súper Efectivo desde la app y recíbelo directo en tu cuenta 📲 Pídelo online Préstamo rápido y seguro See Details",
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpa\u0026utm_content=linkads\u0026utm_campaign=ppff-aon-conversion-may26",
         "img":  "img/meta-1638413628328031.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1638413628328031"
+        "url":  "https://www.facebook.com/ads/library/?id=1638413628328031",
+        "src":  "meta"
     },
     {
         "product":  "credito_efectivo",
@@ -536,7 +584,8 @@ window.ADS = [
         "text":  "¡Renueva tu hogar, dale tu estilo! Con tu Préstamo Efectivo BanBif es simple. Sorteo de S/1,000. Vigencia hasta el 31/12/2025. Sorteo: 15/01/2026. Renueva tu casa con Préstamo BanBif Préstamo Efectivo BanBif Learn More",
         "landing":  "https://cloud.correobanbif.com.pe/solicitud-prestamo",
         "img":  "img/meta-4517028708550104.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=4517028708550104"
+        "url":  "https://www.facebook.com/ads/library/?id=4517028708550104",
+        "src":  "meta"
     },
     {
         "product":  "credito_efectivo",
@@ -547,7 +596,8 @@ window.ADS = [
         "text":  "¡Ese viaje soñado te llama! No lo pienses más. Con tu Préstamo Efectivo BanBif, haz las maletas y recorre el mundo. ¡A viajar se ha dicho! Tu aventura empieza aquí Learn More",
         "landing":  "https://cloud.correobanbif.com.pe/solicitud-prestamo",
         "img":  "img/meta-1831156268071265.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1831156268071265"
+        "url":  "https://www.facebook.com/ads/library/?id=1831156268071265",
+        "src":  "meta"
     },
     {
         "product":  "credito_efectivo",
@@ -558,7 +608,8 @@ window.ADS = [
         "text":  "¡Dale el impulso que tus planes necesitan! Solicita tu Préstamo Efectivo BanBif de forma rápida y 100% segura aquí. CLOUD.CORREOBANBIF.COM.PE Obtén tu Préstamo Efectivo Learn More CLOUD.CORREOBANBIF.COM.PE Solicita tu préstamo Learn More CLOUD.CORREOBANBIF.COM.PE Solicítalo hasta 60 meses Learn More CLOUD.CORREOBANBIF.COM.PE Pídelo online en minutos Learn More CLOUD.CORREOBANBIF.COM.PE BanBif Lear",
         "landing":  "https://cloud.correobanbif.com.pe/solicitud-prestamo",
         "img":  "img/meta-2498460613999036.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=2498460613999036"
+        "url":  "https://www.facebook.com/ads/library/?id=2498460613999036",
+        "src":  "meta"
     },
     {
         "product":  "credito_efectivo",
@@ -569,7 +620,8 @@ window.ADS = [
         "text":  "HOLA. Descubre si tienes un Préstamo Efectivo preaprobado. CLOUD.CORREOBANBIF.COM.PE Descubre tu Préstamo Efectivo Clic y solicita aquí Ver detalles",
         "landing":  "https://cloud.correobanbif.com.pe/solicitud-prestamo",
         "img":  "img/meta-2116801442544256.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=2116801442544256"
+        "url":  "https://www.facebook.com/ads/library/?id=2116801442544256",
+        "src":  "meta"
     },
     {
         "product":  "credito_efectivo",
@@ -580,7 +632,8 @@ window.ADS = [
         "text":  "¿Falta stock o capital? Consigue hasta S/ 16,000 rápido y seguro para lo que te haga falta. ¡Haz clic aquí! Préstamos de hasta S/ 16,000 Dinero en tu banco elegido Learn More",
         "landing":  "https://cloud.correobanbif.com.pe/solicitud-prestamo",
         "img":  "img/meta-2981808115500653.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=2981808115500653"
+        "url":  "https://www.facebook.com/ads/library/?id=2981808115500653",
+        "src":  "meta"
     },
     {
         "product":  "credito_efectivo",
@@ -591,7 +644,8 @@ window.ADS = [
         "text":  "Organiza tus gastos y compra con un préstamo directo a tu cuenta. Préstamo en minutos Pídelo 100% online Watch More",
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpa\u0026utm_content=linkad\u0026utm_campaign=prestamos-aon-pef-performance-oct26",
         "img":  "img/meta-1400364022083532.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1400364022083532"
+        "url":  "https://www.facebook.com/ads/library/?id=1400364022083532",
+        "src":  "meta"
     },
     {
         "product":  "credito_efectivo",
@@ -602,7 +656,8 @@ window.ADS = [
         "text":  "¿Necesitas dinero ya? Solicita tu Préstamo Efectivo BanBif en minutos y sin trámites eternos. ¡Pídelo hoy mismo! Obtén tu préstamo al instante ¡Pídelo 100% online aquí! Learn More",
         "landing":  "https://cloud.correobanbif.com.pe/solicitud-prestamo",
         "img":  "img/meta-1472820894896071.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1472820894896071"
+        "url":  "https://www.facebook.com/ads/library/?id=1472820894896071",
+        "src":  "meta"
     },
     {
         "product":  "credito_efectivo",
@@ -613,7 +668,8 @@ window.ADS = [
         "text":  "Compra eso que necesitas hoy y págalo en cuotas con un préstamo directo a tu cuenta 💜 Préstamo en minutos Pídelo 100% online Watch More",
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpa\u0026utm_content=carrusel\u0026utm_campaign=prestamos-aon-pef-performance-oct26",
         "img":  "img/meta-1108775288581442.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1108775288581442"
+        "url":  "https://www.facebook.com/ads/library/?id=1108775288581442",
+        "src":  "meta"
     },
     {
         "product":  "credito_efectivo",
@@ -624,7 +680,8 @@ window.ADS = [
         "text":  "HOLA. Lo que sueñas está cerca. Descubre si tienes un Préstamo Efectivo preaprobado. CLOUD.CORREOBANBIF.COM.PE El Préstamo Efectivo que esperas Prestamo Efectivo BanBif Ver detalles",
         "landing":  "https://cloud.correobanbif.com.pe/solicitud-prestamo",
         "img":  "img/meta-2246811322530339.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=2246811322530339"
+        "url":  "https://www.facebook.com/ads/library/?id=2246811322530339",
+        "src":  "meta"
     },
     {
         "product":  "credito_efectivo",
@@ -635,7 +692,8 @@ window.ADS = [
         "text":  "Pide tu préstamo de forma rápida y segura. Deja tus datos en el enlace y te contactamos de inmediato. Solicita tu préstamo rápido y seguro Recibe tu efectivo al instante Learn More",
         "landing":  "https://cloud.correobanbif.com.pe/solicitud-prestamo",
         "img":  "img/meta-1524758363021419.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1524758363021419"
+        "url":  "https://www.facebook.com/ads/library/?id=1524758363021419",
+        "src":  "meta"
     },
     {
         "product":  "dlp",
@@ -646,7 +704,8 @@ window.ADS = [
         "text":  "Compra eso que necesitas hoy y págalo en cuotas con un préstamo directo a tu cuenta 💜 ¡Aprovecha! ¡Es tu oportunidad! See Details",
         "landing":  "https://www.bancoripley.com.pe/solicitar-prestamo-banco-ripley/index.html?utm_source=meta\u0026utm_medium=cpa\u0026utm_content=carrusel\u0026utm_campaign=ppff-aon-conversion-sept26",
         "img":  "img/meta-2345426256218463.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=2345426256218463"
+        "url":  "https://www.facebook.com/ads/library/?id=2345426256218463",
+        "src":  "meta"
     },
     {
         "product":  "credito_efectivo",
@@ -657,7 +716,8 @@ window.ADS = [
         "text":  "Abre tu Cuenta Ahorro Genial o Cuenta Sueldo, solicita tu Préstamo Efectivo y podrías ganar hasta un depa amoblado y más. CLOUD.CORREOBANBIF.COM.PE Participa por Depa, viajes y más ¡Solicítalo tu préstamo aquí! Más información",
         "landing":  "https://cloud.correobanbif.com.pe/solicitud-prestamo",
         "img":  "img/meta-2050145429024785.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=2050145429024785"
+        "url":  "https://www.facebook.com/ads/library/?id=2050145429024785",
+        "src":  "meta"
     },
     {
         "product":  "dlp",
@@ -668,7 +728,8 @@ window.ADS = [
         "text":  "📣 Financiera QAPAQ te da la posibilidad de obtener efectivo rápido, gracias a tu auto con sistema GNV. 🤑 Solicita nuestro crédito de libre disponibilidad y úsalo para lo que quieras. ¡Pídelo hoy! 🚕💨 👮🏻 ¡Efectivo rápido y oportuno! 💰 Llévate hasta S/4,000 ⛽️ Págalo cada a vez que recargues tu auto con GNV 🗓️ Hasta 24 meses para pagar ✏️ Solicítalo online aquí.  WWW.QAPAQ.PE Préstamo rápido ",
         "landing":  "https://www.qapaq.pe/prestamos/libre-disponibilidad-gnv/?utm_source=facebook-storydoers\u0026utm_medium=post\u0026utm_campaign=trafico-gnv\u0026utm_term=LAL-BBDD-gnv\u0026utm_content=VIDEO-5-taxi",
         "img":  "img/meta-2871136116571399.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=2871136116571399"
+        "url":  "https://www.facebook.com/ads/library/?id=2871136116571399",
+        "src":  "meta"
     },
     {
         "product":  "dlp",
@@ -679,7 +740,8 @@ window.ADS = [
         "text":  "SI tienes vehículo propio con sistema GNV y chip liberado, puedes acceder a nuestro crédito de libre disponibilidad. ¡Úsalo para lo que quieras! Dale mantenimiento a tu auto, realiza un viaje en familia, estudia o compra lo que tanto quieres. Solcitalo online aquí. Efectivo rápido con tu auto GNV Learn More",
         "landing":  "https://www.qapaq.pe/prestamos/libre-disponibilidad-gnv/?utm_source=facebook-storydoers\u0026utm_medium=post\u0026utm_campaign=trafico-gnv\u0026utm_term=LAL-visitas-gnv\u0026utm_content=anuncio-A",
         "img":  "img/meta-2001566483793517.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=2001566483793517"
+        "url":  "https://www.facebook.com/ads/library/?id=2001566483793517",
+        "src":  "meta"
     },
     {
         "product":  "dlp",
@@ -690,7 +752,8 @@ window.ADS = [
         "text":  "🚖 Si tienes un auto con sistema GNV, y con chip liberado, puedes obtener un préstamo de hasta S/4,000 de libre disponibilidad. Financiera Qapaq tiene un sistema de calificación fácil y rápido, así que pide tu préstamo hoy y soluciona tus problemas. ✅ 🙆🏻‍♂️ ¿Cómo lo pagas? Súper fácil, págalo cada vez que recargues tu auto con GNV, así podrás abonar a tu deuda hasta culminar tu cuota del mes. ⛽️",
         "landing":  "https://www.qapaq.pe/prestamos/libre-disponibilidad-gnv/",
         "img":  "img/meta-2826557237721302.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=2826557237721302"
+        "url":  "https://www.facebook.com/ads/library/?id=2826557237721302",
+        "src":  "meta"
     },
     {
         "product":  "dlp",
@@ -701,7 +764,8 @@ window.ADS = [
         "text":  "🌟🚗 Lleva tus proyectos al siguiente nivel y cumple tus metas gracias a tu auto GNV. Características: ✓ Cuotas de hasta 30 meses. ✓ Pago mediante el sistema Carga Paga COFIDE. Más información respecto a créditos, condiciones y solicitudes en el siguiente enlace ➡ https://www.qapaq.pe/prestamos/libre-disponibilidad-gnv/ QAPAQ.PE Préstamo GNV – Financiera Qapaq Déjanos tus datos Te contactaremos en",
         "landing":  "https://www.qapaq.pe/prestamos/libre-disponibilidad-gnv/",
         "img":  "img/meta-1508687910739587.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1508687910739587"
+        "url":  "https://www.facebook.com/ads/library/?id=1508687910739587",
+        "src":  "meta"
     },
     {
         "product":  "dlp",
@@ -712,7 +776,8 @@ window.ADS = [
         "text":  "SI tienes vehículo propio con sistema GNV y chip liberado, puedes acceder a nuestro crédito de libre disponibilidad. ¡Úsalo para lo que quieras! Dale mantenimiento a tu auto, realiza un viaje en familia, estudia o compra lo que tanto quieres. Solcitalo online aquí. Efectivo rápido con tu auto GNV Learn More",
         "landing":  "https://www.qapaq.pe/prestamos/libre-disponibilidad-gnv/?utm_source=facebook-storydoers\u0026utm_medium=post\u0026utm_campaign=trafico-gnv\u0026utm_term=LAL-visitas-gnv\u0026utm_content=anuncio-A",
         "img":  "img/meta-2043184499926324.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=2043184499926324"
+        "url":  "https://www.facebook.com/ads/library/?id=2043184499926324",
+        "src":  "meta"
     },
     {
         "product":  "dlp",
@@ -723,7 +788,8 @@ window.ADS = [
         "text":  "🚖 Si tienes un auto con sistema GNV, y con chip liberado, puedes obtener un préstamo de hasta S/4,000 de libre disponibilidad. Financiera Qapaq tiene un sistema de calificación fácil y rápido, así que pide tu préstamo hoy y soluciona tus problemas. ✅ 🙆🏻‍♂️ ¿Cómo lo pagas? Súper fácil, págalo cada vez que recargues tu auto con GNV, así podrás abonar a tu deuda hasta culminar tu cuota del mes. ⛽️",
         "landing":  "https://www.qapaq.pe/prestamos/libre-disponibilidad-gnv/?utm_source=facebook-storydoers\u0026utm_medium=post\u0026utm_campaign=trafico-gnv\u0026utm_term=LAL-BBDD-gnv\u0026utm_content=VIDEO-4",
         "img":  "img/meta-4324945557835500.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=4324945557835500"
+        "url":  "https://www.facebook.com/ads/library/?id=4324945557835500",
+        "src":  "meta"
     },
     {
         "product":  "dlp",
@@ -734,7 +800,8 @@ window.ADS = [
         "text":  "🎅💰 ¡Esta Navidad puedes ganar en grande! Obtén tu Préstamo Personal y participa por 2 premios de S/15,000 y 10 premios de S/1,000. 🎁 Solicita tu préstamo aquí https://tinyurl.com/58t9fcas Participa hasta el 31 de diciembre. Más información en: www.santanderconsumer.com.pe/personas/prestamo/credito-libre-disponibilidad  Apply Now",
         "landing":  "https://tinyurl.com/58t9fcas",
         "img":  "img/meta-3157231461277268.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=3157231461277268"
+        "url":  "https://www.facebook.com/ads/library/?id=3157231461277268",
+        "src":  "meta"
     },
     {
         "product":  "dlp",
@@ -745,7 +812,8 @@ window.ADS = [
         "text":  "💰 ¡Aprovecha los Cyber Days! Solicita tu Préstamo y disfruta hasta 15% de descuento en la tasa. 🙌 Solicita tu Préstamo aquí https://tinyurl.com/bdf4hua6 Solo del 02 al 14 de Noviembre. Aplican términos y condiciones. Más información en: www.santanderconsumer.com.pe/personas/prestamo/credito-libre-disponibilidad Apply Now",
         "landing":  "https://tinyurl.com/bdf4hua6",
         "img":  "img/meta-1850224126008974.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1850224126008974"
+        "url":  "https://www.facebook.com/ads/library/?id=1850224126008974",
+        "src":  "meta"
     },
     {
         "product":  "dlp",
@@ -756,7 +824,8 @@ window.ADS = [
         "text":  "🎅💰 ¡Esta Navidad puedes ganar en grande! Obtén tu Préstamo Personal y participa por 2 premios de S/15,000 y 10 premios de S/1,000. 🎁 Solicita tu préstamo aquí https://tinyurl.com/3hp6jr7e Participa hasta el 31 de diciembre. Más información en: www.santanderconsumer.com.pe/personas/prestamo/credito-libre-disponibilidad  Apply Now",
         "landing":  "https://tinyurl.com/3hp6jr7e",
         "img":  "img/meta-1104089395558647.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1104089395558647"
+        "url":  "https://www.facebook.com/ads/library/?id=1104089395558647",
+        "src":  "meta"
     },
     {
         "product":  "dlp",
@@ -767,7 +836,8 @@ window.ADS = [
         "text":  "🎅💰 ¡Esta Navidad puedes ganar en grande! Obtén tu Préstamo Personal y participa por 2 premios de S/15,000 y 10 premios de S/1,000. 🎁 Solicita tu préstamo aquí https://tinyurl.com/5fmhxtdn Participa hasta el 31 de diciembre. Más información en: www.santanderconsumer.com.pe/personas/prestamo/credito-libre-disponibilidad  Apply Now",
         "landing":  "https://tinyurl.com/5fmhxtdn",
         "img":  "img/meta-1098452713075424.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1098452713075424"
+        "url":  "https://www.facebook.com/ads/library/?id=1098452713075424",
+        "src":  "meta"
     },
     {
         "product":  "garantia",
@@ -778,7 +848,8 @@ window.ADS = [
         "text":  "Ven a una oficina BBVA, solicita tu Tarjeta Start sin historial crediticio y gira la Ruleta para ganar 💙🎁. Aplican T\u0026C. ",
         "landing":  "",
         "img":  "img/meta-2332537827557778.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=2332537827557778"
+        "url":  "https://www.facebook.com/ads/library/?id=2332537827557778",
+        "src":  "meta"
     },
     {
         "product":  "tarjeta",
@@ -789,7 +860,8 @@ window.ADS = [
         "text":  "¡Hay miles de razones para disfrutar tus compras! ⭐ ",
         "landing":  "https://tarjetas.bancoripley.com.pe/consultar?utm_source=meta\u0026utm_medium=cpm\u0026utm_content=animado\u0026utm_campaign=rpgo-razones-alcance-oct26",
         "img":  "img/meta-1126536953108298.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1126536953108298"
+        "url":  "https://www.facebook.com/ads/library/?id=1126536953108298",
+        "src":  "meta"
     },
     {
         "product":  "tarjeta",
@@ -800,7 +872,8 @@ window.ADS = [
         "text":  "Entra a tu App, solicita tu Tarjeta de Crédito BBVA 💳 y empieza a disfrutar hasta 8,000 Puntos de Bienvenida. Tarjeta de Crédito BBVA Watch More",
         "landing":  "http://play.google.com/store/apps/details?id=com.bbva.nxt_peru",
         "img":  "img/meta-1629810932048320.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1629810932048320"
+        "url":  "https://www.facebook.com/ads/library/?id=1629810932048320",
+        "src":  "meta"
     },
     {
         "product":  "tarjeta",
@@ -811,7 +884,8 @@ window.ADS = [
         "text":  "¡Hay miles de razones para disfrutar más! 💜 Usa tus Tarjetas Banco Ripley y acumula Ripley Puntos Go. Solicita tu Tarjeta de Crédito aquí Watch More",
         "landing":  "https://tarjetas.bancoripley.com.pe/consultar?utm_source=meta\u0026utm_medium=cpm\u0026utm_content=carrusel\u0026utm_campaign=rpgo-milesderazones-branding-oct26",
         "img":  "img/meta-1807870966763537.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1807870966763537"
+        "url":  "https://www.facebook.com/ads/library/?id=1807870966763537",
+        "src":  "meta"
     },
     {
         "product":  "tarjeta",
@@ -822,7 +896,8 @@ window.ADS = [
         "text":  "¡Hay miles de razones para disfrutar más! 💜 Usa tus Tarjetas Banco Ripley y acumula Ripley Puntos Go. Solicita tu Tarjeta de Crédito aquí Watch More",
         "landing":  "https://tarjetas.bancoripley.com.pe/consultar?utm_source=meta\u0026utm_medium=cpm\u0026utm_content=carrusel\u0026utm_campaign=rpgo-milesderazones-branding-oct26",
         "img":  "img/meta-1122778876911855.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1122778876911855"
+        "url":  "https://www.facebook.com/ads/library/?id=1122778876911855",
+        "src":  "meta"
     },
     {
         "product":  "tarjeta",
@@ -833,7 +908,8 @@ window.ADS = [
         "text":  "¡Hay miles de razones para disfrutar más! 💜 Usa tus Tarjetas Banco Ripley y acumula Ripley Puntos Go. Solicita tu Tarjeta de Crédito aquí Watch More",
         "landing":  "https://tarjetas.bancoripley.com.pe/consultar?utm_source=meta\u0026utm_medium=cpm\u0026utm_content=carrusel\u0026utm_campaign=rpgo-milesderazones-branding-oct26",
         "img":  "img/meta-4678142139093116.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=4678142139093116"
+        "url":  "https://www.facebook.com/ads/library/?id=4678142139093116",
+        "src":  "meta"
     },
     {
         "product":  "tarjeta",
@@ -844,7 +920,8 @@ window.ADS = [
         "text":  "Tus compras se disfrutan más en pagos sin intereses. Solicita tu Tarjeta de Crédito BBVA y engríete como te lo mereces. BBVA.PE Tarjeta de Crédito BBVA Obtenla aquí Get Offer",
         "landing":  "https://pidetutarjeta.bbva.pe/?cid=soc%3A%3Afb%3A00027712-tc_vd_open_cnv_feb_-tar-%3Armkt_web-perf-conv%3A1050120113%3A%3A%3A%3A%3A%3Aimagen%3A%3A%3Apsi",
         "img":  "img/meta-2405915826899941.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=2405915826899941"
+        "url":  "https://www.facebook.com/ads/library/?id=2405915826899941",
+        "src":  "meta"
     },
     {
         "product":  "tarjeta",
@@ -855,7 +932,8 @@ window.ADS = [
         "text":  "¡Felicidades! Tienes una Tarjeta de Crédito preaprobada Santander Consumer. Pídela hoy y descubre sus beneficios✨ WWW.SANTANDERCONSUMER.COM.PE Solicita tu Tarjeta de Crédito Sign Up",
         "landing":  "https://www.santanderconsumer.com.pe/personas/tarjeta/solicitar-visa-santander-consumer?utm_source=Meta\u0026utm_medium=cpc\u0026utm_campaign=Tarjetas_Adquisicion_Meta_cpc_10-26\u0026utm_term=preaprobada_PPL_10-26\u0026u",
         "img":  "img/meta-1605252000688127.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1605252000688127"
+        "url":  "https://www.facebook.com/ads/library/?id=1605252000688127",
+        "src":  "meta"
     },
     {
         "product":  "tarjeta",
@@ -866,7 +944,8 @@ window.ADS = [
         "text":  "Todo comienza desde tu App. Pide tu Tarjeta de Crédito BBVA  💳 y aprovecha un año sin costo de membresía. 💙 Tarjeta de Crédito BBVA Watch More",
         "landing":  "http://play.google.com/store/apps/details?id=com.bbva.nxt_peru",
         "img":  "img/meta-1019220397789777.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1019220397789777"
+        "url":  "https://www.facebook.com/ads/library/?id=1019220397789777",
+        "src":  "meta"
     },
     {
         "product":  "tarjeta",
@@ -877,7 +956,8 @@ window.ADS = [
         "text":  "Tu Tarjeta de Crédito BBVA sin membresía por un año te espera. Solicítala desde tu App y empieza a disfrutar de sus beneficios. Tarjeta de Crédito BBVA Watch More",
         "landing":  "http://play.google.com/store/apps/details?id=com.bbva.nxt_peru",
         "img":  "img/meta-909741415257277.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=909741415257277"
+        "url":  "https://www.facebook.com/ads/library/?id=909741415257277",
+        "src":  "meta"
     },
     {
         "product":  "tarjeta",
@@ -888,7 +968,8 @@ window.ADS = [
         "text":  "Tu Tarjeta de Crédito BBVA te espera sin membresía por un año y con Puntos para canjear en tus marcas favoritas. Tarjeta de Crédito BBVA Pídela aquí Get Offer",
         "landing":  "https://pidetutarjeta.bbva.pe/?cid=soc%3A%3Afb%3A00027712-tc_vd_open_cnv_feb_-tar-%3Aopen-perf-conv%3A0850120101%3A%3A%3A%3A%3A%3Aimagen%3A%3A%3Agen",
         "img":  "img/meta-1404097341806037.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1404097341806037"
+        "url":  "https://www.facebook.com/ads/library/?id=1404097341806037",
+        "src":  "meta"
     },
     {
         "product":  "tarjeta",
@@ -899,7 +980,8 @@ window.ADS = [
         "text":  "A un click de tener tu Tarjeta de Crédito BBVA y los increíbles beneficios que esperan por ti. Finaliza el proceso hoy mismo y al instante. BBVA.PE Tarjeta de Crédito BBVA Obtenla aquí Get Offer",
         "landing":  "https://pidetutarjeta.bbva.pe/?cid=soc%3A%3Afb%3A00027712-tc_vd_open_cnv_feb_-tar-%3Armkt_web-perf-conv%3A0160112867%3A%3A%3A%3A%3A%3Aimagen%3A%3A%3Armkt4",
         "img":  "img/meta-1669109401515904.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1669109401515904"
+        "url":  "https://www.facebook.com/ads/library/?id=1669109401515904",
+        "src":  "meta"
     },
     {
         "product":  "tarjeta",
@@ -910,7 +992,8 @@ window.ADS = [
         "text":  "Empieza el día sumando beneficios, no costos. Solicita hoy mismo tu Tarjeta de Crédito Bfree BBVA 100% online sin costo de membresía. 💙 BBVA.PE Tarjeta de Crédito Bfree BBVA Sin costo de membresía Get Offer",
         "landing":  "https://pidetutarjeta.bbva.pe/?cid=soc%3A%3Afb%3A00027712-tc_vd_open_cnv_feb_-tar-%3Aopen-perf-conv%3A0760112895%3A%3A%3A%3A%3A%3Aimagen%3A%3A%3Ach_op2",
         "img":  "img/meta-4868499000044381.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=4868499000044381"
+        "url":  "https://www.facebook.com/ads/library/?id=4868499000044381",
+        "src":  "meta"
     },
     {
         "product":  "tarjeta",
@@ -921,7 +1004,8 @@ window.ADS = [
         "text":  "Con tu Tarjeta de Crédito BBVA, tu primer año sin membresía te invita a disfrutar con tranquilidad cada compra. 💳⚡Solicítala desde tu celular. 📲✨ BBVA.PE Tarjeta de Crédito BBVA Obtenla aquí Get Offer",
         "landing":  "https://pidetutarjeta.bbva.pe/?cid=soc%3A%3Afb%3A00027712-tc_vd_open_cnv_feb_-tar-%3Armkt_web-perf-conv%3A0550120106%3A%3A%3A%3A%3A%3Aimagen%3A%3A%3Aappsi36_5",
         "img":  "img/meta-1133860115898234.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1133860115898234"
+        "url":  "https://www.facebook.com/ads/library/?id=1133860115898234",
+        "src":  "meta"
     },
     {
         "product":  "tarjeta",
@@ -932,7 +1016,8 @@ window.ADS = [
         "text":  "Estás muy cerca de tener tu Tarjeta de Crédito BBVA sin costo de membresía por 1 año. Adquiérela hoy mismo y disfruta. BBVA.PE Tarjeta de Crédito BBVA Obtenla aquí Get Offer",
         "landing":  "https://pidetutarjeta.bbva.pe/?cid=soc%3A%3Afb%3A00027712-tc_vd_open_cnv_feb_-tar-%3Armkt_web-perf-conv%3A0160112866%3A%3A%3A%3A%3A%3Aimagen%3A%3A%3Armkt3",
         "img":  "img/meta-4636824676645049.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=4636824676645049"
+        "url":  "https://www.facebook.com/ads/library/?id=4636824676645049",
+        "src":  "meta"
     },
     {
         "product":  "tarjeta",
@@ -943,7 +1028,8 @@ window.ADS = [
         "text":  "¡Disfruta Cyber WoW! Aprovecha hasta 60% dto. en vestuario, electrohogar, tecnología ¡y más! Solo con tu CMR  Hasta 60% dto. en Falabella.com Solo con tu Tarjeta CMR Watch More",
         "landing":  "https://www.falabella.com.pe/falabella-pe/",
         "img":  "img/meta-1104029895723790.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1104029895723790"
+        "url":  "https://www.facebook.com/ads/library/?id=1104029895723790",
+        "src":  "meta"
     },
     {
         "product":  "tarjeta",
@@ -954,7 +1040,8 @@ window.ADS = [
         "text":  "¡Disfruta Cyber WoW! Aprovecha hasta 60% dto. en vestuario, electrohogar, tecnología ¡y más! Solo con tu CMR  Hasta 60% dto. en Falabella.com Solo con tu Tarjeta CMR Watch More",
         "landing":  "https://www.falabella.com.pe/falabella-pe/",
         "img":  "img/meta-1522727426322472.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1522727426322472"
+        "url":  "https://www.facebook.com/ads/library/?id=1522727426322472",
+        "src":  "meta"
     },
     {
         "product":  "tarjeta",
@@ -965,7 +1052,8 @@ window.ADS = [
         "text":  "¡El Cyber está aquí! 💚 Participa por ser 1 de los 20 ganadores de S/500 usando tus Tarjetas Banco Falabella en todos lados. Aprovecha hasta el 60% de dto con tu CMR en Falabella.com y además, acumula el triple de CMR Puntos en cada compra. ✨ Página oficial de Banco Falabella Perú ",
         "landing":  "https://www.bancofalabella.pe/promociones/detalle/consumo-cyb-nov26?utm_source=meta\u0026utm_medium=cpm\u0026utm_campaign=pe-ini-convenios-them000003-consumo-meta-cpm\u0026utm_content=cyber_fb%20ig-bbdd-0",
         "img":  "img/meta-29216544288030317.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=29216544288030317"
+        "url":  "https://www.facebook.com/ads/library/?id=29216544288030317",
+        "src":  "meta"
     },
     {
         "product":  "tarjeta",
@@ -976,7 +1064,8 @@ window.ADS = [
         "text":  "¡Ahora en todos los productos de falabella.com! ¡Ahorra con CMR Puntos! Watch More",
         "landing":  "https://www.cmrpuntos.pe/paga-menos-landing?utm_source=meta\u0026utm_medium=cpm\u0026utm_campaign=pe-ini-loyalty-%C2%B400053-aon_general_paga_menos-meta-cpm\u0026utm_content=aon_general_paga_menos-bbdd-0",
         "img":  "img/meta-1139379295257699.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1139379295257699"
+        "url":  "https://www.facebook.com/ads/library/?id=1139379295257699",
+        "src":  "meta"
     },
     {
         "product":  "tarjeta",
@@ -987,7 +1076,8 @@ window.ADS = [
         "text":  "Tus CMR Puntos tienen mucho para darte 🙌 Canjea en productos, viajes, experiencias y mucho más. CMRPUNTOS.PE ¡Canjea lo que prefieras! Watch More CMRPUNTOS.PE ¡Canjea lo que prefieras! Watch More CMRPUNTOS.PE ¡Canjea lo que prefieras! Watch More CMRPUNTOS.PE ¡Canjea lo que prefieras! Watch More CMRPUNTOS.PE ¡Canjea lo que prefieras! Watch More CMRPUNTOS.PE ¡Canjea lo que prefieras! Watch More CMR",
         "landing":  "https://www.cmrpuntos.pe/institucional?utm_source=meta\u0026utm_medium=cpm\u0026utm_campaign=pe-ini-loyalty-%C2%B400053-aon_general_flexibilidad-meta-cpm\u0026utm_content=aon_general_flexibilidad-bbdd-0",
         "img":  "img/meta-1823606198947371.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1823606198947371"
+        "url":  "https://www.facebook.com/ads/library/?id=1823606198947371",
+        "src":  "meta"
     },
     {
         "product":  "tarjeta",
@@ -998,7 +1088,8 @@ window.ADS = [
         "text":  "Atentos porque este es el ÚLTIMO  Cyber del año Llevo semanas con mi carrito lleno esperando justo este momento… y ya llegó: desde hoy 2 de noviembre es el Cyber (el último del año OMG), con hasta 60% dto. en Falabella.com pagando con mi Tarjeta CMR. Y lo mejor: usando mis Tarjetas bancofalabella_pe en todos lados, participo por ser una de las 20 ganadoras de S/500 (son 20 ganadores) y acumulo x3 ",
         "landing":  "",
         "img":  "img/meta-1872270030440349.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1872270030440349"
+        "url":  "https://www.facebook.com/ads/library/?id=1872270030440349",
+        "src":  "meta"
     },
     {
         "product":  "tarjeta",
@@ -1009,7 +1100,8 @@ window.ADS = [
         "text":  "🚀 Convierte tus CMR Puntos en ahorro inmediato y completa la diferencia con tu Tarjeta CMR CMRPUNTOS.PE ✨ Renueva pagando menos Watch More CMRPUNTOS.PE ✨ Renueva pagando menos Watch More CMRPUNTOS.PE ✨ Renueva pagando menos Watch More CMRPUNTOS.PE ✨ Renueva pagando menos Watch More",
         "landing":  "https://www.cmrpuntos.pe/paga-menos-landing?utm_source=meta\u0026utm_medium=cpm\u0026utm_campaign=pe-ini-loyalty-%C2%B400053-aon_general_paga_menos-meta-cpm\u0026utm_content=aon_general_paga_menos-bbdd-0",
         "img":  "img/meta-1825803938559866.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1825803938559866"
+        "url":  "https://www.facebook.com/ads/library/?id=1825803938559866",
+        "src":  "meta"
     },
     {
         "product":  "tarjeta",
@@ -1020,6 +1112,1351 @@ window.ADS = [
         "text":  "🚀 Convierte tus CMR Puntos en ahorro inmediato y completa la diferencia con tu Tarjeta CMR ✨ Ahorra con CMR Puntos Watch More",
         "landing":  "https://www.cmrpuntos.pe/paga-menos-landing?utm_source=meta\u0026utm_medium=cpm\u0026utm_campaign=pe-ini-loyalty-%C2%B400053-aon_general_paga_menos-meta-cpm\u0026utm_content=aon_general_paga_menos-bbdd-0",
         "img":  "img/meta-1816219762807347.jpg",
-        "url":  "https://www.facebook.com/ads/library/?id=1816219762807347"
+        "url":  "https://www.facebook.com/ads/library/?id=1816219762807347",
+        "src":  "meta"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR05204693089288978433",
+        "adv":  "Santander Consumer",
+        "start":  "2026-11-04",
+        "fmt":  "texto",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR05204693089288978433.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR04008835380739571713/creative/CR05204693089288978433?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR14496885757949509633",
+        "adv":  "Santander Consumer",
+        "start":  "2026-11-04",
+        "fmt":  "texto",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR14496885757949509633.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR04008835380739571713/creative/CR14496885757949509633?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR12541546989583597569",
+        "adv":  "Santander Consumer",
+        "start":  "2026-10-09",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR12541546989583597569.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR04008835380739571713/creative/CR12541546989583597569?region=PE"
+    },
+    {
+        "product":  "credito_efectivo",
+        "src":  "google",
+        "id":  "CR06060775591454441473",
+        "adv":  "Banco Ripley",
+        "start":  "2026-10-15",
+        "fmt":  "texto",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR06060775591454441473.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR12120234981591089153/creative/CR06060775591454441473?region=PE"
+    },
+    {
+        "product":  "credito_efectivo",
+        "src":  "google",
+        "id":  "CR02492080805577228289",
+        "adv":  "Banco Ripley",
+        "start":  "2026-10-15",
+        "fmt":  "texto",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR02492080805577228289.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR12120234981591089153/creative/CR02492080805577228289?region=PE"
+    },
+    {
+        "product":  "credito_efectivo",
+        "src":  "google",
+        "id":  "CR07498922506934288385",
+        "adv":  "Banco Ripley",
+        "start":  "2026-10-17",
+        "fmt":  "texto",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR07498922506934288385.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR12120234981591089153/creative/CR07498922506934288385?region=PE"
+    },
+    {
+        "product":  "credito_efectivo",
+        "src":  "google",
+        "id":  "CR17719623058437701633",
+        "adv":  "Banco Ripley",
+        "start":  "2026-11-02",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR17719623058437701633.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR12120234981591089153/creative/CR17719623058437701633?region=PE"
+    },
+    {
+        "product":  "maxicash",
+        "src":  "google",
+        "id":  "CR10467561020976005121",
+        "adv":  "Banco Ripley",
+        "start":  "2026-11-02",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR10467561020976005121.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR12120234981591089153/creative/CR10467561020976005121?region=PE"
+    },
+    {
+        "product":  "credito_efectivo",
+        "src":  "google",
+        "id":  "CR00318048349812948993",
+        "adv":  "Banco Falabella",
+        "start":  "2026-10-14",
+        "fmt":  "texto",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR00318048349812948993.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR10597337297525407745/creative/CR00318048349812948993?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR13993897121393147905",
+        "adv":  "Banco Falabella",
+        "start":  "2026-11-02",
+        "fmt":  "texto",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR13993897121393147905.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR10597337297525407745/creative/CR13993897121393147905?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR18311636952471830529",
+        "adv":  "Banco Ripley",
+        "start":  "2026-11-02",
+        "fmt":  "imagen",
+        "text":  "¡Tu tarjeta en minutos! | Cyber WOW: Saca tu Tarjeta Banco Ripley y compra pagando menos",
+        "landing":  "",
+        "img":  "img/google-CR18311636952471830529.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR12120234981591089153/creative/CR18311636952471830529?region=PE"
+    },
+    {
+        "product":  "credito_efectivo",
+        "src":  "google",
+        "id":  "CR13297161891638935553",
+        "adv":  "Banco Ripley",
+        "start":  "2026-10-15",
+        "fmt":  "video",
+        "text":  "Súper Efectivo online | Solicítalo desde la app | Dinero desde la app",
+        "landing":  "",
+        "img":  null,
+        "url":  "https://adstransparency.google.com/advertiser/AR12120234981591089153/creative/CR13297161891638935553?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR16963275057004544001",
+        "adv":  "Banco Falabella",
+        "start":  "2026-11-02",
+        "fmt":  "video",
+        "text":  "Vive el Cyber Wow con tu CMR | Cyber WOW 2026 con tu CMR | Obtén tu CMR Visa 100% online",
+        "landing":  "",
+        "img":  null,
+        "url":  "https://adstransparency.google.com/advertiser/AR10597337297525407745/creative/CR16963275057004544001?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR12368895076720443393",
+        "adv":  "Banco Falabella",
+        "start":  "2026-10-06",
+        "fmt":  "imagen",
+        "text":  "Pide tu tarjeta de crédito CMR Visa aquí | ¡Obtenla hoy! Pídela rápido, fácil y seguro. Comienza a usarla al instante",
+        "landing":  "",
+        "img":  "img/google-CR12368895076720443393.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR10597337297525407745/creative/CR12368895076720443393?region=PE"
+    },
+    {
+        "product":  "dlp",
+        "src":  "google",
+        "id":  "CR07217620428427100161",
+        "adv":  "Scotiabank",
+        "start":  "2026-10-15",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR07217620428427100161.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR07217620428427100161?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR01402617614567473153",
+        "adv":  "Scotiabank",
+        "start":  "2026-10-28",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR01402617614567473153.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR01402617614567473153?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR12387460055677534209",
+        "adv":  "Scotiabank",
+        "start":  "2026-10-28",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR12387460055677534209.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR12387460055677534209?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR15022416581898534913",
+        "adv":  "Scotiabank",
+        "start":  "2026-10-22",
+        "fmt":  "video",
+        "text":  "Llévate la del 10 hoy | ¡No te quedes sin la del 10! Pide tu Mastercard Messi con 10 cuotas sin intereses. | ¡Es tu momento! Solicita la tarjeta de Messi y disfruta 10 cuotas sin intereses.",
+        "landing":  "",
+        "img":  null,
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR15022416581898534913?region=PE"
+    },
+    {
+        "product":  "dlp",
+        "src":  "google",
+        "id":  "CR17043665574791479297",
+        "adv":  "Scotiabank",
+        "start":  "2026-10-15",
+        "fmt":  "video",
+        "text":  "Pide el dinero que necesitas | Pide hoy el Préstamo Personal que necesitas directamente desde tu celular | Pide hoy tu préstamo desde tu celular de manera 100% digital.",
+        "landing":  "",
+        "img":  null,
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR17043665574791479297?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR04486457459409420289",
+        "adv":  "Scotiabank",
+        "start":  "2026-10-28",
+        "fmt":  "video",
+        "text":  "Pide tu Mastercard Messi | La magia del 10 llega a tu billetera con las nuevas Tarjetas Mastercard Messi. Pídela hoy | La magia de Messi llega a tu billetera. Descubre las nuevas Tarjetas Mastercard Messi.",
+        "landing":  "",
+        "img":  null,
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR04486457459409420289?region=PE"
+    },
+    {
+        "product":  "dlp",
+        "src":  "google",
+        "id":  "CR02147693147914764289",
+        "adv":  "Scotiabank",
+        "start":  "2026-10-15",
+        "fmt":  "video",
+        "text":  "Tienes un préstamo preaprobado | Pide hoy tu Préstamo Personal 100% digital sin salir de casa | Solicita tu Préstamo Personal hoy sin salir de casa.",
+        "landing":  "",
+        "img":  null,
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR02147693147914764289?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR01104863268695965697",
+        "adv":  "Scotiabank",
+        "start":  "2026-11-01",
+        "fmt":  "video",
+        "text":  "Solicítala antes de viajar | Haz tu jugada hoy: solicita la Mastercard Messi y accede a más de 1,000 Salas VIP. | ¡Haz espacio para la del 10! Pide tu tarjeta de edición limitada hoy mismo.",
+        "landing":  "",
+        "img":  null,
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR01104863268695965697?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR06461332075499749377",
+        "adv":  "Scotiabank",
+        "start":  "2026-11-01",
+        "fmt":  "video",
+        "text":  "Tu pase VIP comienza aquí | Haz tu jugada hoy: solicita la Mastercard Messi y accede a más de 1,000 Salas VIP. | ¡Haz espacio para la del 10! Pide tu tarjeta de edición limitada hoy mismo",
+        "landing":  "",
+        "img":  null,
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR06461332075499749377?region=PE"
+    },
+    {
+        "product":  "dlp",
+        "src":  "google",
+        "id":  "CR09195360371819413505",
+        "adv":  "Scotiabank",
+        "start":  "2026-10-17",
+        "fmt":  "video",
+        "text":  "Pide el dinero que necesitas | Pide hoy el Préstamo Personal que necesitas directamente desde tu celular | Pide hoy tu préstamo desde tu celular de manera 100% digital.",
+        "landing":  "",
+        "img":  null,
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR09195360371819413505?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR12732433478159695873",
+        "adv":  "Scotiabank",
+        "start":  "2026-11-03",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR12732433478159695873.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR12732433478159695873?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR05603798217985622017",
+        "adv":  "Scotiabank",
+        "start":  "2026-11-03",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR05603798217985622017.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR05603798217985622017?region=PE"
+    },
+    {
+        "product":  "dlp",
+        "src":  "google",
+        "id":  "CR03208739460904648705",
+        "adv":  "Scotiabank",
+        "start":  "2026-10-17",
+        "fmt":  "video",
+        "text":  "Aprovecha tu tasa preferencial | Obtén hoy tu Préstamo con tasa preferencial por recibir tu sueldo en Scotiabank | Solicita hoy tu Préstamo y aprovecha tu tasa preferencial.",
+        "landing":  "",
+        "img":  null,
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR03208739460904648705?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR09019078696195063809",
+        "adv":  "Scotiabank",
+        "start":  "2026-10-22",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR09019078696195063809.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR09019078696195063809?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR02217586628191322113",
+        "adv":  "Scotiabank",
+        "start":  "2026-10-30",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR02217586628191322113.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR02217586628191322113?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR04446824463274606593",
+        "adv":  "Scotiabank",
+        "start":  "2026-11-02",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR04446824463274606593.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR04446824463274606593?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR02363414305627439105",
+        "adv":  "Scotiabank",
+        "start":  "2026-10-30",
+        "fmt":  "texto",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR02363414305627439105.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR02363414305627439105?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR10717296670405558273",
+        "adv":  "Scotiabank",
+        "start":  "2026-10-07",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR10717296670405558273.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR10717296670405558273?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR01783991194120880129",
+        "adv":  "Scotiabank",
+        "start":  "2026-10-07",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR01783991194120880129.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR01783991194120880129?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR16638202794985127937",
+        "adv":  "Scotiabank",
+        "start":  "2026-10-30",
+        "fmt":  "video",
+        "text":  "Más beneficios en Cyber | Aprovecha promociones exclusivas y beneficios en cada compra | Pide tu Tarjeta de Crédito y aprovecha el Cyber con cuotas sin intereses",
+        "landing":  "",
+        "img":  null,
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR16638202794985127937?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR06801095462133694465",
+        "adv":  "Scotiabank",
+        "start":  "2026-10-22",
+        "fmt":  "video",
+        "text":  "¡Suma 10,000 Scotia Puntos! | Pide YA la Mastercard Messi de edición limitada y recibe 10,000 Scotia Puntos de regalo. | ¡Que no se te escape! Solicita la del 10 y recibe 10,000 Scotia Puntos de regalo.",
+        "landing":  "",
+        "img":  null,
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR06801095462133694465?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR11243575437139378177",
+        "adv":  "Scotiabank",
+        "start":  "2026-10-22",
+        "fmt":  "video",
+        "text":  "Pide tu Mastercard Messi | ¡No te quedes sin la del 10! Pide tu Mastercard Messi con 10 cuotas sin intereses. | ¡Es tu momento! Solicita la tarjeta de Messi y disfruta 10 cuotas sin intereses.",
+        "landing":  "",
+        "img":  null,
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR11243575437139378177?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR14110166077983948801",
+        "adv":  "Scotiabank",
+        "start":  "2026-10-28",
+        "fmt":  "video",
+        "text":  "La magia del 10 está aquí | La magia del 10 llega a tu billetera con las nuevas Tarjetas Mastercard Messi. Pídela hoy | La magia de Messi llega a tu billetera. Descubre las nuevas Tarjetas Mastercard Messi.",
+        "landing":  "",
+        "img":  null,
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR14110166077983948801?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR05693451846358663169",
+        "adv":  "Scotiabank",
+        "start":  "2026-10-22",
+        "fmt":  "video",
+        "text":  "¡Elige tu diseño y pídela! | Pide YA la Mastercard Messi de edición limitada y recibe 10,000 Scotia Puntos de regalo. | ¡Que no se te escape! Solicita la del 10 y recibe 10,000 Scotia Puntos de regalo.",
+        "landing":  "",
+        "img":  null,
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR05693451846358663169?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR08074266155423891457",
+        "adv":  "Scotiabank",
+        "start":  "2026-10-22",
+        "fmt":  "imagen",
+        "text":  "¡Pídela hoy! | Paga con tu nueva Tarjeta de Crédito Scotiabank en Wong y recibe S/100 de devolución",
+        "landing":  "",
+        "img":  "img/google-CR08074266155423891457.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR08074266155423891457?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR03447606987649449985",
+        "adv":  "Scotiabank",
+        "start":  "2026-10-22",
+        "fmt":  "video",
+        "text":  "Solicítala hoy | Disfruta hasta S/300 de dscto. con tu Tarjeta de Crédito Scotiabank | Solicita tu nueva Tarjeta de Crédito Scotiabank y obtén hasta S/300 en tu nuevo iPhone",
+        "landing":  "",
+        "img":  null,
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR03447606987649449985?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR07086304380332277761",
+        "adv":  "Scotiabank",
+        "start":  "2026-10-22",
+        "fmt":  "video",
+        "text":  "Más beneficios con Scotiabank | Recibe S/100 de devolución por compras desde S/500 con tu nueva Tarjeta de Crédito! | Con tu nueva Tarjeta de Crédito Scotiabank, compra desde S/500 en Wong y recibe S/100",
+        "landing":  "",
+        "img":  null,
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR07086304380332277761?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR16675899826021335041",
+        "adv":  "Scotiabank",
+        "start":  "2026-10-07",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR16675899826021335041.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR16675899826021335041?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR09771927501872824321",
+        "adv":  "Scotiabank",
+        "start":  "2026-10-22",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR09771927501872824321.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR09771927501872824321?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR12022858976250036225",
+        "adv":  "Scotiabank",
+        "start":  "2026-10-01",
+        "fmt":  "texto",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR12022858976250036225.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR12022858976250036225?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR16822108484236476417",
+        "adv":  "Scotiabank",
+        "start":  "2026-10-01",
+        "fmt":  "texto",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR16822108484236476417.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR16822108484236476417?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR07914192655582494721",
+        "adv":  "Scotiabank",
+        "start":  "2026-10-22",
+        "fmt":  "video",
+        "text":  "Solicítala hoy | Recibe S/100 de devolución por compras desde S/500 con tu nueva Tarjeta de Crédito! | Con tu nueva Tarjeta de Crédito Scotiabank, compra desde S/500 en Wong y recibe S/100",
+        "landing":  "",
+        "img":  null,
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR07914192655582494721?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR11473568255780585473",
+        "adv":  "Scotiabank",
+        "start":  "2026-10-12",
+        "fmt":  "texto",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR11473568255780585473.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR11473568255780585473?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR03205744391230586881",
+        "adv":  "Scotiabank",
+        "start":  "2026-10-15",
+        "fmt":  "texto",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR03205744391230586881.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR03205744391230586881?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR16598540112036364289",
+        "adv":  "Scotiabank",
+        "start":  "2026-10-22",
+        "fmt":  "video",
+        "text":  "Solicítala hoy | Disfruta hasta S/300 de dscto. con tu Tarjeta de Crédito Scotiabank | Compra con tu nueva Tarjeta de Crédito tu nuevo iPhone y aprovecha hasta S/300 de dscto.",
+        "landing":  "",
+        "img":  null,
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR16598540112036364289?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR02564479248219766785",
+        "adv":  "Scotiabank",
+        "start":  "2026-10-22",
+        "fmt":  "video",
+        "text":  "S/300 de dscto. | Pide tu Tarjeta de Crédito y recibe hasta S/300 de dscto. en tu nuevo iPhone 18 Pro | Con tu nueva Tarjeta de Crédito Scotiabank obtén hasta S/300 en tu nuevo iPhone",
+        "landing":  "",
+        "img":  null,
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR02564479248219766785?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR17195372615779221505",
+        "adv":  "Scotiabank",
+        "start":  "2026-10-22",
+        "fmt":  "imagen",
+        "text":  "Solicítala hoy | Con tu nueva Tarjeta de Crédito Scotiabank obtén hasta S/300 en tu nuevo iPhone",
+        "landing":  "",
+        "img":  "img/google-CR17195372615779221505.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR17195372615779221505?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR03100220961778040833",
+        "adv":  "Scotiabank",
+        "start":  "2026-10-05",
+        "fmt":  "imagen",
+        "text":  "Ve por tu Mastercard Messi | Súmate a la edición Messi y solicita hoy tu nueva Tarjeta Mastercard.",
+        "landing":  "",
+        "img":  "img/google-CR03100220961778040833.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR03100220961778040833?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR16651457682535874561",
+        "adv":  "Scotiabank",
+        "start":  "2026-10-05",
+        "fmt":  "video",
+        "text":  "Estrena la edición Messi | Lleva al 10 contigo y estrena una Tarjeta Mastercard Messi de edición limitada. | Lleva al 10 contigo con una Mastercard Messi de edición limitada.",
+        "landing":  "",
+        "img":  null,
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR16651457682535874561?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR01966632170122379265",
+        "adv":  "Scotiabank",
+        "start":  "2026-10-12",
+        "fmt":  "imagen",
+        "text":  "Tu próximo viaje con DSCTO. | ¡Viaja con Scotiabank! Disfruta US$500 de DSCTO. con tu Nueva Tarjeta de Crédito",
+        "landing":  "",
+        "img":  "img/google-CR01966632170122379265.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR13443903787223744513/creative/CR01966632170122379265?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR08978692534595223553",
+        "adv":  "BCP",
+        "start":  "2026-10-15",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR08978692534595223553.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR08707000316563816449/creative/CR08978692534595223553?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR09486864818720735233",
+        "adv":  "BCP",
+        "start":  "2026-10-31",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR09486864818720735233.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR09486864818720735233?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR12011596403768819713",
+        "adv":  "BCP",
+        "start":  "2026-10-30",
+        "fmt":  "texto",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR12011596403768819713.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR12011596403768819713?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR01128223492739694593",
+        "adv":  "BCP",
+        "start":  "2026-10-28",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR01128223492739694593.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR01128223492739694593?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR11017426786026782721",
+        "adv":  "BCP",
+        "start":  "2026-10-30",
+        "fmt":  "texto",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR11017426786026782721.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR11017426786026782721?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR08180449291853103105",
+        "adv":  "BCP",
+        "start":  "2026-10-30",
+        "fmt":  "texto",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR08180449291853103105.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR08180449291853103105?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR00767372572596633601",
+        "adv":  "BCP",
+        "start":  "2026-10-28",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR00767372572596633601.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR00767372572596633601?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR07708545498281410561",
+        "adv":  "BCP",
+        "start":  "2026-10-28",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR07708545498281410561.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR07708545498281410561?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR07581670652529082369",
+        "adv":  "BCP",
+        "start":  "2026-10-28",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR07581670652529082369.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR07581670652529082369?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR14127934185888808961",
+        "adv":  "BCP",
+        "start":  "2026-10-28",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR14127934185888808961.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR14127934185888808961?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR15352913284533583873",
+        "adv":  "BCP",
+        "start":  "2026-10-28",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR15352913284533583873.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR15352913284533583873?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR07168043174252773377",
+        "adv":  "BCP",
+        "start":  "2026-10-28",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR07168043174252773377.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR03504889851239464961/creative/CR07168043174252773377?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR06049461616804626433",
+        "adv":  "BCP",
+        "start":  "2026-10-28",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR06049461616804626433.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR03504889851239464961/creative/CR06049461616804626433?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR04643432535483744257",
+        "adv":  "BCP",
+        "start":  "2026-10-28",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR04643432535483744257.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR03504889851239464961/creative/CR04643432535483744257?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR14517317432772657153",
+        "adv":  "BCP",
+        "start":  "2026-11-01",
+        "fmt":  "texto",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR14517317432772657153.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR14517317432772657153?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR11171483758240989185",
+        "adv":  "BCP",
+        "start":  "2026-10-31",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR11171483758240989185.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR11171483758240989185?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR03527797669198036993",
+        "adv":  "BCP",
+        "start":  "2026-10-28",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR03527797669198036993.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR03527797669198036993?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR16359749276227600385",
+        "adv":  "BCP",
+        "start":  "2026-10-28",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR16359749276227600385.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR16359749276227600385?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR05177192654210859009",
+        "adv":  "BCP",
+        "start":  "2026-10-31",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR05177192654210859009.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR05177192654210859009?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR16199761538293170177",
+        "adv":  "BCP",
+        "start":  "2026-10-31",
+        "fmt":  "imagen",
+        "text":  "Conoce la Tarjeta BCP Qore | Descubre los beneficios de la Tarjeta de Crédito BCP Qore.",
+        "landing":  "",
+        "img":  "img/google-CR16199761538293170177.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR16199761538293170177?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR04885272591914237953",
+        "adv":  "BCP",
+        "start":  "2026-10-14",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR04885272591914237953.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR04885272591914237953?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR06781288035037216769",
+        "adv":  "BCP",
+        "start":  "2026-10-14",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR06781288035037216769.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR06781288035037216769?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR17050431969348812801",
+        "adv":  "BCP",
+        "start":  "2026-10-14",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR17050431969348812801.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR17050431969348812801?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR15141445312675053569",
+        "adv":  "BCP",
+        "start":  "2026-10-15",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR15141445312675053569.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR15141445312675053569?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR16136869748062289921",
+        "adv":  "BCP",
+        "start":  "2026-10-15",
+        "fmt":  "imagen",
+        "text":  "Tus beneficios Qore se renovaron | Disfruta tu entrada 2D a S/11.90 en Cinemark y revisa tu beneficio en el App del BCP.",
+        "landing":  "",
+        "img":  "img/google-CR16136869748062289921.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR07248005389311016961/creative/CR16136869748062289921?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR14725719141579227137",
+        "adv":  "BCP",
+        "start":  "2026-10-15",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR14725719141579227137.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR14904673755740504065/creative/CR14725719141579227137?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR00892086053366661121",
+        "adv":  "BCP",
+        "start":  "2026-10-16",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR00892086053366661121.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR14904673755740504065/creative/CR00892086053366661121?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR16363503283802734593",
+        "adv":  "BCP",
+        "start":  "2026-10-17",
+        "fmt":  "texto",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR16363503283802734593.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR14904673755740504065/creative/CR16363503283802734593?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR18052588439555014657",
+        "adv":  "BCP",
+        "start":  "2026-10-15",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR18052588439555014657.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR14904673755740504065/creative/CR18052588439555014657?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR15672403051140874241",
+        "adv":  "BCP",
+        "start":  "2026-10-16",
+        "fmt":  "texto",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR15672403051140874241.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR14904673755740504065/creative/CR15672403051140874241?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR01917785266546802689",
+        "adv":  "BCP",
+        "start":  "2026-10-17",
+        "fmt":  "texto",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR01917785266546802689.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR14904673755740504065/creative/CR01917785266546802689?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR08555381932290998273",
+        "adv":  "BCP",
+        "start":  "2026-10-07",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR08555381932290998273.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR14904673755740504065/creative/CR08555381932290998273?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR13750822863160475649",
+        "adv":  "BCP",
+        "start":  "2026-10-06",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR13750822863160475649.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR14904673755740504065/creative/CR13750822863160475649?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR11858877812083523585",
+        "adv":  "BCP",
+        "start":  "2026-10-07",
+        "fmt":  "video",
+        "text":  "Cada S/100 suma una opción para viajar​ | Serán 4 ganadores. Regístrate y participa por hasta 1 millón de Millas. ​ | Cada S/100 con tu Tarjeta de Crédito BCP LATAM Pass te da una opción para participar. ​",
+        "landing":  "",
+        "img":  null,
+        "url":  "https://adstransparency.google.com/advertiser/AR14904673755740504065/creative/CR11858877812083523585?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR09900550845991223297",
+        "adv":  "BCP",
+        "start":  "2026-10-07",
+        "fmt":  "imagen",
+        "text":  "Serán 4 ganadores de 1 millón de Millas | Usa tu Tarjeta de Crédito BCP LATAM Pass y participa por hasta 1 millón de Millas.",
+        "landing":  "",
+        "img":  "img/google-CR09900550845991223297.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR14904673755740504065/creative/CR09900550845991223297?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR07523007034262814721",
+        "adv":  "BCP",
+        "start":  "2026-10-01",
+        "fmt":  "video",
+        "text":  "Haz que cada compra te acerque a viajar | Cada S/100 con tu Tarjeta de Crédito BCP LATAM Pass te da una opción para participar. ​ | Serán 4 ganadores. Regístrate y participa por hasta 1 millón de Millas. ​",
+        "landing":  "",
+        "img":  null,
+        "url":  "https://adstransparency.google.com/advertiser/AR14904673755740504065/creative/CR07523007034262814721?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR09396186995266420737",
+        "adv":  "BBVA",
+        "start":  "2026-10-21",
+        "fmt":  "texto",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR09396186995266420737.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR09396186995266420737?region=PE"
+    },
+    {
+        "product":  "dlp",
+        "src":  "google",
+        "id":  "CR13705831671985602561",
+        "adv":  "BBVA",
+        "start":  "2026-10-26",
+        "fmt":  "imagen",
+        "text":  "Aprovecha tu nueva tasa | Hoy tienes mejores condiciones para tu préstamo digital negocio. Solicítalo ahora.",
+        "landing":  "",
+        "img":  "img/google-CR13705831671985602561.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR13705831671985602561?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR15393189494970646529",
+        "adv":  "BBVA",
+        "start":  "2026-10-14",
+        "fmt":  "texto",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR15393189494970646529.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR15393189494970646529?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR14577392823968989185",
+        "adv":  "BBVA",
+        "start":  "2026-10-14",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR14577392823968989185.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR14577392823968989185?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR13477747880408121345",
+        "adv":  "BBVA",
+        "start":  "2026-10-21",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR13477747880408121345.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR13477747880408121345?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR00474181199980396545",
+        "adv":  "BBVA",
+        "start":  "2026-10-23",
+        "fmt":  "texto",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR00474181199980396545.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR00474181199980396545?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR11367598149729255425",
+        "adv":  "BBVA",
+        "start":  "2026-10-21",
+        "fmt":  "texto",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR11367598149729255425.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR11367598149729255425?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR13210532469998092289",
+        "adv":  "BBVA",
+        "start":  "2026-10-15",
+        "fmt":  "video",
+        "text":  "Tarjeta de Crédito Bfree BBVA​ | Pide tu Tarjeta de Crédito Bfree BBVA y recibe desde 2,000 Puntos de bienvenida​",
+        "landing":  "",
+        "img":  null,
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR13210532469998092289?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR09752156083782156289",
+        "adv":  "BBVA",
+        "start":  "2026-10-22",
+        "fmt":  "imagen",
+        "text":  "Tarjeta de Crédito BBVA​ | Pide tu Tarjeta de Crédito BBVA y participa por uno de los 75 premios de 75,000 Puntos​",
+        "landing":  "",
+        "img":  "img/google-CR09752156083782156289.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR09752156083782156289?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR01342903412940865537",
+        "adv":  "BBVA",
+        "start":  "2026-10-16",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR01342903412940865537.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR01342903412940865537?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR01138962422808182785",
+        "adv":  "BBVA",
+        "start":  "2026-10-21",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR01138962422808182785.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR01138962422808182785?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR14106667706862272513",
+        "adv":  "BBVA",
+        "start":  "2026-10-16",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR14106667706862272513.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR14106667706862272513?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR09287864484087463937",
+        "adv":  "BBVA",
+        "start":  "2026-10-18",
+        "fmt":  "texto",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR09287864484087463937.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR09287864484087463937?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR03024620466397511681",
+        "adv":  "BBVA",
+        "start":  "2026-10-17",
+        "fmt":  "texto",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR03024620466397511681.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR03024620466397511681?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR10749338363384299521",
+        "adv":  "BBVA",
+        "start":  "2026-10-20",
+        "fmt":  "texto",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR10749338363384299521.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR10749338363384299521?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR06834102801199529985",
+        "adv":  "BBVA",
+        "start":  "2026-10-16",
+        "fmt":  "texto",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR06834102801199529985.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR06834102801199529985?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR06299418268071362561",
+        "adv":  "BBVA",
+        "start":  "2026-10-16",
+        "fmt":  "texto",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR06299418268071362561.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR06299418268071362561?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR02838582274344091649",
+        "adv":  "BBVA",
+        "start":  "2026-10-16",
+        "fmt":  "imagen",
+        "text":  "Solicita tu Tarjeta BBVA | Compras que disfrutas, con hasta 36 pagos sin intereses con tu Tarjeta de Crédito BBVA",
+        "landing":  "",
+        "img":  "img/google-CR02838582274344091649.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR02838582274344091649?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR09530368370663227393",
+        "adv":  "BBVA",
+        "start":  "2026-10-16",
+        "fmt":  "imagen",
+        "text":  "Solicita tu tarjeta BBVA | ¡Consigue tu tarjeta de crédito y aprovecha sus beneficios!",
+        "landing":  "",
+        "img":  "img/google-CR09530368370663227393.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR09530368370663227393?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR11052453927952842753",
+        "adv":  "BBVA",
+        "start":  "2026-10-22",
+        "fmt":  "imagen",
+        "text":  "Tarjeta de Crédito BBVA​ | Tu Tarjeta de Crédito BBVA puede venir con más. Participa por 75,000 Puntos​",
+        "landing":  "",
+        "img":  "img/google-CR11052453927952842753.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR11052453927952842753?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR14664269635726082049",
+        "adv":  "BBVA",
+        "start":  "2026-10-16",
+        "fmt":  "imagen",
+        "text":  "",
+        "landing":  "",
+        "img":  "img/google-CR14664269635726082049.png",
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR14664269635726082049?region=PE"
+    },
+    {
+        "product":  "tarjeta",
+        "src":  "google",
+        "id":  "CR13302826575545237505",
+        "adv":  "BBVA",
+        "start":  "2026-10-22",
+        "fmt":  "video",
+        "text":  "Tarjeta de Crédito BBVA​ | Con tu Tarjeta de Crédito BBVA puedes ser uno de los 75 ganadores de 75,000 Puntos​ | Pide tu Tarjeta de Crédito BBVA y participa por 75,000 Puntos para tus próximos planes​",
+        "landing":  "",
+        "img":  null,
+        "url":  "https://adstransparency.google.com/advertiser/AR03257582748117762049/creative/CR13302826575545237505?region=PE"
     }
 ];

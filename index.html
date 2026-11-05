@@ -29,7 +29,7 @@ h1{font-size:24px;margin:0}
 .filters button.on{border-color:var(--accent);color:var(--accent);font-weight:600}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:14px}
 .ad{background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden;display:flex;flex-direction:column}
-.ad img{width:100%;aspect-ratio:1/1;object-fit:cover;background:var(--chip);cursor:zoom-in;display:block}
+.ad img{width:100%;aspect-ratio:1/1;object-fit:contain;background:var(--chip);cursor:zoom-in;display:block}
 .ad .b{padding:12px;display:flex;flex-direction:column;gap:6px;flex:1}
 .ad .h{display:flex;justify-content:space-between;gap:8px;font-size:13px}
 .ad .h b{font-size:14px}
@@ -46,26 +46,27 @@ footer{margin-top:28px;color:var(--muted);font-size:12.5px}
 <div class="wrap">
 <header>
 <h1>Anuncios de la competencia · productos Sip</h1>
-<p>Meta Ad Library · Perú · anuncios activos de bancos y financieras, capturados el 5 nov 2026. Una pestaña por producto de Sip con los anuncios equivalentes de la competencia.</p>
+<p>Meta Ad Library y Google Ads Transparency · Perú · anuncios de bancos y financieras capturados el 5 nov 2026 (Meta: activos; Google: mostrados por primera vez desde el 1 oct). Una pestaña por producto de Sip con los anuncios equivalentes de la competencia.</p>
 </header>
 <nav class="tabs" id="tabs" role="tablist"></nav>
 <section id="intro" class="intro"></section>
+<div class="filters" id="srcf"></div>
 <div class="filters" id="filters"></div>
 <div class="grid" id="grid"></div>
-<footer>Fuente: Meta Ad Library (facebook.com/ads/library), búsquedas por palabra clave del producto filtradas a anunciantes financieros. No incluye Interbank (Grupo Intercorp). Haz clic en la imagen para ampliarla, o en "Ver en Meta" para abrir el anuncio original.</footer>
+<footer>Fuentes: Meta Ad Library (búsquedas por palabra clave del producto, filtradas a anunciantes financieros) y Google Ads Transparency Center (todos los anuncios de bancoripley.com.pe, bancofalabella.pe, bbva.pe, viabcp.com, scotiabank.com.pe y santanderconsumer.com.pe, clasificados por su texto o leyendo la pieza). En Google no se revisaron los videos de BBVA, BCP y Scotiabank sin texto (YouTube bloqueado en la red). No incluye Interbank (Grupo Intercorp). Haz clic en la imagen para ampliarla, o en el link para abrir el anuncio original.</footer>
 </div>
 <div class="lb" id="lb"><img alt=""></div>
 <script src="data.js"></script>
 <script>
 const P = [
- {id:'credito_efectivo', name:'Crédito Efectivo', sip:'Sip · Crédito Efectivo: préstamo en cuotas de hasta S/50,000 para clientes con tarjeta, abonado en cuenta.', comp:'Equivalentes: Súper Efectivo y Préstamo Efectivo desde la app de Banco Ripley, Préstamo Efectivo de BanBif.'},
+ {id:'credito_efectivo', name:'Crédito Efectivo', sip:'Sip · Crédito Efectivo: préstamo en cuotas de hasta S/50,000 para clientes con tarjeta, abonado en cuenta.', comp:'Equivalentes: Súper Efectivo y Préstamo Efectivo desde la app de Banco Ripley, Préstamo Efectivo de BanBif (Meta) y "Pide tu Efectivo en 2 min" de Banco Falabella (Google).'},
  {id:'maxicash', name:'Maxicash', sip:'Sip · Maxicash (disposición de efectivo): retira efectivo de la línea de tu Tarjeta de Crédito Sip, hasta 48 cuotas.', comp:'Equivalentes: Efectivo Express de Banco Ripley, Efectivo Cuotas de BBVA, "saldo de tarjeta a efectivo" de Financiera Ineed.'},
- {id:'tarjeta', name:'Tarjeta de Crédito', sip:'Sip · Tarjeta de Crédito: solicitud 100% web, S/50 de cashback en la primera compra y membresía gratis el primer año.', comp:'Equivalentes: BBVA (sin membresía 1 año, puntos de bienvenida), Banco Ripley, Banco Falabella / CMR, Santander Consumer, Scotiabank.'},
+ {id:'tarjeta', name:'Tarjeta de Crédito', sip:'Sip · Tarjeta de Crédito: solicitud 100% web, S/50 de cashback en la primera compra y membresía gratis el primer año.', comp:'Equivalentes: BBVA (sin membresía 1 año, Bfree, puntos de bienvenida), Banco Ripley, Banco Falabella / CMR, Santander Consumer, Scotiabank (Mastercard Messi, 10 cuotas sin intereses) y BCP (Qore y LATAM Pass, en Google).'},
  {id:'garantia', name:'Sip con Garantía', sip:'Sip · Tarjeta de Crédito con Garantía: para quien no tiene historial; la línea se respalda con un depósito.', comp:'No hay tarjetas con garantía (depósito) anunciadas en Meta por la competencia. Lo más cercano es la Tarjeta Start de BBVA, sin historial crediticio.'},
- {id:'dlp', name:'DLP · Préstamo libre disposición', sip:'Sip · Préstamo Personal (DLP): hasta S/25,000 en 36 cuotas, sin necesidad de tener Tarjeta Sip.', comp:'Equivalentes: "Compra en cuotas sin tarjeta" (Préstamo Efectivo online) de Banco Ripley, Préstamo Personal de Santander Consumer y BCP (preaprobado vía WhatsApp), crédito de libre disponibilidad de Financiera QAPAQ.'}
+ {id:'dlp', name:'DLP · Préstamo libre disposición', sip:'Sip · Préstamo Personal (DLP): hasta S/25,000 en 36 cuotas, sin necesidad de tener Tarjeta Sip.', comp:'Equivalentes: "Compra en cuotas sin tarjeta" (Préstamo Efectivo online) de Banco Ripley, Préstamo Personal de Santander Consumer y BCP (preaprobado vía WhatsApp), crédito de libre disponibilidad de Financiera QAPAQ, y Préstamo Personal 100% digital de Scotiabank (Google).'}
 ];
 const ADS = window.ADS || [];
-let cur = P[0].id, adv = 'Todos';
+let cur = P[0].id, adv = 'Todos', src = 'todas';
 const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const fmtDate = d => { const m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(d||''); return m ? `${+m[3]} ${['ene','feb','mar','abr','may','jun','jul','ago','sep','oct','nov','dic'][+m[2]-1]}` : (d||''); };
 function render(){
@@ -73,7 +74,13 @@ function render(){
   tabs.innerHTML = P.map(p => `<button class="tab" role="tab" aria-selected="${p.id===cur}" data-id="${p.id}"><b>${esc(p.name)}</b><span>${ADS.filter(a=>a.product===p.id).length}</span></button>`).join('');
   tabs.querySelectorAll('.tab').forEach(b => b.onclick = () => { cur = b.dataset.id; adv = 'Todos'; render(); });
   const p = P.find(x => x.id === cur);
-  const list = ADS.filter(a => a.product === cur).sort((a,b) => (b.start||'').localeCompare(a.start||''));
+  const inTab = ADS.filter(a => a.product === cur);
+  const nSrc = s => inTab.filter(a => (a.src||'meta') === s).length;
+  const sf = document.getElementById('srcf');
+  sf.innerHTML = [['todas','Todas las fuentes',inTab.length],['meta','Meta',nSrc('meta')],['google','Google',nSrc('google')]]
+    .map(([k,l,n]) => `<button class="${k===src?'on':''}" data-s="${k}">${l} · ${n}</button>`).join('');
+  sf.querySelectorAll('button').forEach(b => b.onclick = () => { src = b.dataset.s; adv = 'Todos'; render(); });
+  const list = inTab.filter(a => src === 'todas' || (a.src||'meta') === src).sort((a,b) => (b.start||'').localeCompare(a.start||''));
   const counts = {}; list.forEach(a => counts[a.adv] = (counts[a.adv]||0) + 1);
   const ranked = Object.entries(counts).sort((a,b) => b[1]-a[1]);
   document.getElementById('intro').innerHTML = `<h2>${esc(p.name)}</h2><p><b>${esc(p.sip)}</b></p><p>${esc(p.comp)}</p>
@@ -84,9 +91,9 @@ function render(){
   const shown = adv === 'Todos' ? list : list.filter(a => a.adv === adv);
   document.getElementById('grid').innerHTML = shown.length ? shown.map(a => `<article class="ad">
     ${a.img ? `<img loading="lazy" src="${esc(a.img)}" alt="Anuncio de ${esc(a.adv)}">` : ''}
-    <div class="b"><div class="h"><b>${esc(a.adv)}</b><span class="m">${esc(fmtDate(a.start))} · ${esc(a.fmt)}</span></div>
-    <div class="t">${esc(a.text)}</div>
-    <a href="${esc(a.url)}" target="_blank" rel="noopener">Ver en Meta ↗</a></div></article>`).join('')
+    <div class="b"><div class="h"><b>${esc(a.adv)}</b><span class="m">${(a.src||'meta')==='google'?'Google':'Meta'} · ${esc(fmtDate(a.start))} · ${esc(a.fmt)}</span></div>
+    <div class="t">${esc(a.text || (a.img ? '' : 'Video sin texto disponible: ábrelo en Google.'))}</div>
+    <a href="${esc(a.url)}" target="_blank" rel="noopener">Ver en ${(a.src||'meta')==='google'?'Google':'Meta'} ↗</a></div></article>`).join('')
     : `<div class="empty">Sin anuncios de la competencia para este producto.</div>`;
   document.querySelectorAll('.ad img').forEach(i => i.onclick = () => { const lb = document.getElementById('lb'); lb.querySelector('img').src = i.src; lb.classList.add('on'); });
 }
