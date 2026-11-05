@@ -46,14 +46,14 @@ footer{margin-top:28px;color:var(--muted);font-size:12.5px}
 <div class="wrap">
 <header>
 <h1>Anuncios de la competencia · productos Sip</h1>
-<p>Meta Ad Library y Google Ads Transparency · Perú · anuncios de bancos y financieras capturados el 5 nov 2026 (Meta: activos; Google: mostrados por primera vez desde el 1 oct). Una pestaña por producto de Sip con los anuncios equivalentes de la competencia.</p>
+<p>Meta Ad Library y Google Ads Transparency · Perú · anuncios de bancos, financieras, Interbank y cajas municipales capturados el 5 nov 2026 (Meta: activos; Google: mostrados por primera vez desde el 1 oct). Una pestaña por producto de Sip con los anuncios equivalentes de la competencia.</p>
 </header>
 <nav class="tabs" id="tabs" role="tablist"></nav>
 <section id="intro" class="intro"></section>
 <div class="filters" id="srcf"></div>
 <div class="filters" id="filters"></div>
 <div class="grid" id="grid"></div>
-<footer>Fuentes: Meta Ad Library (búsquedas por palabra clave del producto, filtradas a anunciantes financieros) y Google Ads Transparency Center (todos los anuncios de bancoripley.com.pe, bancofalabella.pe, bbva.pe, viabcp.com, scotiabank.com.pe y santanderconsumer.com.pe, clasificados por su texto o leyendo la pieza). En Google no se revisaron los videos de BBVA, BCP y Scotiabank sin texto (YouTube bloqueado en la red). No incluye Interbank (Grupo Intercorp). Haz clic en la imagen para ampliarla, o en el link para abrir el anuncio original.</footer>
+<footer>Fuentes: Meta Ad Library (búsquedas por palabra clave del producto, filtradas a anunciantes financieros) y Google Ads Transparency Center (todos los anuncios de bancoripley.com.pe, bancofalabella.pe, bbva.pe, viabcp.com, scotiabank.com.pe y santanderconsumer.com.pe, clasificados por su texto o leyendo la pieza). Interbank y cajas municipales (Arequipa, Piura, Cusco, Trujillo, Ica y Metropolitana de Lima): todos los anuncios activos de su página oficial en Meta, clasificados por texto; se excluyen páginas que suplantan a Interbank. Pendiente: Google de Interbank y cajas. En Google no se revisaron los videos de BBVA, BCP y Scotiabank sin texto (YouTube bloqueado en la red). Haz clic en la imagen para ampliarla, o en el link para abrir el anuncio original.</footer>
 </div>
 <div class="lb" id="lb"><img alt=""></div>
 <script src="data.js"></script>
@@ -61,9 +61,9 @@ footer{margin-top:28px;color:var(--muted);font-size:12.5px}
 const P = [
  {id:'credito_efectivo', name:'Crédito Efectivo', sip:'Sip · Crédito Efectivo: préstamo en cuotas de hasta S/50,000 para clientes con tarjeta, abonado en cuenta.', comp:'Equivalentes: Súper Efectivo y Préstamo Efectivo desde la app de Banco Ripley, Préstamo Efectivo de BanBif (Meta) y "Pide tu Efectivo en 2 min" de Banco Falabella (Google).'},
  {id:'maxicash', name:'Maxicash', sip:'Sip · Maxicash (disposición de efectivo): retira efectivo de la línea de tu Tarjeta de Crédito Sip, hasta 48 cuotas.', comp:'Equivalentes: Efectivo Express de Banco Ripley, Efectivo Cuotas de BBVA, "saldo de tarjeta a efectivo" de Financiera Ineed.'},
- {id:'tarjeta', name:'Tarjeta de Crédito', sip:'Sip · Tarjeta de Crédito: solicitud 100% web, S/50 de cashback en la primera compra y membresía gratis el primer año.', comp:'Equivalentes: BBVA (sin membresía 1 año, Bfree, puntos de bienvenida), Banco Ripley, Banco Falabella / CMR, Santander Consumer, Scotiabank (Mastercard Messi, 10 cuotas sin intereses) y BCP (Qore y LATAM Pass, en Google).'},
- {id:'garantia', name:'Sip con Garantía', sip:'Sip · Tarjeta de Crédito con Garantía: para quien no tiene historial; la línea se respalda con un depósito.', comp:'No hay tarjetas con garantía (depósito) anunciadas en Meta por la competencia. Lo más cercano es la Tarjeta Start de BBVA, sin historial crediticio.'},
- {id:'dlp', name:'DLP · Préstamo libre disposición', sip:'Sip · Préstamo Personal (DLP): hasta S/25,000 en 36 cuotas, sin necesidad de tener Tarjeta Sip.', comp:'Equivalentes: "Compra en cuotas sin tarjeta" (Préstamo Efectivo online) de Banco Ripley, Préstamo Personal de Santander Consumer y BCP (preaprobado vía WhatsApp), crédito de libre disponibilidad de Financiera QAPAQ, y Préstamo Personal 100% digital de Scotiabank (Google).'}
+ {id:'tarjeta', name:'Tarjeta de Crédito', sip:'Sip · Tarjeta de Crédito: solicitud 100% web, S/50 de cashback en la primera compra y membresía gratis el primer año.', comp:'Equivalentes: BBVA (sin membresía 1 año, Bfree, puntos de bienvenida), Banco Ripley, Banco Falabella / CMR, Santander Consumer, Scotiabank (Mastercard Messi, 10 cuotas sin intereses), BCP (Qore y LATAM Pass, en Google), Interbank (hasta 36 cuotas sin intereses en Días WoW) y Caja Piura.'},
+ {id:'garantia', name:'Sip con Garantía', sip:'Sip · Tarjeta de Crédito con Garantía: para quien no tiene historial; la línea se respalda con un depósito.', comp:'Nadie anuncia una tarjeta con garantía. Los equivalentes más cercanos son créditos respaldados por un depósito: Préstamo con Garantía Líquida de Interbank y Crédito Garantía Plazo Fijo de Caja Piura (hasta 90% del depósito). Para clientes sin historial: Tarjeta Start de BBVA.'},
+ {id:'dlp', name:'DLP · Préstamo libre disposición', sip:'Sip · Préstamo Personal (DLP): hasta S/25,000 en 36 cuotas, sin necesidad de tener Tarjeta Sip.', comp:'Equivalentes: "Compra en cuotas sin tarjeta" (Préstamo Efectivo online) de Banco Ripley, Préstamo Personal de Santander Consumer y BCP (preaprobado vía WhatsApp), crédito de libre disponibilidad de Financiera QAPAQ, Préstamo Personal 100% digital de Scotiabank (Google), Crédito por Convenio de Interbank y Caja Metropolitana, créditos de consumo de Caja Arequipa y Credipersona / Credifácil de Caja Piura.'}
 ];
 const ADS = window.ADS || [];
 let cur = P[0].id, adv = 'Todos', src = 'todas';

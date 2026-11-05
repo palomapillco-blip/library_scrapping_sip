@@ -15,7 +15,7 @@ Crédito Efectivo, Maxicash, Tarjeta de Crédito, Sip con Garantía y DLP (prés
 - **Google:** todos los anuncios mostrados por primera vez desde el 1 oct 2026 en los dominios bancoripley.com.pe,
   bancofalabella.pe, bbva.pe, viabcp.com, scotiabank.com.pe y santanderconsumer.com.pe. Se clasificaron por su texto y,
   cuando el anuncio no trae texto, leyendo la pieza.
-- No incluye Interbank (Grupo Intercorp).
+- **Interbank y cajas municipales** (Arequipa, Piura, Cusco, Trujillo, Ica, Metropolitana): todos los anuncios activos de su página oficial en Meta, clasificados por texto. Se excluyen páginas que suplantan a Interbank. Google de Interbank y cajas queda pendiente (Google bloqueó temporalmente la IP).
 
 ## Limitaciones
 
